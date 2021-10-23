@@ -10,8 +10,8 @@ theme = ["docsy"]
 enableGitInfo = true
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+contentDir = "content/de"
+defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -56,13 +56,13 @@ anchor = "smart"
 title = "FieldMApp"
 description = "FieldMapp"
 languageName ="English"
+contentDir = "content/en"
 # Weight used for sorting.
 weight = 1
 [languages.de]
 title = "FieldMapp"
 description = "FieldMapp"
 languageName ="Deutsch"
-contentDir = "content/de"
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 
