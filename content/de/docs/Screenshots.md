@@ -8,4 +8,4 @@ description: >-
 
 ## Screenshots
 
-![Example image](/static/screenshots/Screenshot_Login.jpg)
+![Example image](/screenshots/Screenshot_Login.jpg)
