@@ -1,5 +1,4 @@
 
-
 ---
 title: "Nutzerübersicht - 1.2.1 Öffnen nach Installation des Rahmens"
 linkTitle: "1.2.1 Öffnen nach Installation"
