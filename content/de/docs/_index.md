@@ -2,9 +2,10 @@
 ---
 title: "Dokumentation"
 linkTitle: "Dokumentation"
-weight: 100
-description: >-
-     Bildschirmfotos von verschiedenen App-Seiten.
+weight: 20
+menu:
+  main:
+    weight: 20
 ---
 
 {{% pageinfo %}}
