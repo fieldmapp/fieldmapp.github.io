@@ -4,7 +4,7 @@ title: "Nutzerübersicht"
 linkTitle: "Nutzerübersicht"
 weight: 100
 description: >-
-     Alles relevante für die Endnutzer der FieldMApp.
+     Alles Relevante für die Endnutzer der FieldMApp.
 ---
 
 {{% pageinfo %}}
