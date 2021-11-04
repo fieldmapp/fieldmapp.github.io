@@ -1,7 +1,6 @@
 
 ---
 title: "Nutzerübersicht - 1.3.3 Nutzer abmelden"
-linkTitle: "1.3.3 Nutzer abmelden"
 weight: 100
 ---
 

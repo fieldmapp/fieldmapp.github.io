@@ -1,7 +1,6 @@
 
 ---
 title: "Nutzerübersicht - 1.9 Projekt Update"
-linkTitle: "1.9 Projekt Update"
 weight: 100
 ---
 

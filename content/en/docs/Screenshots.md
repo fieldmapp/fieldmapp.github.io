@@ -1,12 +1,9 @@
 ---
 title: "Screenshots"
-linkTitle: "Screenshots"
 weight: 100
 description: >-
      Screenshots of different app views.
 ---
-
-## Screenshots
 
 ### Login
 

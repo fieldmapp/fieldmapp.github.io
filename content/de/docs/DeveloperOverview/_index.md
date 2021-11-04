@@ -1,7 +1,6 @@
 
 ---
 title: "Entwicklerübersicht"
-linkTitle: "Entwicklerübersicht"
 weight: 100
 description: >-
      Alles Relevante für die Weiterentwicklung der FieldMApp.
