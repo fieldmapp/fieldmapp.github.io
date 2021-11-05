@@ -2,8 +2,7 @@
 ---
 title: "Nutzerübersicht - 1.3.3 Nutzer abmelden"
 linkTitle: "Abmelden"
-weight: 3
-00
+weight: 300
 ---
 
 | Arbeitsschritte | Veranschaulichung |
