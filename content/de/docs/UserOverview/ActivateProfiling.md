@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 1.8 Profiling aktivieren"
+title: "Nutzerübersicht - Profiling aktivieren"
 linkTitle: "Profiling aktivieren"
 weight: 800
 ---

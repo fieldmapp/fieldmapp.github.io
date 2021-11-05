@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 1.3.4 Nutzer wechseln"
+title: "Nutzerübersicht - Nutzer wechseln"
 linkTitle: "Wechseln"
 weight: 400
 ---

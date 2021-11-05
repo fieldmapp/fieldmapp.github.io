@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 2.1 Datenexport"
+title: "Nutzerübersicht - Datenexport"
 linkTitle: "Datenexport"
 weight: 20100
 ---

@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 1.1 Installation"
+title: "Nutzerübersicht - Installation"
 linkTitle: "Installation"
 weight: 100
 ---

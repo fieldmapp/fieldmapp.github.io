@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 2.2 FieldMApp zurücksetzen"
+title: "Nutzerübersicht - FieldMApp zurücksetzen"
 linkTitle: "FieldMApp zurücksetzen"
 weight: 20200
 ---

@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 1.3.5 Nutzer löschen"
+title: "Nutzerübersicht - Nutzer löschen"
 linkTitle: "Löschen"
 weight: 500
 ---

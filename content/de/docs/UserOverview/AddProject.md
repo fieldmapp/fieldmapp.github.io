@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 1.5 Projekt hinzufügen"
+title: "Nutzerübersicht - Projekt hinzufügen"
 linkTitle: "Projekt hinzufügen"
 weight: 500
 ---

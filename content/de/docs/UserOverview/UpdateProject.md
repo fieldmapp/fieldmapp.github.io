@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 1.9 Projekt Update"
+title: "Nutzerübersicht - Projekt Update"
 linkTitle: "Projekt aktualisieren"
 weight: 900
 ---

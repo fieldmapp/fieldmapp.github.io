@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 1.2.2 Starten der FieldMApp aus der Liste der Anwendungen"
+title: "Nutzerübersicht - Starten der FieldMApp aus der Liste der Anwendungen"
 linkTitle: "Aus der Liste der Anwendungen"
 weight: 200
 ---

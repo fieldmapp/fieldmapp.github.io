@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 1.3.2 Nutzer anmelden"
+title: "Nutzerübersicht - Nutzer anmelden"
 linkTitle: "Anmelden"
 weight: 200
 ---

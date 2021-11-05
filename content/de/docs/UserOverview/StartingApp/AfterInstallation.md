@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 1.2.1 Öffnen nach Installation des Rahmens"
+title: "Nutzerübersicht - Öffnen nach Installation des Rahmens"
 linkTitle: "Nach der Installation"
 weight: 100
 ---

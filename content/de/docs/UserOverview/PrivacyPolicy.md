@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 1.4 Datenschutzerklärung"
+title: "Nutzerübersicht - Datenschutzerklärung"
 linkTitle: "Datenschutzerklärung"
 weight: 400
 ---

@@ -1,6 +1,6 @@
 
 ---
-title: "Nutzerübersicht - 1.2.3 FieldMApp Zugriffe zulassen"
+title: "Nutzerübersicht - FieldMApp Zugriffe zulassen"
 linkTitle: "Berechtigungen"
 weight: 300
 ---
