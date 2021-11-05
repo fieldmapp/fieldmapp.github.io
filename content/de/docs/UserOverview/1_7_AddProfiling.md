@@ -1,6 +1,7 @@
 
 ---
 title: "Nutzerübersicht - 1.7 Profiling Modul zum Projekt hinzufügen"
+linkTitle: "Profiling hinzufügen"
 weight: 100
 ---
 

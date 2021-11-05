@@ -1,6 +1,7 @@
 
 ---
 title: "Module - Projekte: Entwickler"
+linkTitle: "Entwickler"
 weight: 100
 description: >-
      Informationen über die Software-Umsetzung der Projekte.

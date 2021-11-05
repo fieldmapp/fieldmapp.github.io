@@ -1,6 +1,7 @@
 
 ---
 title: "Nutzerübersicht - 1.10 Projekt löschen"
+linkTitle: "Projekt löschen"
 weight: 100
 ---
 

@@ -1,6 +1,7 @@
 
 ---
 title: "Module - Fahrtansicht: Projektmanager"
+linkTitle: "Projektmanager"
 weight: 100
 description: >-
      Informationen zur Nutzung der Fartansicht und den damit gewonnen Daten.

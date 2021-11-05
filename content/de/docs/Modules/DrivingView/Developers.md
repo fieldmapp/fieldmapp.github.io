@@ -1,6 +1,7 @@
 
 ---
 title: "Module - Fahrtansicht: Entwickler"
+linkTitle: "Entwickler"
 weight: 100
 description: >-
      Informationen über die Software-Umsetzung der Fartansicht.

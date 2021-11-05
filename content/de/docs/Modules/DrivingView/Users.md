@@ -1,6 +1,7 @@
 
 ---
 title: "Module - Fahrtansicht: Nutzerübersicht"
+linkTitle: "Nutzer"
 weight: 100
 description: >-
      Informationen für die Nutzer der Fartansicht.

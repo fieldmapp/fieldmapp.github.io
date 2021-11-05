@@ -1,6 +1,7 @@
 
 ---
 title: "Nutzerübersicht - 1.6 Projekt aktivieren"
+linkTitle: "Projekt aktivieren"
 weight: 100
 ---
 

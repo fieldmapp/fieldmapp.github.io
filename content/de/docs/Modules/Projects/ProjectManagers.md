@@ -1,6 +1,7 @@
 
 ---
 title: "Module - Projekte: Projektmanager"
+linkTitle: "Projektmanager"
 weight: 100
 description: >-
      Informationen zur Nutzung der Projekte und den damit gewonnen Daten.

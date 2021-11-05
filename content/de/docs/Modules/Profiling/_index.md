@@ -1,6 +1,7 @@
 
 ---
 title: "Module - Profiling"
+linkTitle: "Profiling"
 weight: 100
 description: >-
      Modul zur Einschätzung von Nutzerkentnissen anhand von mehreren vorgegebenen Fragekategorien.

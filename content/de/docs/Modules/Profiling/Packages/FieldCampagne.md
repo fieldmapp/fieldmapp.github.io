@@ -1,7 +1,8 @@
 
 
 ---
-title: "Module - Profiling: FieldCampagne-Profiling"
+title: "Module - Profiling: FieldCampagne"
+linkTitle: "FeldKampagne"
 weight: 100
 description: >-
      Paket für TODO.

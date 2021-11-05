@@ -1,6 +1,7 @@
 
 ---
 title: "Nutzerübersicht - 1.3.1 Neues Profil anlegen"
+linkTitle: "Profil anlegen"
 weight: 100
 ---
 
