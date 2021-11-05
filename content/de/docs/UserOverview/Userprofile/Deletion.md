@@ -1,8 +1,8 @@
 
 ---
 title: "Nutzerübersicht - 1.3.5 Nutzer löschen"
-linkTitle: "Nutzer löschen"
-weight: 100
+linkTitle: "Löschen"
+weight: 500
 ---
 
 | Arbeitsschritte | Veranschaulichung |

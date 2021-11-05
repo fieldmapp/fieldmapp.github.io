@@ -2,7 +2,7 @@
 ---
 title: "Nutzerübersicht - 2.2 FieldMApp zurücksetzen"
 linkTitle: "FieldMApp zurücksetzen"
-weight: 100
+weight: 20200
 ---
 
 | Arbeitsschritte | Veranschaulichung |

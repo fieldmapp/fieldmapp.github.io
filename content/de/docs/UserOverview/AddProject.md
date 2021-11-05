@@ -2,7 +2,7 @@
 ---
 title: "Nutzerübersicht - 1.5 Projekt hinzufügen"
 linkTitle: "Projekt hinzufügen"
-weight: 100
+weight: 500
 ---
 
 | Arbeitsschritte | Veranschaulichung |

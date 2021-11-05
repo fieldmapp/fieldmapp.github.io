@@ -2,7 +2,7 @@
 ---
 title: "Nutzerübersicht - 1.6 Projekt aktivieren"
 linkTitle: "Projekt aktivieren"
-weight: 100
+weight: 600
 ---
 
 | Arbeitsschritte | Veranschaulichung |

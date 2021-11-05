@@ -2,7 +2,7 @@
 ---
 title: "Nutzerübersicht - 1.4 Datenschutzerklärung"
 linkTitle: "Datenschutzerklärung"
-weight: 100
+weight: 400
 ---
 
 | Arbeitsschritte | Veranschaulichung |
