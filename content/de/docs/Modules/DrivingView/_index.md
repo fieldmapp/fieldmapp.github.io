@@ -1,6 +1,7 @@
 
 ---
 title: "Module - Fahrtansicht"
+linkTitle: "Fahrtansicht"
 weight: 100
 description: >-
      Modul zur nutzergestützen Kartierung von landwirtschaftlichen Minderertragsflächen, welches während der Fahrt im Traktor genutzt wird.
