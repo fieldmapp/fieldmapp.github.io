@@ -52,50 +52,50 @@ Sprachen werden unterstützt, jedoch muss die `"Languages"`-Liste in jeder `.odk
 
 | Feldname | Unterstützung |
 | ------ | ------ |
-| Data Name | :heavy_check_mark: |
-| Label | :heavy_check_mark: |
-| Hints | :heavy_check_mark: (komplett) In der App abrufbar über "Hinweis"-Knopf |
-| Default Value | :x: |
-| Read Only | :x: |
-| Required | :heavy_check_mark: |
-| Invalid Text | :x: |
-| Show question if | :heavy_check_mark: (Einschränkungen siehe "Formeln" weiter unten) |
+| Data Name | ✔ |
+| Label | ✔ |
+| Hints | ✔ (komplett) In der App abrufbar über "Hinweis"-Knopf |
+| Default Value | ❌ |
+| Read Only | ❌ |
+| Required | ✔ |
+| Invalid Text | ❌ |
+| Show question if | ✔ (Einschränkungen siehe "Formeln" weiter unten) |
 | Constraint | :question: (Darf keine Referenzen auf andere Elemente, sondern nur auf sich selbst via der "."-Notation haben. Weitere einschränkungen siehe "Formeln" weiter unten) |
-| Constraint Invalid Text | :x: |
-| Calculate | :x: |
+| Constraint Invalid Text | ❌ |
+| Calculate | ❌ |
 
 ### Text-Felder
 
 | Feldname | Unterstützung |
 | ------ | ------ |
-| Length | :heavy_check_mark: (komplett) |
+| Length | ✔ (komplett) |
 
 ### Numeric-Felder
 
 | Feldname | Unterstützung |
 | ------ | ------ |
-| Valid Range | :heavy_check_mark: (komplett) |
-| Style | :x: |
-| Kind | :x: |
+| Valid Range | ✔ (komplett) |
+| Style | ❌ |
+| Kind | ❌ |
 
 ### Date/Time-Felder
 
 | Feldname | Unterstützung |
 | ------ | ------ |
-| Range | :heavy_check_mark: (komplett) |
+| Range | ✔ (komplett) |
 | Kind | :question: Nur "Full Date" und "Full Date and Time" |
 
 
 ### Time-Felder 
 
-:x: (Time-Element wird nicht unterstützt)
+❌ (Time-Element wird nicht unterstützt)
 
 ### Location-Felder
 
 | Feldname | Unterstützung |
 | ------ | ------ |
-| Kind | :x: |
-| Style | :x: |
+| Kind | ❌ |
+| Style | ❌ |
 
 ### Media-Felder
 
@@ -103,36 +103,36 @@ Hierzu wird in der App die Kamera geöffnet, damit man ein neues Foto machen kan
 
 | Feldname | Unterstützung |
 | ------ | ------ |
-| Kind | :x: |
+| Kind | ❌ |
 
 ### Barcode-Felder
 
-:x: (Barcode-Element wird nicht unterstützt)
+❌ (Barcode-Element wird nicht unterstützt)
 
 ### Choose One-Felder
 
 | Feldname | Unterstützung |
 | ------ | ------ |
 | Options | :question: ("Underlying Value" muss dem 0-basierten Listen-Index entsprechen. Muss also bei 0 starten und immer um 1 erhöht werden) |
-| Cascading | :x: |
-| Follow-up Question | :x: |
-| Style | :x: |
+| Cascading | ❌ |
+| Follow-up Question | ❌ |
+| Style | ❌ |
 
 ### Select Multiple-Felder
 
-:x: (Select Multiple-Element wird nicht unterstützt)
+❌ (Select Multiple-Element wird nicht unterstützt)
 
 ### Metadata-Felder
 
-:x: (Metadata-Element wird nicht unterstützt)
+❌ (Metadata-Element wird nicht unterstützt)
 
 ### Metadata-Felder
 
-:x: (Metadata-Element wird nicht unterstützt)
+❌ (Metadata-Element wird nicht unterstützt)
 
 ### Group-Felder
 
-:x: (Group-Element wird nicht unterstützt)
+❌ (Group-Element wird nicht unterstützt)
 
 ## Formeln
 
