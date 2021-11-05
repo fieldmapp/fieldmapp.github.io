@@ -1,6 +1,6 @@
 ---
 title: "Screenshots"
-weight: 100
+weight: 500
 description: >-
      Bildschirmfotos von verschiedenen App-Seiten.
 ---

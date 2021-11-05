@@ -1,7 +1,7 @@
 
 ---
 title: "Module"
-weight: 100
+weight: 400
 description: >-
      Genaueres zu den einzelnen Modulen.
 ---

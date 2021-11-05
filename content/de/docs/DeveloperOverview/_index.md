@@ -1,7 +1,7 @@
 
 ---
 title: "Entwicklerübersicht"
-weight: 100
+weight: 300
 description: >-
      Alles Relevante für die Weiterentwicklung der FieldMApp.
 ---

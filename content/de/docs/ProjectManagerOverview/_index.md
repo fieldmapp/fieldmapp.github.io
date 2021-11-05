@@ -2,7 +2,7 @@
 ---
 title: "Projektmanagerübersicht"
 linkTitle: "Projektmanager"
-weight: 100
+weight: 200
 description: >-
      Alles Relevante für Projektmanager.
 ---
