@@ -1,7 +1,7 @@
 
 ---
 title: "Module - Projekte"
-linkTitle: "Projekete"
+linkTitle: "Projekte"
 weight: 100
 description: >-
      Modul für TODO
