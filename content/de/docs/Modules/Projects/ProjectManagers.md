@@ -61,7 +61,7 @@ Sprachen werden unterstützt, jedoch muss die `"Languages"`-Liste in jeder `.odk
 | Required | ✔ |
 | Invalid Text | ❌ |
 | Show question if | ✔ (Einschränkungen siehe "Formeln" weiter unten) |
-| Constraint | :question: (Darf keine Referenzen auf andere Elemente, sondern nur auf sich selbst via der "."-Notation haben. Weitere einschränkungen siehe "Formeln" weiter unten) |
+| Constraint | ❓ (Darf keine Referenzen auf andere Elemente, sondern nur auf sich selbst via der "."-Notation haben. Weitere einschränkungen siehe "Formeln" weiter unten) |
 | Constraint Invalid Text | ❌ |
 | Calculate | ❌ |
 
@@ -84,7 +84,7 @@ Sprachen werden unterstützt, jedoch muss die `"Languages"`-Liste in jeder `.odk
 | Feldname | Unterstützung |
 | ------ | ------ |
 | Range | ✔ (komplett) |
-| Kind | :question: Nur "Full Date" und "Full Date and Time" |
+| Kind | ❓ Nur "Full Date" und "Full Date and Time" |
 
 
 ### Time-Felder 
@@ -114,7 +114,7 @@ Hierzu wird in der App die Kamera geöffnet, damit man ein neues Foto machen kan
 
 | Feldname | Unterstützung |
 | ------ | ------ |
-| Options | :question: ("Underlying Value" muss dem 0-basierten Listen-Index entsprechen. Muss also bei 0 starten und immer um 1 erhöht werden) |
+| Options | ❓ ("Underlying Value" muss dem 0-basierten Listen-Index entsprechen. Muss also bei 0 starten und immer um 1 erhöht werden) |
 | Cascading | ❌ |
 | Follow-up Question | ❌ |
 | Style | ❌ |
