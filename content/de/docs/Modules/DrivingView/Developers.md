@@ -35,6 +35,6 @@ ZonenAngabe = ( ( MinderertragsUrsache, MinderertragsTyp ) | ( MinderertragsTyp,
 MinderertragsUrsache = "hang" | "nass" | "nässe" | "maus" | "wild" | "lehm" | "sand" | "kuppe" | "ton" | "verdichtung" | "wende";
 MinderertragsTyp = "gering" | "mittel" | "hoch";
 SpurenAufzählung = [ "zone" ], SpurenAufzählungTeil, { SpurenAufzählungTeil };
-SpurenAufzählungTeil = "spur" | ( ( "links" | "rechts" ), SpurBezeichnung, { SpurBezeichnung } );
-SpurBezeichnung =  "eins" | "zwei" | "drei";
+SpurenAufzählungTeil = "spur" | ( SpurBezeichnung, { SpurBezeichnung } );
+SpurBezeichnung =  "eins" | "zwei" | "drei" | "vier" | "fünf" | "sechs";
 ```
