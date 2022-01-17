@@ -7,8 +7,6 @@ menu:
     weight: 30
 ---
 
-{{% pageinfo %}}
 Zukünftige Unterteilung in:
 - Core Publications
 - Related Publications
-{{% /pageinfo %}}

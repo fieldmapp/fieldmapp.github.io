@@ -6,8 +6,6 @@ menu:
     weight: 30
 ---
 
-{{% pageinfo %}}
 Zukünftiger Inhalt:
 - Neue Module/Funktionalitäten
 - Kommende Veröffentlichungen/Workshops
-{{% /pageinfo %}}
