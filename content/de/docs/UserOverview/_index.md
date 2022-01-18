@@ -6,9 +6,7 @@ description: >-
      Alles Relevante für die Endnutzer der FieldMApp.
 ---
 
-{{% pageinfo %}}
-In den nachfolgenden Ausführungen wird aus Gründen der besseren Lesbarkeit auf die Unterscheidung der Sprachformen divers, männlich und weiblich verzichtet. Es gelten sämtliche Personenbezeichnungen gleichermaßen für alle Geschlechter.
-{{% /pageinfo %}}
+
 
 # Übersicht zur FieldMApp
 <details><summary>Die Anwendung FieldMApp ist modular aufgebaut. Sie besteht aus einem unveränderbaren Rahmen und einem vom Nutzer adaptierbaren Teil. [Mehr ...]</summary>
