@@ -1,4 +1,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FieldMapp – FieldMApp</title><link>/</link><description>Recent content in FieldMApp on FieldMapp</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Publications: Demo-Publikation</title><link>/publications/core/post1/</link><pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate><guid>/publications/core/post1/</guid><description>
+&lt;h2 id="zeitschriften--und-buchbeiträge">Zeitschriften- und Buchbeiträge&lt;/h2>
+&lt;h2 id="vorabdrucke">Vorabdrucke&lt;/h2>
+&lt;h2 id="posterbeiträge">Posterbeiträge&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Truckenbrodt, S.C., M. Enderling, C. Pathe, E. Borg, C. Schmullius &amp;amp; F. Klan (2021): Die FieldMApp – eine vielseitig einsetzbare Softwarelösung zur Datenaufnahme mit mobilen Endgeräten. – &lt;em>1. AgriSens FELDTAG „Einsatz von Fernerkundungstechnologien in der Landwirtschaft“&lt;/em>, 4. November 2021, Kruckow, Deutschland (Poster). &lt;a href="https://elib.dlr.de/146508/1/AgriSensFeldtag21_AF2_Poster_FieldMApp_Aufbau_final.pdf">Beitrag anzeigen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Truckenbrodt, S.C., M. Enderling, C. Pathe, E. Borg, C. Schmullius &amp;amp; F. Klan (2021): The modular designed ‘FieldMApp’ an opportunity to standardize data collection methods. – &lt;em>Forum Citizen Science&lt;/em>, 6.–7. Mai 2021, Online-Veranstaltung (Poster).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Truckenbrodt, S.C., M. Enderling, C. Pathe, E. Borg, C. Schmullius &amp;amp; F. Klan (2021): Modular designed Apps: an opportunity to standardize data collection methods and to encourage the reuse of software. – &lt;em>EGU General Assembly 2021&lt;/em>, 19.–30. April 2021, Online-Veranstaltung (Poster). &lt;a href="doi.org/10.5194/egusphere-egu21-13203">Beitrag anzeigen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="workshops">Workshops&lt;/h2>
+&lt;h2 id="vorträge">Vorträge&lt;/h2>
+&lt;ul>
+&lt;li>Truckenbrodt, S.C., M. Enderling, E. Borg &amp;amp; F. Klan (2021): AgriSens - DEMMIN 4.0 Anwendungsfall 2: Nachhaltige Bewirtschaftung. – &lt;em>1. AgriSens FELDTAG „Einsatz von Fernerkundungstechnologien in der Landwirtschaft“&lt;/em>, 4. November 2021, Kruckow, Deutschland (Vortrag). &lt;a href="https://elib.dlr.de/146506/1/Truckenbrodt_etal_2021_FieldMApp.pdf">Beitrag anzeigen&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;p>Im Folgenden findet man Beispiele zum Design (von &lt;a href="https://raw.githubusercontent.com/google/docsy-example/master/content/en/blog/news/second-post.md">https://raw.githubusercontent.com/google/docsy-example/master/content/en/blog/news/second-post.md&lt;/a> übernommen)&lt;/p>
 &lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://github.com">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
 &lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
