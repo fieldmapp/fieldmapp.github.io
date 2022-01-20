@@ -7,6 +7,26 @@ description: >
   Eine kurze Beschreibung.
 ---
 
+## Zeitschriften- und Buchbeiträge
+
+
+## Vorabdrucke
+
+
+## Posterbeiträge
+* Truckenbrodt, S.C., M. Enderling, C. Pathe, E. Borg, C. Schmullius & F. Klan (2021): Die FieldMApp – eine vielseitig einsetzbare Softwarelösung zur Datenaufnahme mit mobilen Endgeräten. – _1. AgriSens FELDTAG „Einsatz von Fernerkundungstechnologien in der Landwirtschaft“_, 4. November 2021, Kruckow, Deutschland (Poster). [Beitrag anzeigen](https://elib.dlr.de/146508/1/AgriSensFeldtag21_AF2_Poster_FieldMApp_Aufbau_final.pdf)
+
+* Truckenbrodt, S.C., M. Enderling, C. Pathe, E. Borg, C. Schmullius & F. Klan (2021): The modular designed ‘FieldMApp’ an opportunity to standardize data collection methods. – _Forum Citizen Science_, 6.–7. Mai 2021, Online-Veranstaltung (Poster).
+
+* Truckenbrodt, S.C., M. Enderling, C. Pathe, E. Borg, C. Schmullius & F. Klan (2021): Modular designed Apps: an opportunity to standardize data collection methods and to encourage the reuse of software. – _EGU General Assembly 2021_, 19.–30. April 2021, Online-Veranstaltung (Poster). [Beitrag anzeigen](doi.org/10.5194/egusphere-egu21-13203)
+
+
+## Workshops
+
+
+## Vorträge
+* Truckenbrodt, S.C., M. Enderling, E. Borg & F. Klan (2021): AgriSens - DEMMIN 4.0 Anwendungsfall 2: Nachhaltige Bewirtschaftung. – _1. AgriSens FELDTAG „Einsatz von Fernerkundungstechnologien in der Landwirtschaft“_, 4. November 2021, Kruckow, Deutschland (Vortrag). [Beitrag anzeigen](https://elib.dlr.de/146506/1/Truckenbrodt_etal_2021_FieldMApp.pdf)
+
 
 
 Im Folgenden findet man Beispiele zum Design (von https://raw.githubusercontent.com/google/docsy-example/master/content/en/blog/news/second-post.md übernommen)
