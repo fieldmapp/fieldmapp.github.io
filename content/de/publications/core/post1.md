@@ -19,13 +19,13 @@ description: >
 
 * Truckenbrodt, S.C., M. Enderling, C. Pathe, E. Borg, C. Schmullius & F. Klan (2021): **The modular designed ‘FieldMApp’ an opportunity to standardize data collection methods.** – Forum Citizen Science, 6.–7. Mai 2021, Online-Veranstaltung (Poster).
 
-* Truckenbrodt, S.C., M. Enderling, C. Pathe, E. Borg, C. Schmullius & F. Klan (2021): _Modular designed Apps: an opportunity to standardize data collection methods and to encourage the reuse of software._– EGU General Assembly 2021, 19.–30. April 2021, Online-Veranstaltung (Poster). [Beitrag anzeigen](https://www.doi.org/10.5194/egusphere-egu21-13203)
+* Truckenbrodt, S.C., M. Enderling, C. Pathe, E. Borg, C. Schmullius & F. Klan (2021): **Modular designed Apps: an opportunity to standardize data collection methods and to encourage the reuse of software.**– EGU General Assembly 2021, 19.–30. April 2021, Online-Veranstaltung (Poster). [Beitrag anzeigen](https://www.doi.org/10.5194/egusphere-egu21-13203)
 
 
 ## Workshops
 
 
 ## Vorträge
-* Truckenbrodt, S.C., M. Enderling, E. Borg & F. Klan (2021): _AgriSens - DEMMIN 4.0 Anwendungsfall 2: Nachhaltige Bewirtschaftung._– 1. AgriSens FELDTAG „Einsatz von Fernerkundungstechnologien in der Landwirtschaft“, 4. November 2021, Kruckow, Deutschland (Vortrag). [Beitrag anzeigen](https://elib.dlr.de/146506/1/Truckenbrodt_etal_2021_FieldMApp.pdf)
+* Truckenbrodt, S.C., M. Enderling, E. Borg & F. Klan (2021): **AgriSens - DEMMIN 4.0 Anwendungsfall 2: Nachhaltige Bewirtschaftung.** – 1. AgriSens FELDTAG „Einsatz von Fernerkundungstechnologien in der Landwirtschaft“, 4. November 2021, Kruckow, Deutschland (Vortrag). [Beitrag anzeigen](https://elib.dlr.de/146506/1/Truckenbrodt_etal_2021_FieldMApp.pdf)
 
 ---
