@@ -28,3 +28,4 @@ description: >
 ## Vorträge
 * Truckenbrodt, S.C., M. Enderling, E. Borg & F. Klan (2021): **AgriSens - DEMMIN 4.0 Anwendungsfall 2: Nachhaltige Bewirtschaftung.** – 1. AgriSens FELDTAG „Einsatz von Fernerkundungstechnologien in der Landwirtschaft“, 4. November 2021, Kruckow, Deutschland (Vortrag). [Beitrag anzeigen](https://elib.dlr.de/146506/1/Truckenbrodt_etal_2021_FieldMApp.pdf)
 
+---
