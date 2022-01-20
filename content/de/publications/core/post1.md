@@ -4,7 +4,7 @@ title: "Themenspezifische Publikation"
 linkTitle: "Themenspezifische Publikation"
 date: 2022-01-20
 description: >
-  In den nachfolgend aufgelisteten Publikationen finden Sie detailliertere Informationen zur FieldMApp und deren Anwendungsfälle. Der inhaltliche Schwerpunkt dieser Zusammenstellung liegt auf Themen, welche die Software an sich betreffen. Als Beispiele seien deren struktureller Aufbau, implementierte Funktionalitäten und Einsatzmöglichkeiten genannt.
+  In den nachfolgend aufgelisteten Publikationen finden Sie detailliertere Informationen zur FieldMApp und deren Anwendungsfälle. Der inhaltliche Schwerpunkt dieser Zusammenstellung liegt auf Themen, welche die Software an sich betreffen. Als Beispiele seien deren struktureller Aufbau, implementierte Funktionalitäten und Einsatzmöglichkeiten genannt. 
 ---
 
 
