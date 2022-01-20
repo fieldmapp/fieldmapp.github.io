@@ -1,11 +1,16 @@
 
 ---
-title: "Demo-Publikation"
-linkTitle: "Erste Related-Publikation"
-date: 2022-01-18
+title: "Themenverwandte Publikation"
+linkTitle: "Themenverwandte Publikation"
+date: 2022-01-20
 description: >
   Eine kurze Beschreibung.
 ---
+
+
+## Poster
+* Truckenbrodt, S.C., F. Klan, E. Borg, K.-D. Missling & C.C. Schmullius (2020): **Assimilation of Citizen Science Data in the Earth Observation Land Data Assimilation System.** – Symposium „20 Jahre Lehrstuhl für Fernerkundung an der FSU Jena“, 7. Februar 2020, Jena, Deutschland (Poster).
+
 
 Zukünftiger Inhalt der News:
 - Neue Module/Funktionalitäten
