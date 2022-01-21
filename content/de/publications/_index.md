@@ -11,5 +11,5 @@ cascade:
 ---
 
 Zukünftige Unterteilung in:
-- Core Publications
-- Related Publications
+- Themenspezifische Publikationen (Core Publications)
+- Themenverwandte Publikationen (Related Publications)
