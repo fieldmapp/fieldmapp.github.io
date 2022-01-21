@@ -30,8 +30,6 @@ _[[Website mit pdfs](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-133
 
 * Truckenbrodt, S.C., F. Klan, E. Borg, K.-D. Missling & C.C. Schmullius (2020): **Assimilation of Citizen Science Data in the Earth Observation Land Data Assimilation System.** – Symposium „20 Jahre Lehrstuhl für Fernerkundung an der FSU Jena“, 7. Februar 2020, Jena, Deutschland (Poster).
 
-* Truckenbrodt, S.C., F. Klan, E. Borg, K.-D. Missling & C.C. Schmullius (2020): **Assimilation of Citizen Science Data in the Earth Observation Land Data Assimilation System.** – Symposium „20 Jahre Lehrstuhl für Fernerkundung an der FSU Jena“, 7. Februar 2020, Jena, Deutschland (Poster).
-
 
 ## Workshops
 [bisher keine]
