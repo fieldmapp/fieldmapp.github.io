@@ -1,7 +1,7 @@
 ---
 title: "FieldMApp Publikationen"
 linkTitle: "Publikationen"
-type: blog
+type: docs
 menu:
   main:
     weight: 30
