@@ -7,7 +7,7 @@ menu:
     weight: 30
     
 cascade:
-- type: "docs"
+- type: "blog"
 ---
 
 Zukünftige Unterteilung in:
