@@ -6,7 +6,7 @@ menu:
   main:
     weight: 30
     
-
+---
 
 Zukünftige Unterteilung in:
 - Themenspezifische Publikationen (Core Publications)
