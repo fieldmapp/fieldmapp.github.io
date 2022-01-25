@@ -10,4 +10,4 @@ cascade:
 - type: "docs"
 ---
 
-Nachfolgend finden Sie Veröffentlichung zur FieldMApp und deren Anwendungsfällen sowie zu Arbeiten, die mit Hilfe der FieldMApp ermöglicht wurden.
+Nachfolgend finden Sie Veröffentlichungen zur FieldMApp und deren Anwendungsfällen sowie zu Arbeiten, die mit Hilfe der FieldMApp ermöglicht wurden.
