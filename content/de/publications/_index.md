@@ -10,6 +10,4 @@ cascade:
 - type: "docs"
 ---
 
-Zukünftige Unterteilung in:
-- Themenspezifische Publikationen (Core Publications)
-- Themenverwandte Publikationen (Related Publications)
+Nachfolgend finden Sie Veröffentlichung zur FieldMApp und deren Anwendungsfällen sowie zu Arbeiten, die mit Hilfe der FieldMApp ermöglicht wurden.
