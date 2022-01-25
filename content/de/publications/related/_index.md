@@ -1,4 +1,3 @@
-
 ---
 title: "Themenverwandte Publikationen zur FieldMApp"
 linkTitle: "Themenverwandte Publikationen"
