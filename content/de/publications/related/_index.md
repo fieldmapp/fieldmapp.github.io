@@ -1,6 +1,6 @@
 
 ---
-title: "Publikationen mit Bezug zur FieldMApp"
+title: "Themenverwandte Publikationen zur FieldMApp"
 linkTitle: "Themenverwandte Publikationen"
 weight: 20
 ---
