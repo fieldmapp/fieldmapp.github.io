@@ -2,7 +2,6 @@
 title: "Themenverwandte Publikationen zur FieldMApp"
 linkTitle: "Themenverwandte Publikationen"
 weight: 20
-date: 2022-01-25
 description: >
   In den nachfolgend aufgelisteten Publikationen finden Sie detaillierte Informationen zu Themen, die mit der FieldMApp und deren Anwendungsfällen verwandt sind. Diese Themen umfassen zum Beispiel die Beschreibung von Test- und Einsatzszenarien der FieldMApp; die Auswertung von Daten, die mittels der FieldMApp erhoben wurden sowie Möglichkeiten zur Inwertsetzung bzw. Wiederverwendung dieser Daten.
 ---
