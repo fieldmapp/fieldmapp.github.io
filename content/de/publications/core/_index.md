@@ -1,6 +1,6 @@
 
 ---
-title: "FieldMApp Core-Publikationen"
+title: "Themenspezifische Publikationen zur FieldMApp"
 linkTitle: "Themenspezifische Publikationen"
 weight: 20
 description: >
