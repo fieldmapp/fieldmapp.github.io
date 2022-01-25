@@ -1,4 +1,3 @@
-
 ---
 title: "FieldMApp Related Publications"
 linkTitle: "Related Publications"
