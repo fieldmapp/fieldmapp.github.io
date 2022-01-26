@@ -4,7 +4,7 @@ linkTitle: "Core Publications"
 weight: 20
 description: >
   In the publications listed below you will find more detailed information about the FieldMApp and its use cases. The focus of this compilation is on topics concerning the software itself. Examples include its structural design, implemented functionalities and possible applications. 
-  ---
+---
 
 
 ## Articles and bookchapters
