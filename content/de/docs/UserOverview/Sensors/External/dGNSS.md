@@ -1,6 +1,6 @@
 ---
-title: "Nutzerübersicht - Beispielsensor extern"
-linkTitle: "Differentielles Global Navigation Satellite System (dGNSS)"
+title: "Differentielles Global Navigation Satellite System (dGNSS)"
+linkTitle: "dGNSS"
 weight: 100
 ---
 
