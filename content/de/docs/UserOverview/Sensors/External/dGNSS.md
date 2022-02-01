@@ -91,7 +91,7 @@ Sina Truckenbrodt, Maximilian Enderling
 
 2022-02-01
 
-# Quellenangaben
+# Quellen
 
 RTCM (2020): RTCM 10403.3, Differential GNSS (Global Navigation Satellite Systems) Services - Version 3 + Amendment 1. <[Links](https://rtcm.myshopify.com/collections/differential-global-navigation-satellite-dgnss-standards/products/rtcm-10403-2-differential-gnss-global-navigation-satellite-systems-services-version-3-february-1-2013)> (Stand: 2020-04-28) (Zugriff: 2022-01-13).
 
