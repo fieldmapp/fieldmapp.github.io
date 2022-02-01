@@ -10,7 +10,7 @@ ZED-F9P
 
 # Hersteller
 
-u-blox (Hauptsitz: Thalwil, Schweiz)
+u-blox
 
 # Geräteversionen, deren Einsatzfähigkeit geprüft wurde
 
@@ -45,7 +45,11 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 # Liste aller für die Einbindung des Sensors benötigten Teile
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+| Bauteil                      | Eigenschaften       | Vertrieb (Beispiel)                     |
+|------------------------------|---------------------|-----------------------------------------|
+| ZED-F9P RTK GNSS USB Dongle  | ZED-F9P <br> Dongle | [GNSS OEM Future World](https://www.gnss.store/gnss-gps-modules/126-ublox-zed-f9p-rtk-gnss-receiver-board-with-sma-base-or-rover.html?search_query=ZED-F9P&results=15#/25-add_antenna_ann_mb-ann_mb) |                        
+| ANN-MB-00 (Antenne, u-blox)  | Multi-Band GNSS-Antenne <br> Aktiv-Anntene <br> Anschluss: SMA <br> Magnetischer Fuß <br> Abmaße: 60.0 x 82.0 x 22.5 mm |  | 
+| Adapter von USB-C auf USB-A  | USB-C (male) <br> USB-A (female) |  | 
 
 # Gerätekalibrierung
 
@@ -77,18 +81,17 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 # Liste der Projektmodule, die Sensordaten vearbeiten können
 
-Ab welcher Modul-Version einsetzbar bzw. ab welcher Modulversion wurde etwas am Erfassungsmechanismus geändert und ggf. was ??
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+* Minderertragsflächenkartierung (flächenhaft)
 
 # Autoren des Eintrags
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+Sina Truckenbrodt, Maximilian Enderling
 
 # Stand
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+2022-02-01
 
 # Quellenangaben
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+RTCM (2020): RTCM 10403.3, Differential GNSS (Global Navigation Satellite Systems) Services - Version 3 + Amendment 1. <[Links](https://rtcm.myshopify.com/collections/differential-global-navigation-satellite-dgnss-standards/products/rtcm-10403-2-differential-gnss-global-navigation-satellite-systems-services-version-3-february-1-2013)> (Stand: 2020-04-28) (Zugriff: 2022-01-13).
 
