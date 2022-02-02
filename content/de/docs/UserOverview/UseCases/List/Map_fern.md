@@ -1,6 +1,6 @@
 ---
-title: "Nutzerübersicht - Kartierung von Farn"
-linkTitle: "Kartierung von Farn"
+title: "Nutzerübersicht - Kartierung von Farnen"
+linkTitle: "Kartierung von Farnen"
 weight: 100
 ---
 
