@@ -1,6 +1,6 @@
 ---
 title: "Nutzerübersicht - Minderertragsflächenkartierung (flächenhaft)"
-linkTitle: "Minderertrags- flächen- kartierung (flächenhaft)"
+linkTitle: "Minderertragsflächenkartierung (flächenhaft)"
 weight: 100
 ---
 
