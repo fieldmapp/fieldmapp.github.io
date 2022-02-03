@@ -1,6 +1,6 @@
 ---
-title: "Nutzerübersicht - Minderertragsflächenkartierung (punktweise)"
-linkTitle: "Minderertragsflächenkartierung (punktweise)"
+title: "Nutzerübersicht - Kartierung von Bestandsmerkmalen"
+linkTitle: "Kartierung von Bestandsmerkmalen"
 weight: 100
 ---
 
