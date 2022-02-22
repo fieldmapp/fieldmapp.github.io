@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 # Einsatzort
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+* Pflanzenbaulich genutzte Flächen (z.B. Acker, Schlag)
 
 # Einsatzszenario
 
