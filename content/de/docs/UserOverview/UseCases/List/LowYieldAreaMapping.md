@@ -7,7 +7,7 @@ weight: 100
 # Ziel
 Landwirten soll eine weitgehend automatisierte Erzeugung digitaler Minderertragskarten (Shapefiles) zu ihren Anbauflächen ermöglicht werden sowie eine automatisierte Bereitstellung von Handlungsempfehlungen zu deren Bewirtschaftung. Zur Erreichung dieser Ziele werden aus Satellitenbildern und meteorologischen Daten automatisch Informationen extrahiert (wie z.B. die Größe von Minderertragsarealen und der Niederschlags- und Temperaturverlauf) und mit dem Wissen von Landwirten um örtliche Gegebenheiten (wie etwa die Ursache für den Minderertrag) verknüpft. Der hier beschriebene Anwendungsfall ermöglicht es, die dafür vom Landwirt benötigten Informationen zu Eigenschaften von Minderertragsarealen auf pflanzenbaulich genutzten Flächen digital zu erfassen. Damit dem Landwirt für die Erfassung der Informationen kein zusätzlicher Zeitaufwand entsteht, wird diese von der Landmaschine aus, während der Bewirtschaftung der zu kartierenden Felder, vorgenommen (vgl. Abb. 1).
 
-[[https://github.com/fieldmapp/fieldmapp.github.io/blob/master/content/de/docs/UserOverview/UseCases/List/figures/LowYieldAreas/LowYieldAreaMapping_fig01_de.png|width=100px]]
+![](https://github.com/fieldmapp/fieldmapp.github.io/blob/master/content/de/docs/UserOverview/UseCases/List/figures/LowYieldAreas/LowYieldAreaMapping_fig01_de.png)
 
 TODO:
 # Adressierte Nutzergruppe
