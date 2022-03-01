@@ -1,6 +1,6 @@
 ---
-title: "Nutzerübersicht - Erfassen von Bewirtschaftungs- und Pflanzenwachstumsinformationen auf Äckern"
-linkTitle: "Erfassen von Bewirtschaftungs- und Pflanzenwachstumsinformationen auf Äckern"
+title: "Nutzerübersicht - Bewirtschaftungs- und Pflanzenwachstumsinformationen auf Äckern erfassen"
+linkTitle: "Bewirtschaftungs- und Pflanzenwachstumsinformationen auf Äckern erfassen"
 weight: 100
 ---
 
