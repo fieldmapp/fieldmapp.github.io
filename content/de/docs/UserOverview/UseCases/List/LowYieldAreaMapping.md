@@ -13,7 +13,8 @@ _**Abb. 1:** Zonenweise Erfassung ausgewählter Eigenschaften von Minderertragsa
 
 # Adressierte Nutzergruppe
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+* Landwirtinnen und Landwirte
+* Fahrerinnen und Fahrer von Landmaschinen (z.B. Schlepper, Traktoren, selbstfahrende Spritze, Mähdrescher, Kartoffelvollernter)
 
 # Einsatzort
 
