@@ -8,7 +8,7 @@ weight: 20100
 | Arbeitsschritte | Veranschaulichung |
 | ------ | :-----: |
 | (1) Projekt, von dem die erhobenen Daten exportiert werden sollen, aktivieren (siehe [1.6](1.6%20Projekt%20aktivieren)) |  |
-| (2) Hauptmenü in der FieldMApp öffnen. | ![](/screenshots/fig/FirstSteps/de/FirstSteps_2_1_img_01_en.jpg) |
+| (2) Hauptmenü in der FieldMApp öffnen. | ![](/screenshots/fig/FirstSteps/de/FirstSteps_2_1_img_01_de.jpg) |
 | (3) Auf [Einstellungen] klicken. | ![](/screenshots/fig/FirstSteps/de/FirstSteps_2_1_img_02_de.jpg) |
 | (4) Im Anzeigefenster des Menüpunkts „Einstellungen“ auf den Unterpunkt [ALLGEMEIN] klicken. | ![](/screenshots/fig/FirstSteps/de/FirstSteps_2_1_img_03_de.jpg) |
 | (5) Im erscheinenden Menü „Datenbank exportieren“ auswählen und anklicken. | ![](/screenshots/fig/FirstSteps/de/FirstSteps_2_1_img_04_de.jpg) |
