@@ -3,7 +3,7 @@ title: "FieldMApp Related Publications"
 linkTitle: "Related Publications"
 weight: 20
 description: >
-  In the upcoming publication list, you will find detailed information on topics related to the FieldMApp and its use cases. These topics comprise, for example, the description of scenarios in which different use cases of the FieldMApp were tested or used operationally; the analysis of data collected with the FieldMApp and ways to reuse and valorise these data.
+  You will find detailed information on topics related to the FieldMApp and its use cases in the upcoming publication list. These topics comprise the description of scenarios in which different use cases of the FieldMApp were tested or used operationally; the analysis of data collected with the FieldMApp and ways to reuse and valorise these data.
 ---
 
 
