@@ -5,7 +5,7 @@ linkTitle: "Projekt aktualisieren"
 weight: 900
 ---
 
-Das bereits installierte Projekt muss für das Update nicht gesondert vorbereitet werden. Wir empfehlen ihn, ihre erhobenen Daten vor dem Update via [2.1](2.1%20Datenexport) zu sichern. Grundsätzlich sollten erhobene und in der FieldMApp zwischengespeicherte Daten jedoch auch nach dem Update in der Anwendung zur Verfügung stehen.
+Das bereits installierte Projekt muss für das Update nicht gesondert vorbereitet werden. Wir empfehlen Ihnen, Ihre erhobenen Daten vor dem Update via [2.1](2.1%20Datenexport) zu sichern. Grundsätzlich sollten erhobene und in der FieldMApp zwischengespeicherte Daten jedoch auch nach dem Update in der Anwendung zur Verfügung stehen.
 
 | Arbeitsschritte | Veranschaulichung |
 | ------ | :-----: |
