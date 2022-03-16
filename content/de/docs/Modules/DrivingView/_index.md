@@ -1,15 +1,15 @@
 
 ---
-title: "Module - Fahrtansicht"
-linkTitle: "Fahrtansicht"
+title: "Module - Minderertragsflächenkartierung"
+linkTitle: "Minderertragsflächenkartierung"
 weight: 100
 description: >-
-     Modul zur nutzergestützen Kartierung von landwirtschaftlichen Minderertragsflächen, welches während der Fahrt im Traktor genutzt wird.
+     Modul zur nutzergestützen Kartierung von landwirtschaftlichen Minderertragsflächen, welches während der Überfahrt von Landmaschinen auf Feldern eingesetzt wird.
 ---
 
 # Übersicht
 
-Die Fahrtansicht wird vom Landwirt/der Landwirtin genutzt, um während des Fahrens auf Feldern Minderertragsflächen und deren Eigenschaften zu erfassen. Die während des Befahrens einer Fahrspur links und rechts jener bearbeiteten Zonen, werden dazu in äquidistante parallel zur Fahrspur laufende Zonen unterteilt. Je nach Schwadbreite können bei der Datenaufnahme beidseitig jeweils bis zu 3 Zonen berücksichtigt werden. Zusätzlich dazu gilt die Fahrspur selbst als eine weitere Zone. So sind maximal 7 Spuren möglich: 3 auf jeder Seite und die Fahrspur in der Mitte.
+Der Anwendungsfall „Minderertragsflächenkartierung“ wird vom Landwirt/der Landwirtin genutzt, um während der Bewirtschaftung von Feldern Minderertragsflächen und deren Eigenschaften zu erfassen. Die Erfassung erfolgt bezogen auf die Bearbeitungsbreite während der Überfahrt von der Landmaschine aus. Dafür wird der aktuell bearbeitete Bereich links und rechts der Fahrspur in jeweils bis zu drei gleich breite, parallel zur Fahrspur verlaufende Zonen unterteilt. Jede dieser Zonen kann mit der FieldMApp angesprochen und somit in dieser auftretende Minderertragsflächen kartiert werden.
 
 # Übersichten
 
