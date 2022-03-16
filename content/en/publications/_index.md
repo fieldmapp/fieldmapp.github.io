@@ -10,4 +10,4 @@ cascade:
 - type: "docs"
 ---
 
-Here you can find publications about the FieldMApp and its use cases, as well as publications about works that are based on the FieldMApp.
+Here you can find publications about the FieldMApp and its use cases, as well as publications about activities that are based on the FieldMApp.
