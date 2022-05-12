@@ -7,7 +7,7 @@ description: >
   Hintergrund Informationen zum Entwicklungsprozess der FieldMApp.
 ---
 
-Am 13.05.2022 gibt es beim [Forum Citizen Science](https://www.buergerschaffenwissen.de/veranstaltungen/forum-citizen-science-2022) in [Sankt Augustin](https://www.buergerschaffenwissen.de/veranstaltungen/forum-citizen-science-2022/praktische-informationen) die Gelegenheit mehr über die Hintergründe der Entwicklung der FieldMApp, insbesondere des Anwendungsfalls "Minderertragsflächenkartierung", zu erfahren. Friederike Klan referiert zum Thema 
+Am 13.05.2022 gibt es beim [Forum Citizen Science](https://www.buergerschaffenwissen.de/veranstaltungen/forum-citizen-science-2022) in [Sankt Augustin](https://www.buergerschaffenwissen.de/veranstaltungen/forum-citizen-science-2022/praktische-informationen) (bei Bonn) die Gelegenheit mehr über die Hintergründe der Entwicklung der FieldMApp, insbesondere des Anwendungsfalls "Minderertragsflächenkartierung", zu erfahren. Friederike Klan referiert zum Thema 
 
 _Partnerschaftliche Entwicklung digitaler Innovationen im Kontext nachhaltiger Produktionsprozesse – Herausforderungen und Mehrwert am Beispiel der Entwicklung der FieldMApp_
 
