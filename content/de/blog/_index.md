@@ -3,7 +3,7 @@ title: "FieldMApp News"
 linkTitle: "News"
 menu:
   main:
-    weight: 30
+    weight: 30 
 ---
 
 Zukünftiger Inhalt:
