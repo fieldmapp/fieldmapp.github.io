@@ -56,11 +56,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 **1. Anwendungsfall `Minderertragskartierung` im Menü der FieldMApp anwählen**
 
 
-**2. _OPTIONAL:_ Festlegen der Konfiguration der Benutzeroberfläche** <details><summary>[Mehr ...]</summary>
+**2. Festlegen der Konfiguration der Benutzeroberfläche** _(OPTIONAL)_ <details><summary>[Mehr ...]</summary>
  
 2.1. Bereits vorhandene Konfiguration anpassen
- 
-  2.1.1 auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
+ 2.1.1 auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
  
   2.1.2	den Button `KONFIGURATION ANPASSEN` antippen, sodass die Konfigurationsansicht geöffnet wird (weiteres Vorgehen siehe 2-b-ii)
   
