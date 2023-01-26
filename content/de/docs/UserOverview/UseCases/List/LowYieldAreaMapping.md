@@ -84,7 +84,7 @@ Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfigurati
  
  
 {{% pageinfo %}}
-Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.{{< /alert >}}</summary>
+Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.{{< /alert >}}
 {{% /pageinfo %}}
 </details>
 
