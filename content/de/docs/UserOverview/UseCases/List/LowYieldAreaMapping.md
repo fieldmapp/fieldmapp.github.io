@@ -61,8 +61,11 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 2.1. Bereits vorhandene Konfiguration anpassen
  * auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
  * den Button `KONFIGURATION ANPASSEN` antippen, sodass die Konfigurationsansicht geöffnet wird (weiteres Vorgehen siehe 2-b-ii)
-  
- * {{< alert title="Hinweis" >}}Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfiguration überschrieben, auch wenn diese einen neuen Konfigurationsnamen erhält.{{< /alert >}}
+ 
+{{% pageinfo %}}
+Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfiguration überschrieben, auch wenn diese einen neuen Konfigurationsnamen erhält.
+{{% /pageinfo %}} 
+ 
 
 2.2	Neue Konfiguration erstellen
  
@@ -77,7 +80,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
     2.	_Falls nein:_ Aus der erscheinenden Liste `Schaltfläche verstecken` durch Antippen auswählen.
   v.	Festlegen der Zonenanzahl
       Unter „Anzahl der Zonen“ kann die Anzahl der Zonen, welche symmetrisch jeweils auf die halbe Bearbeitungsbreite rechts bzw. links der Fahrspur verteilt werden soll, durch den Schieberegler festgelegt werden.
-  vi.	Durch Antippen von `Speichern` wird die Konfiguration unter dem angegebene Konfigurationsnamen gespeichert.
+  vi.	Durch Antippen von `Speichern` wird die Konfiguration unter dem angegebene Konfigurationsnamen gespeichert.</details>
+ 
+ 
 {{< alert title="Hinweis" >}}Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.{{< /alert >}}</summary>
 
 **2. Konfiguration der Bedienoberfläche auswählen** <details><summary>[Mehr ...]</summary>
