@@ -55,15 +55,19 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 # Beschreibung Handhabung/Workflow
 **1. Anwendungsfall `Minderertragskartierung` im Menü der FieldMApp anwählen**
 
+
 **2. _OPTIONAL:_ Festlegen der Konfiguration der Benutzeroberfläche** <details><summary>[Mehr ...]</summary>
  
-(A)	Bereits vorhandene Konfiguration anpassen
-  i.	auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
-  ii.	den Button `KONFIGURATION ANPASSEN` antippen, sodass die Konfigurationsansicht geöffnet wird (weiteres Vorgehen siehe 2-b-ii)
+2.1. Bereits vorhandene Konfiguration anpassen
+ 
+  2.1.1 auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
+ 
+  2.1.2	den Button `KONFIGURATION ANPASSEN` antippen, sodass die Konfigurationsansicht geöffnet wird (weiteres Vorgehen siehe 2-b-ii)
   
 {{< alert title="Hinweis" >}}Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfiguration überschrieben, auch wenn diese einen neuen Konfigurationsnamen erhält.{{< /alert >}}
 
-(B)	Neue Konfiguration erstellen
+2.2	Neue Konfiguration erstellen
+ 
   i.	Den Button `NEUE KONFIGURATION ERSTELLEN` antippen, sodass die Konfigurationsansicht geöffnet wird.
   ii.	Anpassung des Konfigurationsnamens
       In die Zeile hinter „Konfigurationsname“ tippen und mit dem sich öffnenden Tastenfeld den Namen eintragen, unter dem die Konfiguration gespeichert werden soll.
