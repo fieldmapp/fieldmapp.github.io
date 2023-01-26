@@ -57,7 +57,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
 **2. Festlegen der Konfiguration der Benutzeroberfläche** (OPTIONAL)
-
 <details><summary>2.1. Bereits vorhandene Konfiguration anpassen</summary>
  * auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
  * den Button `KONFIGURATION ANPASSEN` antippen, sodass die Konfigurationsansicht geöffnet wird (weiteres Vorgehen siehe 2-b-ii)
@@ -82,11 +81,11 @@ Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfigurati
  Unter „Anzahl der Zonen“ kann die Anzahl der Zonen, welche symmetrisch jeweils auf die halbe Bearbeitungsbreite rechts bzw. links der Fahrspur verteilt werden soll, durch den Schieberegler festgelegt werden.
  * Durch Antippen von `Speichern` wird die Konfiguration unter dem angegebene Konfigurationsnamen gespeichert. 
  
- 
 {{% pageinfo %}}
 Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.
 {{% /pageinfo %}}
 </details>
+
 
 
 **3. Konfiguration der Bedienoberfläche auswählen** <details><summary>[Mehr ...]</summary>
