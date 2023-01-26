@@ -93,7 +93,34 @@ Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen v
 <details><summary>3.1 Auswahl</summary>
  
  * Die Auswahl erfolgt indem der Name einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt und durch berühren des Buttons „AUSGEWÄHLTE KONFIGURATION BENUTZEN“ geöffnet wird.
+</details><br>
+
+
+**4. Datenaufnahme mit der Fahrtansicht** 
+<details><summary>4.1 Markieren des Anfangs einer Minderertragsfläche</summary>
+ 
+ * Lorem ipsum dolor
+ * Lorem ipsum dolor
 </details>
+
+<details><summary>4.2 Eingabe der Eigenschaften von Minderertragsflächen</summary>
+ 
+ * Lorem ipsum dolor
+ * Lorem ipsum dolor
+</details>
+
+<details><summary>4.3 Markieren des Endes einer Minderertragsfläche</summary>
+ 
+ * Lorem ipsum dolor
+ * Lorem ipsum dolor
+</details>
+
+<details><summary>4.4 Korrektur bei Falscheingaben</summary>
+ 
+ * Lorem ipsum dolor
+ * Lorem ipsum dolor
+</details>
+<br>
 
 
 # Rückgriff auf interne und externe Messgeräte
