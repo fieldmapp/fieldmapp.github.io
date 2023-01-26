@@ -1,6 +1,6 @@
 
 ---
-tags: ["Minderertragsflächenkartierung", "Vortrag"]
+tags: ["Minderertragsflächenkartierung", "Vortrag", "Konferenzbeitrag"]
 title: "Vortrag beim Forum Citizen Science"
 linkTitle: "Vortrag beim Forum Citizen Science"
 date: 2022-05-12
