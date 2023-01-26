@@ -122,17 +122,22 @@ Links zu Anwendungsfallspezifischen Publikationen
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
-# Autoren Wiki
+# Autoren & Entwickler
+## Konzeption
+* Sina C. Truckenbrodt
+* Maximilian Enderling
+* Friederike Klan
+* Erik Borg
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+## Dokumentation im Wiki
+* Sina C. Truckenbrodt
+* Maximilian Enderling
 
-# Entwickler Code
+## Code Entwicklung
+* Maximilian Enderling
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-# Zitationsvorschlag
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+## Zitationsvorschlag
+Truckenbrodt, S.C., M. Enderling, E. Borg & F. Klan (2022): FieldMApp Nutzerübersicht. Anwendungsfall Minderertragsflächenkartierung. <https://fieldmapp.github.io/docs/useroverview/usecases/list/lowyieldareamapping/> (Stand: 2023-01-26) (Zugriff: YYYY-MM-DD).
 
 # Lizenz
 
