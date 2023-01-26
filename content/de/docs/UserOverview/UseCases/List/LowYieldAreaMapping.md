@@ -57,7 +57,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
 **2. Festlegen der Konfiguration der Benutzeroberfläche** (OPTIONAL)
-
 <details><summary>2.1. Bereits vorhandene Konfiguration anpassen</summary>
  
  * auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
@@ -88,7 +87,6 @@ Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfigurati
 Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.
 {{% /pageinfo %}}
 </details>
-
 
 
 **3. Konfiguration der Bedienoberfläche auswählen** 
