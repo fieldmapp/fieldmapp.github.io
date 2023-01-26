@@ -125,8 +125,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 # Autoren & Entwickler
 ## Konzeption
 * Sina C. Truckenbrodt
-* Maximilian Enderling
 * Friederike Klan
+* Maximilian Enderling
 * Erik Borg
 
 ## Dokumentation im Wiki
