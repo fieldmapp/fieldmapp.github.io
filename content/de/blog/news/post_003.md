@@ -1,5 +1,6 @@
 
 ---
+tags: ["Minderertragsflächenkartierung", "Vortrag", "Live-Demo", "Konferenzbeitrag"]
 title: "FieldMApp-Präsentationen bei AgriSens - DEMMIN 4.0 Regionalkonferenz & Praxistag"
 linkTitle: "FieldMApp-Präsentationen bei Regionalkonferenz & Praxistag"
 date: 2023-01-25
