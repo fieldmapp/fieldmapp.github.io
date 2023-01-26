@@ -1,6 +1,6 @@
 
 ---
-tags: ["Minderertragsflächenkartierung", "Poster", "Konfernezbeitrag"]
+tags: ["Minderertragsflächenkartierung", "Poster", "Konferenzbeitrag"]
 title: "Poster presentation on ESA Living Planet Symposium"
 linkTitle: "Poster presentation on ESA Living Planet Symposium"
 date: 2022-05-15
