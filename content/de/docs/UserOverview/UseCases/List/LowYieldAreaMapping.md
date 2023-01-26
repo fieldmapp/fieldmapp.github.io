@@ -57,6 +57,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
 **2. Festlegen der Konfiguration der Benutzeroberfläche** (OPTIONAL)
+
 <details><summary>2.1. Bereits vorhandene Konfiguration anpassen</summary>
  * auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
  * den Button `KONFIGURATION ANPASSEN` antippen, sodass die Konfigurationsansicht geöffnet wird (weiteres Vorgehen siehe 2-b-ii)
@@ -68,6 +69,7 @@ Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfigurati
  
 
 <details><summary>2.2	Neue Konfiguration erstellen</summary>
+ 
  * Den Button `NEUE KONFIGURATION ERSTELLEN` antippen, sodass die Konfigurationsansicht geöffnet wird.
  * Anpassung des Konfigurationsnamens <br>
  In die Zeile hinter „Konfigurationsname“ tippen und mit dem sich öffnenden Tastenfeld den Namen eintragen, unter dem die Konfiguration gespeichert werden soll.
