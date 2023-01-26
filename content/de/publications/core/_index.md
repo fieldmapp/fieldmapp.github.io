@@ -9,7 +9,7 @@ description: >
 
 
 ## Zeitschriften- und Buchbeiträge
-* Truckenbrodt, S.C., M. Enderling, E. Borg, C. Schmullius & F. Klan (2023): ** Benefits and Challenges of Participatory Design in Agriculture: The Example of the FieldMApp.** - Proceedings of Science 407, Austrian Citizen Science Conference 2022 (ACSC2022), 28.-30.06.2022, Dornbirn, Österreich. <br>
+* Truckenbrodt, S.C., M. Enderling, E. Borg, C. Schmullius & F. Klan (2023): **Benefits and Challenges of Participatory Design in Agriculture: The Example of the FieldMApp.** - Proceedings of Science 407, Austrian Citizen Science Conference 2022 (ACSC2022), 28.-30.06.2022, Dornbirn, Österreich. <br>
 _[[pdf](https://doi.org/10.22323/1.407.0012)]_
 
 
