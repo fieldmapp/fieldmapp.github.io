@@ -68,11 +68,11 @@ Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfigurati
  
 
 2.2	Neue Konfiguration erstellen
+ * Den Button `NEUE KONFIGURATION ERSTELLEN` antippen, sodass die Konfigurationsansicht geöffnet wird.
+ * Anpassung des Konfigurationsnamens <br>
+ > In die Zeile hinter „Konfigurationsname“ tippen und mit dem sich öffnenden Tastenfeld den Namen eintragen, unter dem die Konfiguration gespeichert werden soll.
+ * Festlegen der Bearbeitungsbreite
  
-  i.	Den Button `NEUE KONFIGURATION ERSTELLEN` antippen, sodass die Konfigurationsansicht geöffnet wird.
-  ii.	Anpassung des Konfigurationsnamens
-      In die Zeile hinter „Konfigurationsname“ tippen und mit dem sich öffnenden Tastenfeld den Namen eintragen, unter dem die Konfiguration gespeichert werden soll.
-  iii.	Festlegen der Bearbeitungsbreite
         In die Zeile hinter „Bearbeitungsbreite (in Metern)“ tippen und mit dem sich öffnenden Ziffernblock die Bearbeitungsbreite in Metern eingeben, für welche die Kartierung erfolgen soll.
   iv.	Festlegen der kartierbaren Minderertragsursachen
       Nacheinander jedes der zur Verfügung stehenden Felder unter „Auswahl Minderertragsursache“ Antippen und festlegen, ob dieses zu einem Button mit einer Minderertragsursache werden soll. 
@@ -80,10 +80,14 @@ Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfigurati
     2.	_Falls nein:_ Aus der erscheinenden Liste `Schaltfläche verstecken` durch Antippen auswählen.
   v.	Festlegen der Zonenanzahl
       Unter „Anzahl der Zonen“ kann die Anzahl der Zonen, welche symmetrisch jeweils auf die halbe Bearbeitungsbreite rechts bzw. links der Fahrspur verteilt werden soll, durch den Schieberegler festgelegt werden.
-  vi.	Durch Antippen von `Speichern` wird die Konfiguration unter dem angegebene Konfigurationsnamen gespeichert.</details>
+  vi.	Durch Antippen von `Speichern` wird die Konfiguration unter dem angegebene Konfigurationsnamen gespeichert.
  
  
-{{< alert title="Hinweis" >}}Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.{{< /alert >}}</summary>
+{{% pageinfo %}}
+Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.{{< /alert >}}</summary>
+{{% /pageinfo %}}
+</details>
+
 
 **2. Konfiguration der Bedienoberfläche auswählen** <details><summary>[Mehr ...]</summary>
 (C)	...indem der Name einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt und durch berühren des Buttons „AUSGEWÄHLTE KONFIGURATION BENUTZEN“ geöffnet wird.</details>
