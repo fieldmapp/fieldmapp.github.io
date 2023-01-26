@@ -2,7 +2,7 @@
 ---
 title: "Poster presentation on ESA Living Planet Symposium"
 linkTitle: "Poster presentation on ESA Living Planet Symposium"
-date: 2022-05-12
+date: 2022-05-15
 description: >
   Concept, structure and options of the FieldMApp.
 ---
