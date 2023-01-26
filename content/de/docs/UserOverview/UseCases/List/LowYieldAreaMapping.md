@@ -65,7 +65,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 {{% pageinfo %}}
 Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfiguration überschrieben, auch wenn diese einen neuen Konfigurationsnamen erhält.
 {{% /pageinfo %}}
-</details>
+</details><br><br>
  
 
 <details><summary>2.2	Neue Konfiguration erstellen</summary>
@@ -86,7 +86,7 @@ Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfigurati
 {{% pageinfo %}}
 Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.
 {{% /pageinfo %}}
-</details>
+</details><br>
 
 
 **3. Konfiguration der Bedienoberfläche auswählen** 
