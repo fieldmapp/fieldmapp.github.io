@@ -65,7 +65,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 {{% pageinfo %}}
 Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfiguration überschrieben, auch wenn diese einen neuen Konfigurationsnamen erhält.
 {{% /pageinfo %}}
-</details><br><br>
+</details><br>
  
 
 <details><summary>2.2	Neue Konfiguration erstellen</summary>
