@@ -93,6 +93,7 @@ Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen v
 
 **3. Konfiguration der Bedienoberfläche auswählen** 
 <details><summary>3.1 Auswahl</summary>
+ 
  * Die Auswahl erfolgt indem der Name einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt und durch berühren des Buttons „AUSGEWÄHLTE KONFIGURATION BENUTZEN“ geöffnet wird.
 </details>
 
