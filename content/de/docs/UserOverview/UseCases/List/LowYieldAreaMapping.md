@@ -76,20 +76,19 @@ Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfigurati
  * Festlegen der kartierbaren Minderertragsursachen <br>
  Nacheinander jedes der zur Verfügung stehenden Felder unter „Auswahl Minderertragsursache“ Antippen und festlegen, ob dieses zu einem Button mit einer Minderertragsursache werden soll.
    * _Falls ja:_ Aus der erscheinenden Liste (Abb. 2-B) eine Minderertragsursache (Abb. 2-B2) durch Antippen auswählen oder durch Antippen von `Neu erstellen` (Abb. 2-B3), das Fenster öffnen, über das eine neue, die Liste ergänzende Ursache eingeben und durch Tippen auf `OK` hinzugefügt werden kann (Abb. 2-C).
-   * 2.	_Falls nein:_ Aus der erscheinenden Liste `Schaltfläche verstecken` durch Antippen auswählen.
-    
-
- 
- 
+   * _Falls nein:_ Aus der erscheinenden Liste `Schaltfläche verstecken` durch Antippen auswählen.
+ * Festlegen der Zonenanzahl <br>
+ Unter „Anzahl der Zonen“ kann die Anzahl der Zonen, welche symmetrisch jeweils auf die halbe Bearbeitungsbreite rechts bzw. links der Fahrspur verteilt werden soll, durch den Schieberegler festgelegt werden.
+ * Durch Antippen von `Speichern` wird die Konfiguration unter dem angegebene Konfigurationsnamen gespeichert. 
  
  
 {{% pageinfo %}}
-Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.{{< /alert >}}
+Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.
 {{% /pageinfo %}}
 </details>
 
 
-**2. Konfiguration der Bedienoberfläche auswählen** <details><summary>[Mehr ...]</summary>
+**3. Konfiguration der Bedienoberfläche auswählen** <details><summary>[Mehr ...]</summary>
 (C)	...indem der Name einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt und durch berühren des Buttons „AUSGEWÄHLTE KONFIGURATION BENUTZEN“ geöffnet wird.</details>
 
 
