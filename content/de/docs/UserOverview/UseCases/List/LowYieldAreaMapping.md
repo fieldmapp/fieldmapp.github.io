@@ -54,6 +54,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 # Beschreibung Handhabung/Workflow
 **1. Anwendungsfall `Minderertragskartierung` im Menü der FieldMApp anwählen**
+
 **2. _OPTIONAL:_ Festlegen der Konfiguration der Benutzeroberfläche** <details><summary>[Mehr ...]</summary>
  
 (A)	Bereits vorhandene Konfiguration anpassen
