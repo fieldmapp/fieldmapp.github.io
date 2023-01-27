@@ -51,18 +51,31 @@ ToDo
 
 ## Hard- und Software-Ausstattung
 ### Rückgriff auf interne und externe Messgeräte
-ToDo
-
 #### Liste erforderliche Sensoren
-ToDo
+Interne Sensoren
+| Sensorname | Zweck | Ersetzbar | Nutzungsempfehlung |
+| -------------- | --------------- | --------------- | --------------- |
+| GPS | Ermöglicht die Erfassung der Position bei der der Eingabe der Daten. | Ja <br> (Alternative: externes dGNSS) | wenig empfehlenswert |
+
 
 #### Liste optional einsetzbarer Sensoren
-ToDo
+Interne Sensoren
+| Sensorname | Zweck | Nutzungsempfehlung |
+| -------------- | --------------- | --------------- |
+| Mikrophon | Ermöglicht die Nutzung der Spracherkennung und damit die Steuerung der Anwendung mittels Sprachbefehlen | sehr empfehlenswert |
+
+Externe Sensoren
+| Sensorname | Zweck | Nutzungsempfehlung |
+| -------------- | --------------- | --------------- |
+| Differentielles Global Navigation Satellite System ([dGNSS](https://fieldmapp.github.io/docs/useroverview/sensors/external/dgnss/)) | Ermöglicht die zentimetergenaue Erfassung der Position bei der Dateneingabe. Aufgrund der höheren Präzession des dGNSS-Sensor im Vergleich zum Geräteinternen GPS-Sensor, kann durch dessen Nutzung zu einer Verringerung des Gesamtfehlers bei der Datenaufnahme beigetragen werden. |sehr empfehlenswert |
+
 
 ### Veröffentlichte Software-Versionen
-| Versionsnummer | Letzte Änderung | Downloadlink Profiling | Downloadlink Anwendungsfall | Was wurde gegenüber vorheriger Version geändert |
-| -------------- | --------------- | ---------------------- | --------------------------- | ----------------------------------------------- |
-| 1.0            | Lorem           |https://www.example.org | https://www.example.org     | Lorem ipsum dolor sit amet                      |
+| Versionsnummer | Letzte Änderung | Downloadlink Anwendungsfall                    | Was wurde gegenüber vorheriger Version geändert |
+| -------------- | --------------- | ---------------------------------------------- | ----------------------------------------------- |
+| 0.1            | 01.02.2023      | [Link zu Version 0.1](https://www.example.org) | Wiki-Beitrag ergänzt                            |
+| 0.0            | 23.02.2022      | [Link zu Version 0.0](https://www.example.org) | Wiki-Beitrag online gestellt                    |
+
 
 
 ## Weiterführende Informationen
