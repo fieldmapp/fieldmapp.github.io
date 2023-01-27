@@ -45,7 +45,7 @@ Die Funktionen, welche die Bedienoberfläche (vgl. Abb. 4) bereithält, ermögli
 
 <img src="/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig04_de.svg"
      alt="Benutzeroberflaeche"
-     style="float: left; margin-right: 1px;" />
+     style="float: left; width=75%;" />
 _**Abb. 4:** Aufbau der Bedienoberfläche des Anwendungsfalls „Minderertragsflächenkartierung“: Die Hälften der Bearbeitungsbreite links und rechts der Fahrspur werden durch Bereiche A und B repräsentiert. Im dargestellten Beispiel sind beide Bereich in jeweils drei Zonen (Zone 1-3 im Bereich A und Zone 4-6 im Bereich B) unterteilt. Durch Auswahl der Zonen können die Intensität (C) und die Ursachen (D) der (zu erwartenden) Ertragsminderung erfasst werden._
 
 ### Handhabung
