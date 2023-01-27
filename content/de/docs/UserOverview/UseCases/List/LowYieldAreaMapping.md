@@ -64,6 +64,7 @@ Interne Sensoren
 | -------------- | ------------------------------------------------------------------------------------------------------- | ------------------- |
 | Mikrophon      | Ermöglicht die Nutzung der Spracherkennung und damit <br>die Steuerung der Anwendung mittels Sprachbefehlen | sehr empfehlenswert |
 
+
 Externe Sensoren
 | Sensorname     | Zweck           | Nutzungsempfehlung |
 | -------------- | --------------- | ------------------ |
