@@ -55,14 +55,14 @@ ToDo
 Interne Sensoren
 | Sensorname     | Zweck                                                                | Ersetzbar                             | Nutzungsempfehlung |
 | -------------- | -------------------------------------------------------------------- | ------------------------------------- | -------------------- |
-| GPS            | Ermöglicht die Erfassung der Position <br>bei der der Eingabe der Daten. | Ja <br> (Alternative: externes dGNSS) | wenig empfehlenswert |
+| GPS            | Ermöglicht die Erfassung der Position <br>bei der Eingabe der Daten. | Ja <br> (Alternative: externes dGNSS) | wenig empfehlenswert |
 
 
 #### Liste optional einsetzbarer Sensoren
 Interne Sensoren
 | Sensorname     | Zweck                                                                                                   | Nutzungsempfehlung  |
 | -------------- | ------------------------------------------------------------------------------------------------------- | ------------------- |
-| Mikrophon      | Ermöglicht die Nutzung der Spracherkennung und damit die Steuerung der Anwendung mittels Sprachbefehlen | sehr empfehlenswert |
+| Mikrophon      | Ermöglicht die Nutzung der Spracherkennung und damit <br>die Steuerung der Anwendung mittels Sprachbefehlen | sehr empfehlenswert |
 
 Externe Sensoren
 | Sensorname     | Zweck           | Nutzungsempfehlung |
@@ -73,7 +73,7 @@ Externe Sensoren
 ### Veröffentlichte Software-Versionen
 | Versionsnummer | Letzte Änderung | Downloadlink Anwendungsfall                    | Was wurde gegenüber vorheriger Version geändert |
 | -------------- | --------------- | ---------------------------------------------- | ----------------------------------------------- |
-| 0.1            | 01.02.2023      | [Link zu Version 0.1](https://www.example.org) | Wiki-Beitrag ergänzt                            |
+| 0.1            | 27.01.2023      | [Link zu Version 0.1](https://www.example.org) | Wiki-Beitrag ergänzt                            |
 | 0.0            | 23.02.2022      | [Link zu Version 0.0](https://www.example.org) | Wiki-Beitrag online gestellt                    |
 
 
