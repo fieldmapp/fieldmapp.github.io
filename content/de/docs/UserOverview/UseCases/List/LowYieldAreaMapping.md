@@ -55,7 +55,7 @@ ToDo
 Interne Sensoren
 | Sensorname     | Zweck                                                                | Ersetzbar                             | Nutzungsempfehlung |
 | -------------- | -------------------------------------------------------------------- | ------------------------------------- | -------------------- |
-| GPS            | Ermöglicht die Erfassung der Position <br>bei der Eingabe der Daten. | Ja <br> (Alternative: externes dGNSS) | wenig empfehlenswert |
+| GPS            | Ermöglicht die Erfassung der Position bei der Eingabe der Daten. | Ja <br> (Alternative: externes dGNSS) | wenig empfehlenswert |
 
 
 #### Liste optional einsetzbarer Sensoren
