@@ -43,8 +43,9 @@ Die Funktionen, welche die Bedienoberfläche (vgl. Abb. 4) bereithält, ermögli
 * die Erfassung der Intensität der (zu erwartenden) Ertragsminderung (Abb. 4-C), und
 * die Erfassung der Ursache(n), welche die (zu erwartende) Ertragsminderung hervorrufen (Abb. 4-D).
 
-![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig04_de.svg)
-
+<img src="/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig04_de.svg"
+     alt="Benutzeroberflaeche"
+     style="float: left; margin-right: 10px;" />
 _**Abb. 4:** Aufbau der Bedienoberfläche des Anwendungsfalls „Minderertragsflächenkartierung“: Die Hälften der Bearbeitungsbreite links und rechts der Fahrspur werden durch Bereiche A und B repräsentiert. Im dargestellten Beispiel sind beide Bereich in jeweils drei Zonen (Zone 1-3 im Bereich A und Zone 4-6 im Bereich B) unterteilt. Durch Auswahl der Zonen können die Intensität (C) und die Ursachen (D) der (zu erwartenden) Ertragsminderung erfasst werden._
 
 ### Handhabung
@@ -183,7 +184,7 @@ _[[pdf](https://elib.dlr.de/146506/1/Truckenbrodt_etal_2021_FieldMApp.pdf)]_
 
 ### Publikationen
 * Truckenbrodt, S.C., M. Enderling, E. Borg, C. Schmullius & F. Klan (2023): ** Benefits and Challenges of Participatory Design in Agriculture: The Example of the FieldMApp.** - Proceedings of Science 407, Austrian Citizen Science Conference 2022 (ACSC2022), 28.-30.06.2022, Dornbirn, Österreich. <br>
-_[[pdf](https://pos.sissa.it/407/012/pdf)]_
+_ [[pdf](https://pos.sissa.it/407/012/pdf)] _
 
 ## Autoren & Entwickler
 ### Konzeption
