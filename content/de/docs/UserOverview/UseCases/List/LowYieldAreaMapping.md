@@ -6,16 +6,15 @@ weight: 100
 
 ## Allgemeines
 ### Ziel
-Landwirten soll eine weitgehend automatisierte Erzeugung digitaler Minderertragskarten (Shapefiles) zu ihren Anbauflächen ermöglicht werden sowie eine automatisierte Bereitstellung von Handlungsempfehlungen zu deren Bewirtschaftung. Zur Erreichung dieser Ziele werden aus Satellitenbildern und meteorologischen Daten automatisch Informationen extrahiert (wie z.B. die Größe von Minderertragsarealen und der Niederschlags- und Temperaturverlauf) und mit dem Wissen von Landwirten um örtliche Gegebenheiten (wie etwa die Ursache für den Minderertrag) verknüpft. Der hier beschriebene Anwendungsfall ermöglicht es, die dafür vom Landwirt benötigten Informationen zu Eigenschaften von Minderertragsarealen auf pflanzenbaulich genutzten Flächen digital zu erfassen. Damit dem Landwirt für die Erfassung der Informationen kein zusätzlicher Zeitaufwand entsteht, wird diese von der Landmaschine aus, während der Bewirtschaftung der zu kartierenden Felder, vorgenommen (vgl. Abb. 1).
+Landwirten soll eine weitgehend automatisierte Erzeugung digitaler Minderertragskarten (auf Basis von Shapefiles) zu ihren Anbauflächen ermöglicht werden sowie eine automatisierte Bereitstellung von Handlungsempfehlungen zu deren Bewirtschaftung. Zur Erreichung dieser Ziele werden aus Satellitenbildern und meteorologischen Daten automatisch Informationen extrahiert (wie z.B. die Größe von Minderertragsarealen) und mit dem Wissen von Landwirten um örtliche Gegebenheiten (wie etwa die Ursache für den Minderertrag) verknüpft. Der hier beschriebene Anwendungsfall ermöglicht es, die dafür von Landwirten benötigten Informationen zu Eigenschaften von Minderertragsarealen auf pflanzenbaulich genutzten Flächen digital zu erfassen. Damit Landwirten durch die Erfassung der Informationen kein zusätzlicher Zeitaufwand entsteht, wird diese von der Landmaschine aus, während der Bewirtschaftung der zu kartierenden Felder, vorgenommen (vgl. Abb. 1).
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig01.jpg)
 
-_**Abb. 1:** Zonenweise Erfassung ausgewählter Eigenschaften von Minderertragsarealen währen der Bewirtschaftung von pflanzenbaulich genutzten Flächen. (Photo: M. Enderling, Bearbeitung: S.C. Truckenbrodt)_
+_**Abb. 1:** Zonenweise Erfassung ausgewählter Eigenschaften von Minderertragsarealen während der Bewirtschaftung pflanzenbaulich genutzter Flächen. (Photo: M. Enderling, Bearbeitung: S.C. Truckenbrodt)_
 
 ### Adressierte Nutzergruppe
-
 * Landwirtinnen und Landwirte
-* Fahrerinnen und Fahrer von Landmaschinen (z.B. Schlepper, Traktoren, selbstfahrende Spritze, Mähdrescher, Kartoffelvollernter)
+* Fahrerinnen und Fahrer von Landmaschinen (z.B. Schlepper, Traktor, selbstfahrende Spritze, Mähdrescher, Kartoffelvollernter)
 
 ### Einsatzort
 
@@ -23,10 +22,10 @@ _**Abb. 1:** Zonenweise Erfassung ausgewählter Eigenschaften von Minderertragsa
 
 ### Ausgabegrößen
 
-* Shapefiles die rechteckige Polygone enthalten, welche bei mit der kleinst möglichen Ausdehung Problemstandorte, hier potentielle Minderertragsflächen, einrahmen.
+* Shapefiles, die rechteckige Polygone enthalten, welche bei mit der kleinstmöglichen Ausdehnung Problemstandorte, hier potentielle Minderertragsflächen, einrahmen.
 
 ### Entwickler- und Projektmanagerübersicht
-* Sie sind Entwickler/-in und möchten den Anwendungsfall weiterentwicklen oder adaptieren? <br>
+* Sie sind Entwickler/-in und möchten den Anwendungsfall weiterentwickeln oder adaptieren? <br>
   Dann geht es [hier](https://fieldmapp.github.io/docs/modules/drivingview/developers/) entlang zu weiteren Informationen.
 * Sie sind Projektmanager und möchten mehr Informationen zur Nutzung der Fahrtansicht und den damit gewonnen Daten? <br>
   Dann können Sie sich [hier](https://fieldmapp.github.io/docs/modules/drivingview/projectmanagers/) dazu informieren.
