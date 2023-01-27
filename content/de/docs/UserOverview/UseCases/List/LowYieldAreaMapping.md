@@ -134,20 +134,20 @@ ToDo
 ## Hard- und Software-Ausstattung
 ### Rückgriff auf interne und externe Messgeräte
 #### Liste erforderliche Sensoren
-**Interne Sensoren**
+Interne Sensoren
 | Sensorname     | Zweck                                                                | Ersetzbar                             | Nutzungsempfehlung |
 | -------------- | -------------------------------------------------------------------- | ------------------------------------- | -------------------- |
 | GPS            | Ermöglicht die Erfassung der Position bei der Eingabe der Daten. | Ja <br> (Alternative: externes dGNSS) | wenig empfehlenswert |
 
 
 #### Liste optional einsetzbarer Sensoren
-**Interne Sensoren**
+Interne Sensoren
 | Sensorname     | Zweck                                                                                                   | Nutzungsempfehlung  |
 | -------------- | ------------------------------------------------------------------------------------------------------- | ------------------- |
 | Mikrophon      | Ermöglicht die Nutzung der Spracherkennung und damit <br>die Steuerung der Anwendung mittels Sprachbefehlen | sehr empfehlenswert |
 
 
-**Externe Sensoren**
+Externe Sensoren
 | Sensorname     | Zweck           | Nutzungsempfehlung |
 | -------------- | --------------- | ------------------ |
 | Differentielles Global Navigation Satellite System ([dGNSS](https://fieldmapp.github.io/docs/useroverview/sensors/external/dgnss/)) | Ermöglicht die zentimetergenaue Erfassung der Position bei der Dateneingabe. Aufgrund der höheren Präzession des dGNSS-Sensor im Vergleich zum Geräteinternen GPS-Sensor, kann durch dessen Nutzung zu einer Verringerung des Gesamtfehlers bei der Datenaufnahme beigetragen werden. |sehr empfehlenswert |
