@@ -26,8 +26,10 @@ _**Abb. 1:** Zonenweise Erfassung ausgewählter Eigenschaften von Minderertragsa
 * Shapefiles die rechteckige Polygone enthalten, welche bei mit der kleinst möglichen Ausdehung Problemstandorte, hier potentielle Minderertragsflächen, einrahmen.
 
 ### Entwickler- und Projektmanagerübersicht
-Sie sind Entwickler/-in und möchten den Anwendungsfall weiterentwicklen oder adaptieren? Dann geht es [hier](https://fieldmapp.github.io/docs/modules/drivingview/developers/) entlang zu weiteren Informationen.
-Sie sind Projektmanager und möchten mehr Informationen zur Nutzung der Fahrtansicht und den damit gewonnen Daten? Dann können Sie sich [hier](https://fieldmapp.github.io/docs/modules/drivingview/projectmanagers/) dazu informieren.
+* Sie sind Entwickler/-in und möchten den Anwendungsfall weiterentwicklen oder adaptieren? <br>
+  Dann geht es [hier](https://fieldmapp.github.io/docs/modules/drivingview/developers/) entlang zu weiteren Informationen.
+* Sie sind Projektmanager und möchten mehr Informationen zur Nutzung der Fahrtansicht und den damit gewonnen Daten? <br>
+  Dann können Sie sich [hier](https://fieldmapp.github.io/docs/modules/drivingview/projectmanagers/) dazu informieren.
 
 
 TODO:
