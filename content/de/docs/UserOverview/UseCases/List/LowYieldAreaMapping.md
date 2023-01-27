@@ -17,11 +17,9 @@ _**Abb. 1:** Zonenweise Erfassung ausgewählter Eigenschaften von Minderertragsa
 * Fahrerinnen und Fahrer von Landmaschinen (z.B. Schlepper, Traktor, selbstfahrende Spritze, Mähdrescher, Kartoffelvollernter)
 
 ### Einsatzort
-
 * Pflanzenbaulich genutzte Flächen (z.B. Acker, Schlag)
 
 ### Ausgabegrößen
-
 * Shapefiles, die rechteckige Polygone enthalten, welche bei mit der kleinstmöglichen Ausdehnung Problemstandorte, hier potentielle Minderertragsflächen, einrahmen.
 
 ### Entwickler- und Projektmanagerübersicht
@@ -31,6 +29,82 @@ _**Abb. 1:** Zonenweise Erfassung ausgewählter Eigenschaften von Minderertragsa
   Dann können Sie sich [hier](https://fieldmapp.github.io/docs/modules/drivingview/projectmanagers/) dazu informieren.
 
 
+## Hinweise zur Nutzung
+### Einsatzszenario
+ToDo
+
+### Aufbau der Bedienoberflächen
+ToDo
+
+### Handhabung
+ToDo
+
+### Leitfaden zur bewährten Datenerfassung
+ToDo
+
+### Liste erfasster Kenngrößen
+ToDo
+
+### Unsicherheits- und Genauigkeitsangaben 
+ToDo
+
+
+## Hard- und Software-Ausstattung
+### Rückgriff auf interne und externe Messgeräte
+ToDo
+
+#### Liste erforderliche Sensoren
+ToDo
+
+#### Liste optional einsetzbarer Sensoren
+ToDo
+
+### Veröffentlichte Software-Versionen
+| Versionsnummer | Letzte Änderung | Downloadlink Profiling | Downloadlink Anwendungsfall | Was wurde gegenüber vorheriger Version geändert |
+| -------------- | --------------- | ---------------------- | --------------------------- | ----------------------------------------------- |
+| 1.0            | Lorem           |https://www.example.org | https://www.example.org     | Lorem ipsum dolor sit amet                      |
+
+
+## Weiterführende Informationen
+### Posterbeiträge
+* Truckenbrodt, S.C., M. Enderling, C. Pathe, E. Borg, C. Schmullius & F. Klan (2021): **Die FieldMApp – eine vielseitig einsetzbare Softwarelösung zur Datenaufnahme mit mobilen Endgeräten.** – 1. AgriSens FELDTAG „Einsatz von Fernerkundungstechnologien in der Landwirtschaft“, 4. November 2021, Kruckow, Deutschland (Poster). <br>
+_[[pdf](https://elib.dlr.de/146508/1/AgriSensFeldtag21_AF2_Poster_FieldMApp_Aufbau_final.pdf)]_
+
+### Vorträge
+* Truckenbrodt, S.C., M. Enderling, E. Borg & F. Klan (2021): **AgriSens - DEMMIN 4.0 Anwendungsfall 2: Nachhaltige Bewirtschaftung.** – 1. AgriSens FELDTAG „Einsatz von Fernerkundungstechnologien in der Landwirtschaft“, 4. November 2021, Kruckow, Deutschland (Vortrag). <br>
+_[[pdf](https://elib.dlr.de/146506/1/Truckenbrodt_etal_2021_FieldMApp.pdf)]_
+
+### Publikationen
+* Truckenbrodt, S.C., M. Enderling, E. Borg, C. Schmullius & F. Klan (2023): ** Benefits and Challenges of Participatory Design in Agriculture: The Example of the FieldMApp.** - Proceedings of Science 407, Austrian Citizen Science Conference 2022 (ACSC2022), 28.-30.06.2022, Dornbirn, Österreich. <br>
+_[[pdf](https://doi.org/10.22323/1.407.0012)]_
+
+
+## Autoren & Entwickler
+### Konzeption
+* Sina C. Truckenbrodt
+* Friederike Klan
+* Maximilian Enderling
+* Erik Borg
+
+### Dokumentation im Wiki
+* Sina C. Truckenbrodt
+* Maximilian Enderling
+
+### Code Entwicklung
+* Maximilian Enderling
+
+## Zitationsvorschlag
+Truckenbrodt, S.C., M. Enderling, E. Borg & F. Klan (2022): FieldMApp Nutzerübersicht. Anwendungsfall Minderertragsflächenkartierung. <https://fieldmapp.github.io/docs/useroverview/usecases/list/lowyieldareamapping/> (Stand: 2023-01-26) (Zugriff: YYYY-MM-DD).
+
+
+## Lizenz
+ToDo
+
+
+
+
+
+_______________________
 TODO:
 # Einsatzszenario
 
