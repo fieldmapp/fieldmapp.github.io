@@ -37,13 +37,95 @@ ToDo
 ToDo
 
 ### Handhabung
-ToDo
+**1. Anwendungsfall `Minderertragskartierung` im Menü der FieldMApp anwählen**
+
+
+**2. Festlegen der Konfiguration der Benutzeroberfläche** (OPTIONAL)
+<details><summary>2.1. Bereits vorhandene Konfiguration anpassen</summary>
+ 
+ * auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
+ * den Button `KONFIGURATION ANPASSEN` antippen, sodass die Konfigurationsansicht geöffnet wird (weiteres Vorgehen siehe 2-b-ii)
+ 
+{{% pageinfo %}}
+Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfiguration überschrieben, auch wenn diese einen neuen Konfigurationsnamen erhält.
+{{% /pageinfo %}}
+</details>
+ 
+
+<details><summary>2.2	Neue Konfiguration erstellen</summary>
+ 
+ * Den Button `NEUE KONFIGURATION ERSTELLEN` antippen, sodass die Konfigurationsansicht geöffnet wird.
+ * Anpassung des Konfigurationsnamens <br>
+ In die Zeile hinter „Konfigurationsname“ tippen und mit dem sich öffnenden Tastenfeld den Namen eintragen, unter dem die Konfiguration gespeichert werden soll.
+ * Festlegen der Bearbeitungsbreite <br>
+ In die Zeile hinter „Bearbeitungsbreite (in Metern)“ tippen und mit dem sich öffnenden Ziffernblock die Bearbeitungsbreite in Metern eingeben, für welche die Kartierung erfolgen soll.
+ * Festlegen der kartierbaren Minderertragsursachen <br>
+ Nacheinander jedes der zur Verfügung stehenden Felder unter „Auswahl Minderertragsursache“ Antippen und festlegen, ob dieses zu einem Button mit einer Minderertragsursache werden soll.
+   * _Falls ja:_ Aus der erscheinenden Liste (Abb. 2-B) eine Minderertragsursache (Abb. 2-B2) durch Antippen auswählen oder durch Antippen von `Neu erstellen` (Abb. 2-B3), das Fenster öffnen, über das eine neue, die Liste ergänzende Ursache eingeben und durch Tippen auf `OK` hinzugefügt werden kann (Abb. 2-C).
+   * _Falls nein:_ Aus der erscheinenden Liste `Schaltfläche verstecken` durch Antippen auswählen.
+ * Festlegen der Zonenanzahl <br>
+ Unter „Anzahl der Zonen“ kann die Anzahl der Zonen, welche symmetrisch jeweils auf die halbe Bearbeitungsbreite rechts bzw. links der Fahrspur verteilt werden soll, durch den Schieberegler festgelegt werden.
+ * Durch Antippen von `Speichern` wird die Konfiguration unter dem angegebene Konfigurationsnamen gespeichert. 
+ 
+{{% pageinfo %}}
+Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.
+{{% /pageinfo %}}
+</details><br>
+
+
+**3. Konfiguration der Bedienoberfläche auswählen** 
+<details><summary>3.1 Auswahl</summary>
+ 
+ * Die Auswahl erfolgt indem der Name einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt und durch berühren des Buttons „AUSGEWÄHLTE KONFIGURATION BENUTZEN“ geöffnet wird.
+</details><br>
+
+
+**4. Datenaufnahme mit der Fahrtansicht** 
+<details><summary>4.1 Markieren des Anfangs einer Minderertragsfläche</summary>
+ 
+ * Lorem ipsum dolor
+ * Lorem ipsum dolor
+</details>
+
+<details><summary>4.2 Eingabe der Eigenschaften von Minderertragsflächen</summary>
+ 
+ * Lorem ipsum dolor
+ * Lorem ipsum dolor
+</details>
+
+<details><summary>4.3 Markieren des Endes einer Minderertragsfläche</summary>
+ 
+ * Lorem ipsum dolor
+ * Lorem ipsum dolor
+</details>
+
+<details><summary>4.4 Korrektur bei Falscheingaben</summary>
+ 
+ * Lorem ipsum dolor
+ * Lorem ipsum dolor
+</details>
+<br>
 
 ### Leitfaden zur bewährten Datenerfassung
-ToDo
+ * Für ein Feld sollte die Erfassung der Minderertragsflächen mehrmals unabhängig voneinander erfolgen. Auf diese Weise soll sichergestellt werden, dass
+   * … alle potentiellen Minderertragsstandorte erfasst werden, auch wenn deren Ausprägung nur unter unterschiedlichen Witterungsbedingungen entsteht.
+   * … die größtmögliche Ausdehnung der potentiellen Minderertragsfläche kartiert wird sowie die üblicherweise auftretende Varianz in der Ausdehnung.
+   * … anhand der Analyse der Häufigkeitsverteilung einer erfassten Eigenschaft (wie z.B. der Minderertragsursache) eventuell erfolgte Fehlangaben ausgeschlossen werden können.
+
+ * Sollte lokal eine exakte Erfassung der Problemstandorte während einer Befahrung nicht möglich sein, z.B. auf Grund einer hohen standörtlichen Heterogenität, empfehlen wir die Erfassung auf den Teil der Problemstandorte zu beschränken, die bei erhalt der Qualität leistbar ist. Die verbleibenden Problemstandorte können bei späteren Befahrungen ergänzt werden.
+
 
 ### Liste erfasster Kenngrößen
-ToDo
+| Kenngröße      | Kürzel          | Definition      | Auswahloptionen |
+| -------------- | --------------- | --------------- | --------------- |
+| Zeit | UtcDateTime | Datum und Uhrzeit (bezogen auf die koordinierte Weltzeit (UTC – Universal Time Coordinated)) der Eingabe durch den Nutzer |  |
+| Ortskoordinaten | UtcDateTime | Koordinaten des Ortes der Eingabe durch den Nutzer im Rohdatenformat RTCM 3.3|  |
+| Zonennummer | LaneIndex | Nummer des Streifens (= Zone) links oder rechts der Fahrspur, für den die Dateneingabe durch den Nutzer erfolgt | „1“, „2“, „3“, „4“, „5“, „6“ |
+| Beginn Minderertragszone | Action | Markiert den Beginn einer Minderertragsfläche, innerhalb einer Zone. | „Start“ |
+| Ende Minderertragszone | Action | Markiert das Ende einer Minderertragsfläche, innerhalb einer Zone. | „Stop“ |
+| Ursache | Action cause | Grund, der das beobachtete verminderte Pflanzenwachstum und somit den (zu erwartenden) Minderertrag hervorruft. | „Sandlinse“, „Verdichtung“, Vorgewende“, „Kuppe“, Hang“, „Waldrand“, „Trockenstress“, „Nassstelle“, „Mäusefraß/Wildschaden“ |
+| Ertragsminderung | Action damage | Aktuell zu beobachtender Grad der Beeinträchtigung des Pflanzenwachstums und des deshalb (zu erwartenden) Minderertrags | „gering“, „mittel“, „hoch“ |
+
 
 ### Unsicherheits- und Genauigkeitsangaben 
 ToDo
@@ -152,74 +234,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 # Beschreibung Handhabung/Workflow
-**1. Anwendungsfall `Minderertragskartierung` im Menü der FieldMApp anwählen**
 
-
-**2. Festlegen der Konfiguration der Benutzeroberfläche** (OPTIONAL)
-<details><summary>2.1. Bereits vorhandene Konfiguration anpassen</summary>
- 
- * auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
- * den Button `KONFIGURATION ANPASSEN` antippen, sodass die Konfigurationsansicht geöffnet wird (weiteres Vorgehen siehe 2-b-ii)
- 
-{{% pageinfo %}}
-Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfiguration überschrieben, auch wenn diese einen neuen Konfigurationsnamen erhält.
-{{% /pageinfo %}}
-</details>
- 
-
-<details><summary>2.2	Neue Konfiguration erstellen</summary>
- 
- * Den Button `NEUE KONFIGURATION ERSTELLEN` antippen, sodass die Konfigurationsansicht geöffnet wird.
- * Anpassung des Konfigurationsnamens <br>
- In die Zeile hinter „Konfigurationsname“ tippen und mit dem sich öffnenden Tastenfeld den Namen eintragen, unter dem die Konfiguration gespeichert werden soll.
- * Festlegen der Bearbeitungsbreite <br>
- In die Zeile hinter „Bearbeitungsbreite (in Metern)“ tippen und mit dem sich öffnenden Ziffernblock die Bearbeitungsbreite in Metern eingeben, für welche die Kartierung erfolgen soll.
- * Festlegen der kartierbaren Minderertragsursachen <br>
- Nacheinander jedes der zur Verfügung stehenden Felder unter „Auswahl Minderertragsursache“ Antippen und festlegen, ob dieses zu einem Button mit einer Minderertragsursache werden soll.
-   * _Falls ja:_ Aus der erscheinenden Liste (Abb. 2-B) eine Minderertragsursache (Abb. 2-B2) durch Antippen auswählen oder durch Antippen von `Neu erstellen` (Abb. 2-B3), das Fenster öffnen, über das eine neue, die Liste ergänzende Ursache eingeben und durch Tippen auf `OK` hinzugefügt werden kann (Abb. 2-C).
-   * _Falls nein:_ Aus der erscheinenden Liste `Schaltfläche verstecken` durch Antippen auswählen.
- * Festlegen der Zonenanzahl <br>
- Unter „Anzahl der Zonen“ kann die Anzahl der Zonen, welche symmetrisch jeweils auf die halbe Bearbeitungsbreite rechts bzw. links der Fahrspur verteilt werden soll, durch den Schieberegler festgelegt werden.
- * Durch Antippen von `Speichern` wird die Konfiguration unter dem angegebene Konfigurationsnamen gespeichert. 
- 
-{{% pageinfo %}}
-Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.
-{{% /pageinfo %}}
-</details><br>
-
-
-**3. Konfiguration der Bedienoberfläche auswählen** 
-<details><summary>3.1 Auswahl</summary>
- 
- * Die Auswahl erfolgt indem der Name einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt und durch berühren des Buttons „AUSGEWÄHLTE KONFIGURATION BENUTZEN“ geöffnet wird.
-</details><br>
-
-
-**4. Datenaufnahme mit der Fahrtansicht** 
-<details><summary>4.1 Markieren des Anfangs einer Minderertragsfläche</summary>
- 
- * Lorem ipsum dolor
- * Lorem ipsum dolor
-</details>
-
-<details><summary>4.2 Eingabe der Eigenschaften von Minderertragsflächen</summary>
- 
- * Lorem ipsum dolor
- * Lorem ipsum dolor
-</details>
-
-<details><summary>4.3 Markieren des Endes einer Minderertragsfläche</summary>
- 
- * Lorem ipsum dolor
- * Lorem ipsum dolor
-</details>
-
-<details><summary>4.4 Korrektur bei Falscheingaben</summary>
- 
- * Lorem ipsum dolor
- * Lorem ipsum dolor
-</details>
-<br>
 
 
 # Rückgriff auf interne und externe Messgeräte
