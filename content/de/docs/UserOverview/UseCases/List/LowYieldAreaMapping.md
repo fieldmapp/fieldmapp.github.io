@@ -199,87 +199,9 @@ ToDo
 
 
 
-
-_______________________
-TODO:
-# Einsatzszenario
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-# Liste erfassbarer Variablen
-
-## Liste der Variablen
-
-- Lorem ipsum
-- dolor sit amet
-
-## Variablen Definition und Kürzel
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-## Best-Practice-Guidline für Variablenerfassung
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-# Kopplung mit Profiling?
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-# Aufbau Benutzeroberfläche des Proflings
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-# Aufbau Nutzeroberfläche für den Anwendungsfall
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-# Beschreibung Handhabung/Workflow
-
-
-
-# Rückgriff auf interne und externe Messgeräte
-
-## Liste erforderliche Sensoren
-
-Jeweils mit Kennzeichnung, ob dieser Sensor intern/extern ist
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-## Liste optional einsetzbarer Sensoren
-
-Jeweils mit Kennzeichnung, ob dieser Sensor intern/extern ist
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
 # Versionen des Anwendungsfall
 
 | Versionsnummer | Letzte Änderung | Downloadlink Profiling | Downloadlink Anwendungsfall | Was wurde gegenüber vorheriger Version geändert |
 | -------------- | --------------- | ---------------------- | --------------------------- | ----------------------------------------------- |
 | 1.0            | Lorem           |https://www.example.org | https://www.example.org     | Lorem ipsum dolor sit amet                      |
 
-# Weiterführende Informationen
-
-Links zu Anwendungsfallspezifischen Publikationen
-
-# Link zur zugehörigen Entwickler- und Projektmanagerübersicht
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-# Autoren & Entwickler
-## Konzeption
-* Sina C. Truckenbrodt
-* Friederike Klan
-* Maximilian Enderling
-* Erik Borg
-
-## Dokumentation im Wiki
-* Sina C. Truckenbrodt
-* Maximilian Enderling
-
-## Code Entwicklung
-* Maximilian Enderling
-
-## Zitationsvorschlag
-Truckenbrodt, S.C., M. Enderling, E. Borg & F. Klan (2022): FieldMApp Nutzerübersicht. Anwendungsfall Minderertragsflächenkartierung. <https://fieldmapp.github.io/docs/useroverview/usecases/list/lowyieldareamapping/> (Stand: 2023-01-26) (Zugriff: YYYY-MM-DD).
-
-# Lizenz
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
