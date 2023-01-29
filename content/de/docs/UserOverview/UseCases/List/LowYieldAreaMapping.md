@@ -208,7 +208,7 @@ ToDo
 
 
 
-# Versionen des Anwendungsfall
+# Versionen des Anwendungsfalles
 
 | Versionsnummer | Letzte Änderung | Downloadlink Profiling | Downloadlink Anwendungsfall | Was wurde gegenüber vorheriger Version geändert |
 | -------------- | --------------- | ---------------------- | --------------------------- | ----------------------------------------------- |
