@@ -67,9 +67,10 @@ Folgende Anpassungen werden durch die Konfigurationsansicht ermöglicht:
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig04_de.svg)
 
 _**Abb. 4:** Aufbau des (A) Menüs zur individuellen Konfiguration der Bedienoberfläche der FieldMApp-Fahrtansicht und des zugehörigen (B) Sub-Menüs zur Festlegung der Ursachen, die zur Ausbildung des zu erfassenden Problemstandortes geführt haben. Das Sub-Menü umfasst neben (B2) einer Auswahlliste, auch die Möglichkeit zur (B3, C) Eingabe weiterer Ursachen._
-
+<br>
 
 **Bedienoberfläche zur Datenaufnahme**
+
 Die Bedienoberfläche zur Datenaufnahme kann nach Auswahl einer Konfiguration mit `AUSGEWÄHLTE KONFIGURATION BENUTZEN` geöffnet werden. Die Funktionen, welche die Bedienoberfläche zur Datenaufnahme (vgl. Abb. 5) bereithält, ermöglichen:
 * die Auswahl von bis zu drei Zonen links (Abb. 5-A) und rechts (Abb. 5-B) der Fahrspur. Für eine einzelne Zone oder mehrere Zonen gleichzeitig, kann:
 * der Anfang einer Minderertragsfläche durch Antippen der bzw. Wischen über die entsprechende(n) Zonennummer(n) bei A1 bzw. B1 (siehe Abb. 5) festgelegt werden,
@@ -80,6 +81,7 @@ Die Bedienoberfläche zur Datenaufnahme kann nach Auswahl einer Konfiguration mi
 * die Erfassung der Ursache(n), welche die (zu erwartende) Ertragsminderung hervorrufen (Abb. 5-D).
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig05_de.svg)
+
 _**Abb. 5:** Aufbau der Bedienoberfläche des Anwendungsfalls „Minderertragsflächenkartierung“: Die Hälften der Bearbeitungsbreite links und rechts der Fahrspur werden durch Bereiche A und B repräsentiert. Im dargestellten Beispiel sind beide Bereich in jeweils drei Zonen (Zone 1-3 im Bereich A und Zone 4-6 im Bereich B) unterteilt. Durch Auswahl der Zonen können die Intensität (C) und die Ursachen (D) der (zu erwartenden) Ertragsminderung erfasst werden._
 
 
