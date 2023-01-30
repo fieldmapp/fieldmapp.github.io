@@ -1,22 +1,7 @@
 // hack because in our version of docs the navbar-brand__name class is missing
-.navbar-logo {
-      svg {
-        display: none;
-        position: absolute;
-        top: 0;
-        z-index: 33;
-        padding: 50px;
-        height: 195px;
-        border-top: none;
-
-        @include media-breakpoint-down(md) {
-          width: 80px;
-          height: auto;
-          padding: 6px;
-        }
-      }
-    }
-
+.navbar-logo + span {
+    display: none;
+}
 
 .full-fieldmapp-logo {
     max-height: 22rem;
