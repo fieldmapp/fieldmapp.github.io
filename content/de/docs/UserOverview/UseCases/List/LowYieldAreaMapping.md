@@ -53,16 +53,18 @@ _**Abb. 3:** Darstellung des Ergebnis-Shapefiles das aus einer Kartierung von po
 
 
 ### Aufbau der Bedienoberflächen
+
 **Bedienoberfläche zur Konfiguration**
+
 Die Konfigurationsansicht (Abb. 4-A) mit deren Hilfe die Bedienoberfläche zur Datenaufnahme den individuellen Anforderungen entsprechend ausgestaltet bzw. angepasst werden kann, ist über den Button `NEUE KONFIGURATION ERSTELLEN` bzw. `KONFIGURATION ANPASSEN` zu erreichen. 
 Folgende Anpassungen werden durch die Konfigurationsansicht ermöglicht:
- * Vergabe bzw. Anpassung eines Konfigurationsnamens (Abb. 4-A1), unter dem die vorgenommenen Einstellungen gespeichert (Abb. 4-A5) und bei Bedarf wieder abgerufen werden können.
- * Die Eingabe der Bearbeitungsbreite (Abb. 4-A2), als die Breite auf die sich die Datenaufnahme bei der Befahrung einer Fahrspur bezieht. Die Angabe erfolgt in Metern und ist erforderlich, um die Ergebnisdateien erzeugen zu können.
- * Die Auswahl von bis zu neun Minderertragsursachen, die in der aktuellen Situation erkenn- und somit kartierbar sind (Abb. 4-A3). Die Anordnung der Ursachen auf den dafür zur Verfügung stehenden Buttons kann individuell festgelegt werden. Durch Antippen eines Buttons erscheint eine Auswahlliste (Abb. 4-B):
+* Vergabe bzw. Anpassung eines Konfigurationsnamens (Abb. 4-A1), unter dem die vorgenommenen Einstellungen gespeichert (Abb. 4-A5) und bei Bedarf wieder abgerufen werden können.
+* Die Eingabe der Bearbeitungsbreite (Abb. 4-A2), als die Breite auf die sich die Datenaufnahme bei der Befahrung einer Fahrspur bezieht. Die Angabe erfolgt in Metern und ist erforderlich, um die Ergebnisdateien erzeugen zu können.
+* Die Auswahl von bis zu neun Minderertragsursachen, die in der aktuellen Situation erkenn- und somit kartierbar sind (Abb. 4-A3). Die Anordnung der Ursachen auf den dafür zur Verfügung stehenden Buttons kann individuell festgelegt werden. Durch Antippen eines Buttons erscheint eine Auswahlliste (Abb. 4-B):
    * Soll der Button während der Kartierung nicht angezeigt werden, wählt man `Schaltfläche verstecken` aus (Abb. 4-B1). 
    * Soll der Button hingegen mit einer Ursache belegt werden, kann auf eine Liste vordefinierter Minderertragsursachen zurückgegriffen werden (Abb. 4-B2). 
    * Nicht aufgelistete Ursachen können ergänzt werden, in dem `Neu erstellen` (Abb. 4-B3) angetippt und die Ursache (Abb. 4-C1) sowie zugehörige Schlüsselwörter für sie Spracherkennung (Abb. 4-C2) in den sich nacheinander öffnenden Fenstern eingegeben werden.
- * Die Festlegung der Anzahl von Zonen (Abb. 4-A4) gleicher Breite, in welche die halbe Bearbeitungsbreite (Abb. 4-A2) links und und rechts der Fahrspur jeweils unterteilt werden soll. Die Seiten können in ein bis drei Zonen unterteilt werden.
+* Die Festlegung der Anzahl von Zonen (Abb. 4-A4) gleicher Breite, in welche die halbe Bearbeitungsbreite (Abb. 4-A2) links und und rechts der Fahrspur jeweils unterteilt werden soll. Die Seiten können in ein bis drei Zonen unterteilt werden.
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig04_de.svg)
 
@@ -93,8 +95,8 @@ _**Abb. 5:** Aufbau der Bedienoberfläche des Anwendungsfalls „Minderertragsfl
 **2. Festlegen der Konfiguration der Benutzeroberfläche** (OPTIONAL)
 <details><summary>2.1. Bereits vorhandene Konfiguration anpassen</summary>
  
- * auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
- * den Button `KONFIGURATION ANPASSEN` antippen, sodass die Konfigurationsansicht geöffnet wird (weiteres Vorgehen siehe 2.2 zweiter Spiegelstrich)
+* auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
+* den Button `KONFIGURATION ANPASSEN` antippen, sodass die Konfigurationsansicht geöffnet wird (weiteres Vorgehen siehe 2.2 zweiter Spiegelstrich)
  
 {{% pageinfo %}}
 Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfiguration überschrieben, auch wenn diese einen neuen Konfigurationsnamen erhält.
@@ -104,18 +106,18 @@ Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfigurati
 
 <details><summary>2.2	Neue Konfiguration erstellen</summary>
  
- * Den Button `NEUE KONFIGURATION ERSTELLEN` antippen, sodass die Konfigurationsansicht geöffnet wird.
- * Anpassung des Konfigurationsnamens <br>
+* Den Button `NEUE KONFIGURATION ERSTELLEN` antippen, sodass die Konfigurationsansicht geöffnet wird.
+* Anpassung des Konfigurationsnamens <br>
  In die Zeile hinter „Konfigurationsname“ tippen und mit dem sich öffnenden Tastenfeld den Namen eintragen, unter dem die Konfiguration gespeichert werden soll.
- * Festlegen der Bearbeitungsbreite <br>
+* Festlegen der Bearbeitungsbreite <br>
  In die Zeile hinter „Bearbeitungsbreite (in Metern)“ tippen und mit dem sich öffnenden Ziffernblock die Bearbeitungsbreite in Metern eingeben, für welche die Kartierung erfolgen soll.
- * Festlegen der kartierbaren Minderertragsursachen <br>
+* Festlegen der kartierbaren Minderertragsursachen <br>
  Nacheinander jedes der zur Verfügung stehenden Felder unter „Auswahl Minderertragsursache“ Antippen und festlegen, ob dieses zu einem Button mit einer Minderertragsursache werden soll.
    * _Falls ja:_ Aus der erscheinenden Liste (Abb. 2-B) eine Minderertragsursache (Abb. 2-B2) durch Antippen auswählen oder durch Antippen von `Neu erstellen` (Abb. 2-B3), das Fenster öffnen, über das eine neue, die Liste ergänzende Ursache eingeben und durch Tippen auf `OK` hinzugefügt werden kann (Abb. 2-C).
    * _Falls nein:_ Aus der erscheinenden Liste `Schaltfläche verstecken` durch Antippen auswählen.
- * Festlegen der Zonenanzahl <br>
+* Festlegen der Zonenanzahl <br>
  Unter „Anzahl der Zonen“ kann die Anzahl der Zonen, welche symmetrisch jeweils auf die halbe Bearbeitungsbreite rechts bzw. links der Fahrspur verteilt werden soll, durch den Schieberegler festgelegt werden.
- * Durch Antippen von `Speichern` wird die Konfiguration unter dem angegebene Konfigurationsnamen gespeichert. 
+* Durch Antippen von `Speichern` wird die Konfiguration unter dem angegebene Konfigurationsnamen gespeichert. 
  
 {{% pageinfo %}}
 Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.
@@ -126,43 +128,43 @@ Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen v
 **3. Konfiguration der Bedienoberfläche auswählen** 
 <details><summary>3.1 Auswahl</summary>
  
- * Die Auswahl erfolgt indem der Name einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt und durch berühren des Buttons „AUSGEWÄHLTE KONFIGURATION BENUTZEN“ geöffnet wird.
+* Die Auswahl erfolgt indem der Name einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt und durch berühren des Buttons „AUSGEWÄHLTE KONFIGURATION BENUTZEN“ geöffnet wird.
 </details><br>
 
 
 **4. Datenaufnahme mit der Fahrtansicht** 
 <details><summary>4.1 Markieren des Anfangs einer Minderertragsfläche</summary>
  
- * Lorem ipsum dolor
- * Lorem ipsum dolor
+* Lorem ipsum dolor
+* Lorem ipsum dolor
 </details>
 
 <details><summary>4.2 Eingabe der Eigenschaften von Minderertragsflächen</summary>
  
- * Lorem ipsum dolor
- * Lorem ipsum dolor
+* Lorem ipsum dolor
+* Lorem ipsum dolor
 </details>
 
 <details><summary>4.3 Markieren des Endes einer Minderertragsfläche</summary>
  
- * Lorem ipsum dolor
- * Lorem ipsum dolor
+* Lorem ipsum dolor
+* Lorem ipsum dolor
 </details>
 
 <details><summary>4.4 Korrektur bei Falscheingaben</summary>
  
- * Lorem ipsum dolor
- * Lorem ipsum dolor
+* Lorem ipsum dolor
+* Lorem ipsum dolor
 </details>
 <br>
 
 ### Leitfaden zur bewährten Datenerfassung
- * Für ein Feld sollte die Erfassung der Minderertragsflächen mehrmals unabhängig voneinander erfolgen. Auf diese Weise soll sichergestellt werden, dass
+* Für ein Feld sollte die Erfassung der Minderertragsflächen mehrmals unabhängig voneinander erfolgen. Auf diese Weise soll sichergestellt werden, dass
    * … alle potentiellen Minderertragsstandorte erfasst werden, auch wenn deren Ausprägung nur unter unterschiedlichen Witterungsbedingungen entsteht.
    * … die größtmögliche Ausdehnung der potentiellen Minderertragsfläche kartiert wird sowie die üblicherweise auftretende Varianz in der Ausdehnung.
    * … anhand der Analyse der Häufigkeitsverteilung einer erfassten Eigenschaft (wie z.B. der Minderertragsursache) eventuell erfolgte Fehlangaben ausgeschlossen werden können.<br>
 
- * Sollte lokal eine exakte Erfassung der Problemstandorte während einer Befahrung nicht möglich sein, z.B. auf Grund einer hohen standörtlichen Heterogenität, empfehlen wir die Erfassung auf den Teil der Problemstandorte zu beschränken, die bei erhalt der Qualität leistbar ist. Die verbleibenden Problemstandorte können bei späteren Befahrungen ergänzt werden.
+* Sollte lokal eine exakte Erfassung der Problemstandorte während einer Befahrung nicht möglich sein, z.B. auf Grund einer hohen standörtlichen Heterogenität, empfehlen wir die Erfassung auf den Teil der Problemstandorte zu beschränken, die bei erhalt der Qualität leistbar ist. Die verbleibenden Problemstandorte können bei späteren Befahrungen ergänzt werden.
 
 
 ### Liste erfasster Kenngrößen
