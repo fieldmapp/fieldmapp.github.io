@@ -54,7 +54,7 @@ _**Abb. 3:** Darstellung des Ergebnis-Shapefiles das aus einer Kartierung von po
 
 ### Aufbau der Bedienoberflächen
 
-**Bedienoberfläche zur Konfiguration**
+**Bedienoberfläche zur Konfiguration der Fahrtansicht**
 
 Die Konfigurationsansicht (Abb. 4-A) mit deren Hilfe die Bedienoberfläche zur Datenaufnahme den individuellen Anforderungen entsprechend ausgestaltet bzw. angepasst werden kann, ist über den Button `NEUE KONFIGURATION ERSTELLEN` bzw. `KONFIGURATION ANPASSEN` zu erreichen. 
 Folgende Anpassungen werden durch die Konfigurationsansicht ermöglicht:
@@ -71,7 +71,7 @@ Folgende Anpassungen werden durch die Konfigurationsansicht ermöglicht:
 _**Abb. 4:** Aufbau des (A) Menüs zur individuellen Konfiguration der Bedienoberfläche der FieldMApp-Fahrtansicht und des zugehörigen (B) Sub-Menüs zur Festlegung der Ursachen, die zur Ausbildung des zu erfassenden Problemstandortes geführt haben. Das Sub-Menü umfasst neben (B2) einer Auswahlliste, auch die Möglichkeit zur (B3, C) Eingabe weiterer Ursachen._
 <br>
 
-**Bedienoberfläche zur Datenaufnahme**
+**Bedienoberfläche zur Datenaufnahme (Fahrtansicht)**
 
 Die Bedienoberfläche zur Datenaufnahme kann nach Auswahl einer Konfiguration mit `AUSGEWÄHLTE KONFIGURATION BENUTZEN` geöffnet werden. Die Funktionen, welche die Bedienoberfläche zur Datenaufnahme (vgl. Abb. 5) bereithält, ermöglichen:
 * die Auswahl von bis zu drei Zonen links (Abb. 5-A) und rechts (Abb. 5-B) der Fahrspur. Für eine einzelne Zone oder mehrere Zonen gleichzeitig, kann:
