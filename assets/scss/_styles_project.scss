@@ -10,7 +10,7 @@
         border-top: none;
 
         @include media-breakpoint-down(md) {
-          width: 80px;
+          width: 200px;
           height: auto;
           padding: 6px;
         }
