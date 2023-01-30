@@ -47,7 +47,7 @@ Die Ergebniskarte bzw. das Ergebnis-Shapefile wird nach Abschluss der Datenerfas
 _**Abb. 2:** Eingrenzung der Minderertragsareale, die innerhalb von jeweils drei Zonen links und rechts der Fahrspur liegen, durch Boxen. Gruppierte gleichfarbige Boxen, die links und rechts einer Fahrspur liegen, wurden während der Befahrung dieser aufgenommen. (Photo: B. Weier, Bearbeitung: S.C. Truckenbrodt)_
 
 
-![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig03_de.svg width='250')
+![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig03_de.svg)
 
 _**Abb. 3:** Darstellung des Ergebnis-Shapefiles das aus einer Kartierung von potentiellen Minderertragsflächen mit Hilfe der FieldMApp abgeleitet wurde. Die zugrunde liegende Kartierung ist in Abbildung 2 dargestellt._
 
@@ -64,7 +64,7 @@ Folgende Anpassungen werden durch die Konfigurationsansicht ermöglicht:
    * Nicht aufgelistete Ursachen können ergänzt werden, in dem `Neu erstellen` (Abb. 4-B3) angetippt und die Ursache (Abb. 4-C1) sowie zugehörige Schlüsselwörter für sie Spracherkennung (Abb. 4-C2) in den sich nacheinander öffnenden Fenstern eingegeben werden.
  * Die Festlegung der Anzahl von Zonen (Abb. 4-A4) gleicher Breite, in welche die halbe Bearbeitungsbreite (Abb. 4-A2) links und und rechts der Fahrspur jeweils unterteilt werden soll. Die Seiten können in ein bis drei Zonen unterteilt werden.
 
-![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig04_de.svg width='250')
+![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig04_de.svg)
 
 _**Abb. 4:** Aufbau des (A) Menüs zur individuellen Konfiguration der Bedienoberfläche der FieldMApp-Fahrtansicht und des zugehörigen (B) Sub-Menüs zur Festlegung der Ursachen, die zur Ausbildung des zu erfassenden Problemstandortes geführt haben. Das Sub-Menü umfasst neben (B2) einer Auswahlliste, auch die Möglichkeit zur (B3, C) Eingabe weiterer Ursachen. _
 
