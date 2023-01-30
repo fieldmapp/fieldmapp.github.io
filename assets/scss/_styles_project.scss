@@ -1,8 +1,6 @@
 // hack because in our version of docs the navbar-brand__name class is missing
 .navbar-logo + span {
     display: none;
-    max-height: 22rem;
-    max-width: 60%;
 }
 
 .full-fieldmapp-logo {
