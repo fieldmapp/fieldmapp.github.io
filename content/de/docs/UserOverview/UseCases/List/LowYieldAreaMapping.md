@@ -242,13 +242,3 @@ Truckenbrodt, S.C., M. Enderling, E. Borg & F. Klan (2022): FieldMApp Nutzerübe
 
 ## Lizenz
 ToDo
-
-
-
-
-# Versionen des Anwendungsfalles
-
-| Versionsnummer | Letzte Änderung | Downloadlink Profiling | Downloadlink Anwendungsfall | Was wurde gegenüber vorheriger Version geändert |
-| -------------- | --------------- | ---------------------- | --------------------------- | ----------------------------------------------- |
-| 1.0            | Lorem           |https://www.example.org | https://www.example.org     | Lorem ipsum dolor sit amet                      |
-
