@@ -66,7 +66,7 @@ Folgende Anpassungen werden durch die Konfigurationsansicht ermöglicht:
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig04_de.svg)
 
-_**Abb. 4:** Aufbau des (A) Menüs zur individuellen Konfiguration der Bedienoberfläche der FieldMApp-Fahrtansicht und des zugehörigen (B) Sub-Menüs zur Festlegung der Ursachen, die zur Ausbildung des zu erfassenden Problemstandortes geführt haben. Das Sub-Menü umfasst neben (B2) einer Auswahlliste, auch die Möglichkeit zur (B3, C) Eingabe weiterer Ursachen. _
+_**Abb. 4:** Aufbau des (A) Menüs zur individuellen Konfiguration der Bedienoberfläche der FieldMApp-Fahrtansicht und des zugehörigen (B) Sub-Menüs zur Festlegung der Ursachen, die zur Ausbildung des zu erfassenden Problemstandortes geführt haben. Das Sub-Menü umfasst neben (B2) einer Auswahlliste, auch die Möglichkeit zur (B3, C) Eingabe weiterer Ursachen._
 
 
 **Bedienoberfläche zur Datenaufnahme**
