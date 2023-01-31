@@ -193,7 +193,7 @@ Im Rahmen einer Untersuchung wurden 150 Minderertragsflächen von 5 verschiedene
 Eine parallele Bedienung von anderen Steuerelementen am Fahrzeugt erfolgte nicht. Unter diesen Gegebenheiten wurden folgende zu erwartenden minimalen Unsicherheiten bzw. maximalen Genauigkeiten abgeschätzt:
 
 | Kenngröße | Abgeschätzter Wert der Kenngröße |
-| --------- | -------------------------------- |
+| --------- | --------------------------------:|
 | Zu erwartende Ausfallrate an Angaben (bezogen auf N)                                                                           |    0,9% |
 | Anteil korrekter Eingabebefehle (bezogen auf N)                                                                                |   96,8% |
 | Anteil korrekt eingegebener Zonennummern (bezogen auf N)                                                                       |   98,7% |
