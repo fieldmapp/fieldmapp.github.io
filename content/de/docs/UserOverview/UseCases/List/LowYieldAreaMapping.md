@@ -168,6 +168,7 @@ Buttons der Fahrtansicht mit deren Hilfe in der aktuellen Situation Daten erhobe
 
 ### Leitfaden zur bewährten Datenerfassung
 * Für ein Feld sollte die Erfassung der Minderertragsflächen mehrmals unabhängig voneinander erfolgen. Auf diese Weise soll sichergestellt werden, dass
+
    * … alle potentiellen Minderertragsstandorte erfasst werden, auch wenn deren Ausprägung nur unter unterschiedlichen Witterungsbedingungen entsteht.
    * … die größtmögliche Ausdehnung der potentiellen Minderertragsfläche kartiert wird sowie die üblicherweise auftretende Varianz in der Ausdehnung.
    * … anhand der Analyse der Häufigkeitsverteilung einer erfassten Eigenschaft (wie z.B. der Minderertragsursache) eventuell erfolgte Fehlangaben ausgeschlossen werden können.<br>
@@ -196,7 +197,7 @@ Im Rahmen einer Untersuchung wurden 150 Minderertragsflächen von 5 verschiedene
 
 Eine parallele Bedienung von anderen Steuerelementen am Fahrzeugt erfolgte nicht. Unter diesen Gegebenheiten wurden folgende zu erwartenden minimalen Unsicherheiten bzw. maximalen Genauigkeiten abgeschätzt:
 
-| Kenngröße | Geschätzter Wert der Kenngröße |
+| Kenngröße | Abgeschätzter Wert               |
 | --------- | --------------------------------:|
 | Zu erwartende Ausfallrate an Angaben (bezogen auf N)                                                                           |    0,9% |
 | Anteil korrekter Eingabebefehle (bezogen auf N)                                                                                |   96,8% |
