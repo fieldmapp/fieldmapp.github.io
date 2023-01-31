@@ -135,7 +135,7 @@ Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen v
 **4. Datenaufnahme mit der Fahrtansicht** 
 
 {{% pageinfo %}}
-Buttons der Fahrtansicht mit deren Hilfe, unter Berücksichtigung bisher erfolgter Eingaben, in der aktuellen Situation Daten erhoben werden können, haben eine grüne Hintergrundfarbe. Mit Buttons ohne grünen Hintergrund können keine Daten erhoben werden.
+Buttons der Fahrtansicht mit deren Hilfe in der aktuellen Situation Daten erhoben werden können, haben eine grüne Hintergrundfarbe. Mit Buttons ohne grünen Hintergrund können keine Daten erhoben werden. Die Hintergrundfarbe wechselt, je nachdem welche Eingaben im Vorfeld erfolgt sind.
 {{% /pageinfo %}}
 
 <details><summary>4.1 Markieren des Anfangs einer Minderertragsfläche</summary>
