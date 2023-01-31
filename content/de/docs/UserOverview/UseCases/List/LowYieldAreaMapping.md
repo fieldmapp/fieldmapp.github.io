@@ -140,12 +140,12 @@ Buttons der Fahrtansicht mit deren Hilfe in der aktuellen Situation Daten erhobe
 
 <details><summary>4.1 Markieren des Anfangs einer Minderertragsfläche</summary>
  
-* Der Anfang einer Minderertragsfläche in einer Zone oder mehreren Zonen wird durch Antippen oder Wischen über die betreffende(n) Nummer(n) der Zone(n) auf Höhe des Dreiecks mit dem Schriftzug „Start“ (Abb. 5-A1, -B1) festgelegt. Die Möglichkeit zur Eingabe von Eigenschaften zu dem zu kartierenden Objekt wird damit automatisch freigeschaltet.
+* Der Anfang einer Minderertragsfläche in einer Zone oder mehreren Zonen wird durch Antippen oder Wischen über die betreffende(n) Nummer(n) der Zone(n) auf Höhe des Dreiecks mit dem Schriftzug „Start“ (Abb. 5-A1, 5-B1) festgelegt. Die Möglichkeit zur Eingabe von Eigenschaften zu dem zu kartierenden Objekt wird damit automatisch freigeschaltet.
 </details>
 
 <details><summary>4.2 Eingabe der Eigenschaften von Minderertragsflächen</summary>
  
-* Durch Antippen der oder Wischen über die Nummer(n) der Zone(n) in der Mitte der Fahrtansicht (Abb. 5-A2, -B2) werden für diese die Eigenschaftsbuttons mit Zentrum der Fahrtansicht (Abb. 5-C, -D) aktiviert. Die adressierten Zonen werden durch einen gelben Hintergrund hervorgehoben.
+* Durch Antippen der oder Wischen über die Nummer(n) der Zone(n) in der Mitte der Fahrtansicht (Abb. 5-A2, 5-B2) werden für diese die Eigenschaftsbuttons mit Zentrum der Fahrtansicht (Abb. 5-C, 5-D) aktiviert. Die adressierten Zonen werden durch einen gelben Hintergrund hervorgehoben.
 * Durch Antippen eines aktivierten Eigenschaftsbuttons, wird den adressierten Zonen die ausgewählte Eigenschaft zugewiesen. Der Hintergrund der adressierten Zone(n) erscheint auf Höhe der gewählten Eigenschaften daraufhin grün.
 * Objekten können weitere Eigenschaften zugewiesen werden, indem die ersten beiden Schritte unter 4.2 wiederholt werden. Wurden alle Eigenschaften für das kartierte Objekt in einer Zone erfasst, erscheint der Hintergrund der gesamten Zone grün.
 * Bereits erfasste Eigenschaften eines Objektes in einer Zone/mehreren Zonen können korrigiert werden, in dem die ersten beiden Schritte unter 4.2 wiederholt werden, solange noch nicht mit der Kartierung eines neuen Objektes in der/den betreffenden Zone(n) begonnen wurde.
@@ -153,7 +153,7 @@ Buttons der Fahrtansicht mit deren Hilfe in der aktuellen Situation Daten erhobe
 
 <details><summary>4.3 Markieren des Endes einer Minderertragsfläche</summary>
  
-* Das Ende einer Minderertragsfläche in einer Zone oder mehreren Zonen wird durch Antippen oder Wischen über die betreffende(n) Nummer(n) der Zone(n) auf Höhe des Dreiecks mit dem Schriftzug „Stop“ festgelegt. 
+* Das Ende einer Minderertragsfläche in einer Zone oder mehreren Zonen wird durch Antippen oder Wischen über die betreffende(n) Nummer(n) der Zone(n) auf Höhe des Dreiecks mit dem Schriftzug „Stop“ (Abb. 5-A3, 5-B3) festgelegt. 
 </details>
 
 <details><summary>4.4 Korrektur bei Falscheingaben</summary>
