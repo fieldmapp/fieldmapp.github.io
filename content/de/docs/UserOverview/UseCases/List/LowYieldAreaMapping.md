@@ -266,5 +266,5 @@ _[[pdf](https://pos.sissa.it/407/012/pdf)]_
 * Maximilian Enderling
 
 ## Zitationsvorschlag
-Truckenbrodt, S.C., M. Enderling, E. Borg & F. Klan (2022): FieldMApp Nutzerübersicht. Anwendungsfall Minderertragsflächenkartierung. \<https://fieldmapp.github.io/docs/useroverview/usecases/list/lowyieldareamapping/&gt; (Stand: 2023-01-31) (Zugriff: YYYY-MM-DD).
+Truckenbrodt, S.C., M. Enderling, E. Borg & F. Klan (2022): FieldMApp Nutzerübersicht. Anwendungsfall Minderertragsflächenkartierung. &lt;https://fieldmapp.github.io/docs/useroverview/usecases/list/lowyieldareamapping/&gt; (Stand: 2023-01-31) (Zugriff: YYYY-MM-DD).
 
