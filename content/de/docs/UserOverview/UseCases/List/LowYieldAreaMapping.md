@@ -268,6 +268,3 @@ _[[pdf](https://pos.sissa.it/407/012/pdf)]_
 ## Zitationsvorschlag
 Truckenbrodt, S.C., M. Enderling, E. Borg & F. Klan (2022): FieldMApp Nutzerübersicht. Anwendungsfall Minderertragsflächenkartierung. <https://fieldmapp.github.io/docs/useroverview/usecases/list/lowyieldareamapping/> (Stand: 2023-01-26) (Zugriff: YYYY-MM-DD).
 
-
-## Lizenz
-ToDo
