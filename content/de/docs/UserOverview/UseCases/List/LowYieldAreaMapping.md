@@ -51,7 +51,7 @@ _**Abb. 2:** Eingrenzung der Minderertragsareale, die innerhalb von jeweils drei
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig03_de.svg)
 
-_**Abb. 3:** Darstellung des Ergebnis-Shapefiles das aus einer Kartierung von potentiellen Minderertragsflächen mit Hilfe der FieldMApp abgeleitet wurde. Die zugrunde liegende Kartierung ist in Abbildung 2 dargestellt._
+_**Abb. 3:** Darstellung des Ergebnis-Shapefiles das aus einer Kartierung von potentiellen Minderertragsflächen mit Hilfe der FieldMApp abgeleitet wurde. Die zugrunde liegende FieldMApp-Kartierung ist in Abbildung 2 dargestellt._
 
 
 ### Aufbau der Bedienoberflächen
@@ -60,6 +60,7 @@ _**Abb. 3:** Darstellung des Ergebnis-Shapefiles das aus einer Kartierung von po
 
 Die Konfigurationsansicht (Abb. 4-A) mit deren Hilfe die Bedienoberfläche zur Datenaufnahme den individuellen Anforderungen entsprechend ausgestaltet bzw. angepasst werden kann, ist über den Button `NEUE KONFIGURATION ERSTELLEN` bzw. `KONFIGURATION ANPASSEN` zu erreichen. 
 Folgende Anpassungen werden durch die Konfigurationsansicht ermöglicht:
+
 * Vergabe bzw. Anpassung eines Konfigurationsnamens (Abb. 4-A1), unter dem die vorgenommenen Einstellungen gespeichert (Abb. 4-A5) und bei Bedarf wieder abgerufen werden können.
 * Die Eingabe der Bearbeitungsbreite (Abb. 4-A2), als die Breite auf die sich die Datenaufnahme bei der Befahrung einer Fahrspur bezieht. Die Angabe erfolgt in Metern und ist erforderlich, um die Ergebnisdateien erzeugen zu können.
 * Die Auswahl von bis zu neun Minderertragsursachen, die in der aktuellen Situation erkenn- und somit kartierbar sind (Abb. 4-A3). Die Anordnung der Ursachen auf den dafür zur Verfügung stehenden Buttons kann individuell festgelegt werden. Durch Antippen eines Buttons erscheint eine Auswahlliste (Abb. 4-B):
@@ -76,17 +77,18 @@ _**Abb. 4:** Aufbau des (A) Menüs zur individuellen Konfiguration der Bedienobe
 **Bedienoberfläche zur Datenaufnahme (Fahrtansicht)**
 
 Die Bedienoberfläche zur Datenaufnahme kann nach Auswahl einer Konfiguration mit `AUSGEWÄHLTE KONFIGURATION BENUTZEN` geöffnet werden. Die Funktionen, welche die Bedienoberfläche zur Datenaufnahme (vgl. Abb. 5) bereithält, ermöglichen:
+
 * die Auswahl von bis zu drei Zonen links (Abb. 5-A) und rechts (Abb. 5-B) der Fahrspur. Für eine einzelne Zone oder mehrere Zonen gleichzeitig, kann:
-* der Anfang einer Minderertragsfläche durch Antippen der bzw. Wischen über die entsprechende(n) Zonennummer(n) bei A1 bzw. B1 (siehe Abb. 5) festgelegt werden,
-* das Tastenfeld zur Eingabe der Ertragsminderung und der Ursache durch Antippen der bzw. Wischen über die entsprechende(n) Zonennummer(n) bei A2 bzw. B2 (siehe Abb. 5) aktiviert werden,
-* das Ende einer Minderertragsfläche durch Antippen der bzw. Wischen über die entsprechende(n) Zonennummer(n) bei A3 bzw. B3 (siehe Abb. 5) festgelegt werden.
+   * der Anfang einer Minderertragsfläche durch Antippen der bzw. Wischen über die entsprechende(n) Zonennummer(n) bei A1 bzw. B1 (siehe Abb. 5) festgelegt werden,
+   * das Tastenfeld zur Eingabe der Ertragsminderung und der Ursache durch Antippen der bzw. Wischen über die entsprechende(n) Zonennummer(n) bei A2 bzw. B2 (siehe Abb. 5) aktiviert werden,
+   * das Ende einer Minderertragsfläche durch Antippen der bzw. Wischen über die entsprechende(n) Zonennummer(n) bei A3 bzw. B3 (siehe Abb. 5) festgelegt werden.
 
 * die Erfassung der Intensität der (zu erwartenden) Ertragsminderung (Abb. 5-C), und
 * die Erfassung der Ursache(n), welche die (zu erwartende) Ertragsminderung hervorrufen (Abb. 5-D).
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig05_de.svg)
 
-_**Abb. 5:** Aufbau der Bedienoberfläche des Anwendungsfalls „Minderertragsflächenkartierung“: Die Hälften der Bearbeitungsbreite links und rechts der Fahrspur werden durch Bereiche A und B repräsentiert. Im dargestellten Beispiel sind beide Bereich in jeweils drei Zonen (Zone 1-3 im Bereich A und Zone 4-6 im Bereich B) unterteilt. Durch Auswahl der Zonen können die Intensität (C) und die Ursachen (D) der (zu erwartenden) Ertragsminderung erfasst werden._
+_**Abb. 5:** Aufbau der Bedienoberfläche des Anwendungsfalls „Minderertragsflächenkartierung“: Die Hälften der Bearbeitungsbreite links und rechts der Fahrspur werden durch Bereiche A und B repräsentiert. Im dargestellten Beispiel sind beide Bereiche in jeweils drei Zonen (Zone 1-3 im Bereich A und Zone 4-6 im Bereich B) unterteilt. Durch Auswahl der Zonen können die Intensität (C) und die Ursachen (D) der (zu erwartenden) Ertragsminderung erfasst werden._
 
 
 
