@@ -158,8 +158,7 @@ Buttons der Fahrtansicht mit deren Hilfe in der aktuellen Situation Daten erhobe
 
 <details><summary>4.4 Korrektur bei Falscheingaben</summary>
  
-* Lorem ipsum dolor
-* Lorem ipsum dolor
+* Durch Antippen von `Abbrechen` werden, für alle Zonen die Eingaben gelöscht, die bis zum letzten Start eines Objektes zurückreichen.
 </details>
 <br>
 
@@ -185,7 +184,23 @@ Buttons der Fahrtansicht mit deren Hilfe in der aktuellen Situation Daten erhobe
 
 
 ### Unsicherheits- und Genauigkeitsangaben 
-ToDo
+Im Rahmen einer Untersuchung wurden 150 Minderertragsflächen von 5 verschiedenen Personen mit Hilfe des Tastenfelds der FieldMApp-Fahrtansicht erfasst (Stichprobenumfang N = 750). Das Fahrzeug in dem sich die kartierenden Personen während der Datenerhebung befanden, wurde mit einer konstanten Geschwindigkeit von 15 km/h bewegt. Die Minderertragsflächen waren bei der Untersuchung so verteilt, dass ein sehr breites Spektrum von Eingabebefehlen abgedeckt wurde. Die Eingabebefehle reichten von 
+
+* einer separiert in einer Zone liegenden Minderertragsfläche, über 
+* direkt an einander grenzende Minderertragsflächen unterschiedlicher Ursachen, die sich jeweils über mehrere Zonen erstreckten bis hin zu 
+* direkt an einander grenzende Minderertragsflächen unterschiedlicher Ursachen, die sich jeweils über mehrere Zonen erstreckten und auf gleicher Höhe liegend links und rechts der Fahrspur unterschiedliche Ursachen aufwiesen.
+
+Eine parallele Bedienung von anderen Steuerelementen am Fahrzeugt erfolgte nicht. Unter diesen Gegebenheiten wurden folgende zu erwartenden minimalen Unsicherheiten bzw. maximalen Genauigkeiten abgeschätzt:
+
+| Kenngröße | Abgeschätzter Wert der Kenngröße |
+| --------- | -------------------------------- |
+| Zu erwartende Ausfallrate an Angaben (bezogen auf N)                                                                           |    0,9% |
+| Anteil korrekter Eingabebefehle (bezogen auf N)                                                                                |   96,8% |
+| Anteil korrekt eingegebener Zonennummern (bezogen auf N)                                                                       |   98,7% |
+| Anteil korrekt eingegebener Minderertragsursachen (bezogen auf N)                                                              |   96,5% |
+| Median des richtungsabhängigen Versatzes zwischen dem Anfang der Minderertragsfläche und dem Start der Datenerfassung          |  +4.9 m |
+| Mittelwert des richtungsabhängigen Versatzes zwischen dem Anfang der Minderertragsfläche und dem Start der Datenerfassung      |  +6,9 m |
+| Standardabweichung als Streumaß für den Versatzes zwischen dem Anfang der Minderertragsfläche und dem Start der Datenerfassung | 11.25 m |
 
 
 ## Hard- und Software-Ausstattung
