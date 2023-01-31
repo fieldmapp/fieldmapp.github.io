@@ -42,12 +42,12 @@ Unabhängig von der gewählten Konfiguration ist bei jeder Kartierung eine mögl
 Die Ergebniskarte bzw. das Ergebnis-Shapefile wird nach Abschluss der Datenerfassung automatisch erzeugt. Dabei werden aneinandergrenzende kartierte Areale mit gleichen Eigenschaften vereinigt, sodass das daraus Polygone hervorgehen. Letztlich sollte jeder Problemstandort durch ein Polygon repräsentiert sein (Abb. 3). Polygonen, die einem Thema, wie z.B. potenziellen Minderertragsflächen, zu zuordnen sind, werden in einem Shapefile zusammengefasst. Dieses kann zur Bewirtschaftungsplanung oder als Orientierungshilfe z.B. für neue Mitarbeiter/-innen genutzt werden.
 
 
-![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig02.png)
+![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig02.png =250x)
 
 _**Abb. 2:** Eingrenzung der Minderertragsareale, die innerhalb von jeweils drei Zonen links und rechts der Fahrspur liegen, durch Boxen. Gruppierte gleichfarbige Boxen, die links und rechts einer Fahrspur liegen, wurden während der Befahrung dieser aufgenommen. (Photo: B. Weier, Bearbeitung: S.C. Truckenbrodt)_
 
 
-![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig03_de.svg)
+![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig03_de.svg width="420")
 
 _**Abb. 3:** Darstellung des Ergebnis-Shapefiles das aus einer Kartierung von potentiellen Minderertragsflächen mit Hilfe der FieldMApp abgeleitet wurde. Die zugrunde liegende Kartierung ist in Abbildung 2 dargestellt._
 
