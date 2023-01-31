@@ -133,22 +133,27 @@ Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen v
 
 
 **4. Datenaufnahme mit der Fahrtansicht** 
+
+{{% pageinfo %}}
+Buttons der Fahrtansicht mit deren Hilfe, unter Berücksichtigung bisher erfolgter Eingaben, in der aktuellen Situation Daten erhoben werden können, haben eine grüne Hintergrundfarbe. Mit Buttons ohne grünen Hintergrund können keine Daten erhoben werden.
+{{% /pageinfo %}}
+
 <details><summary>4.1 Markieren des Anfangs einer Minderertragsfläche</summary>
  
-* Lorem ipsum dolor
-* Lorem ipsum dolor
+* Der Anfang einer Minderertragsfläche in einer Zone oder mehreren Zonen wird durch Antippen oder Wischen über die betreffende(n) Nummer(n) der Zone(n) auf Höhe des Dreiecks mit dem Schriftzug „Start“ (Abb. 5-A1, -B1) festgelegt. Die Möglichkeit zur Eingabe von Eigenschaften zu dem zu kartierenden Objekt wird damit automatisch freigeschaltet.
 </details>
 
 <details><summary>4.2 Eingabe der Eigenschaften von Minderertragsflächen</summary>
  
-* Lorem ipsum dolor
-* Lorem ipsum dolor
+* Durch Antippen der oder Wischen über die Nummer(n) der Zone(n) in der Mitte der Fahrtansicht (Abb. 5-A2, -B2) werden für diese die Eigenschaftsbuttons mit Zentrum der Fahrtansicht (Abb. 5-C, -D) aktiviert. Die adressierten Zonen werden durch einen gelben Hintergrund hervorgehoben.
+* Durch Antippen eines aktivierten Eigenschaftsbuttons, wird den adressierten Zonen die ausgewählte Eigenschaft zugewiesen. Der Hintergrund der adressierten Zone(n) erscheint auf Höhe der gewählten Eigenschaften daraufhin grün.
+* Objekten können weitere Eigenschaften zugewiesen werden, indem die ersten beiden Schritte unter 4.2 wiederholt werden. Wurden alle Eigenschaften für das kartierte Objekt in einer Zone erfasst, erscheint der Hintergrund der gesamten Zone grün.
+* Bereits erfasste Eigenschaften eines Objektes in einer Zone/mehreren Zonen können korrigiert werden, in dem die ersten beiden Schritte unter 4.2 wiederholt werden, solange noch nicht mit der Kartierung eines neuen Objektes in der/den betreffenden Zone(n) begonnen wurde.
 </details>
 
 <details><summary>4.3 Markieren des Endes einer Minderertragsfläche</summary>
  
-* Lorem ipsum dolor
-* Lorem ipsum dolor
+* Das Ende einer Minderertragsfläche in einer Zone oder mehreren Zonen wird durch Antippen oder Wischen über die betreffende(n) Nummer(n) der Zone(n) auf Höhe des Dreiecks mit dem Schriftzug „Stop“ festgelegt. 
 </details>
 
 <details><summary>4.4 Korrektur bei Falscheingaben</summary>
