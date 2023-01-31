@@ -44,10 +44,14 @@ Die Ergebniskarte bzw. das Ergebnis-Shapefile wird nach Abschluss der Datenerfas
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig02.png =250x)
 
+<img src="/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig02.png" alt="drawing" width="200"/>
+
 _**Abb. 2:** Eingrenzung der Minderertragsareale, die innerhalb von jeweils drei Zonen links und rechts der Fahrspur liegen, durch Boxen. Gruppierte gleichfarbige Boxen, die links und rechts einer Fahrspur liegen, wurden während der Befahrung dieser aufgenommen. (Photo: B. Weier, Bearbeitung: S.C. Truckenbrodt)_
 
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig03_de.svg width="420")
+
+<img src="/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig03_de.svg" width="200"/>
 
 _**Abb. 3:** Darstellung des Ergebnis-Shapefiles das aus einer Kartierung von potentiellen Minderertragsflächen mit Hilfe der FieldMApp abgeleitet wurde. Die zugrunde liegende Kartierung ist in Abbildung 2 dargestellt._
 
