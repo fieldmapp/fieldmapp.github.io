@@ -7,5 +7,5 @@ weight: 100
 
 | Arbeitsschritte | Veranschaulichung |
 | ------ | :-----: |
-| Nach erfolgreicher Installation wird die Option `Öffnen` angezeigt. <br> (1) Durch Klicken auf [Öffnen] wird die Anwendung gestartet. | ![](/screenshots/fig/FirstSteps/de/FirstSteps_1_2_1_img_01_de.jpg)  |
-| (2) Weiter mit [1.2.3.](1.2.3%20FieldMApp%20Zugriffe%20festlegen) |  |
+| Nach erfolgreicher Installation wird die Option `Öffnen` angezeigt. <br> (1) Durch Klicken auf `Öffnen` wird die Anwendung gestartet. | ![](/screenshots/fig/FirstSteps/de/FirstSteps_1_2_1_img_01_de.jpg)  |
+| (2) Weiter mit [Berechtigungen](https://github.com/fieldmapp/fieldmapp.github.io/edit/master/content/de/docs/UserOverview/UseCases/List/LowYieldAreaMapping.md) |  |
