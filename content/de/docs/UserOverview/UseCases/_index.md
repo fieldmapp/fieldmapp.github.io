@@ -3,6 +3,6 @@ title: "Nutzerübersicht - Anwendungsfälle"
 linkTitle: "Anwendungsfälle"
 weight: 200
 description: >-
-    Genauere Beschreibung zu Anwendungsfällen.
+    Informationen zu den Projekten und Anwendnungsfällen der FieldMApp.
 ---
 
