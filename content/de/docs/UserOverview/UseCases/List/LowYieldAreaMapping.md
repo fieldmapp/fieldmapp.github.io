@@ -200,7 +200,7 @@ Eine parallele Bedienung von anderen Steuerelementen am Fahrzeugt erfolgte nicht
 | Anteil korrekt eingegebener Minderertragsursachen (bezogen auf N)                                                              |   96,5% |
 | Median des richtungsabhängigen Versatzes zwischen dem Anfang der Minderertragsfläche und dem Start der Datenerfassung          |  +4.9 m |
 | Mittelwert des richtungsabhängigen Versatzes zwischen dem Anfang der Minderertragsfläche und dem Start der Datenerfassung      |  +6,9 m |
-| Standardabweichung als Streumaß für den Versatzes zwischen dem Anfang der Minderertragsfläche und dem Start der Datenerfassung | 11.25 m |
+| Standardabweichung als Streumaß für den Versatzes zwischen dem Anfang der Minderertragsfläche und dem Start der Datenerfassung | 11,25 m |
 
 
 ## Hard- und Software-Ausstattung
