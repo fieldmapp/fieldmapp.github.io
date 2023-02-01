@@ -3,7 +3,7 @@
 title: "Nutzerübersicht"
 weight: 100
 description: >-
-     Alles Relevante für utzerinnen und Nutzer der FieldMApp.
+     Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
 ---
 
 
