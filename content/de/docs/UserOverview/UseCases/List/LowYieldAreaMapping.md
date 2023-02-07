@@ -200,7 +200,7 @@ Eine parallele Bedienung von anderen Steuerelementen am Fahrzeugt erfolgte nicht
 | Kenngröße | Abgeschätzter Wert               |
 | --------- | --------------------------------:|
 | Zu erwartende Ausfallrate an Angaben (bezogen auf N)                                                                           |    0,9% |
-| Anteil korrekter Eingabebefehle (bezogen auf N)                                                                                |   96,8% |
+| Anteil korrekter Eingabebefehle (bezogen auf N)                                                                                |   96,1% |
 | Anteil korrekt eingegebener Zonennummern (bezogen auf N)                                                                       |   98,7% |
 | Anteil korrekt eingegebener Minderertragsursachen (bezogen auf N)                                                              |   96,5% |
 | Median des richtungsabhängigen Versatzes zwischen dem Anfang der Minderertragsfläche und dem Start der Datenerfassung          |  +4.9 m |
