@@ -39,9 +39,9 @@ Da sich der Arbeitsaufwand bei jeder Bewirtschaftung (in Abhängigkeit von der d
 * die Anzahl der Zonen, in die diese Breite unterteilt wird, und
 * die Anzahl der Minderertragsursachen, die in der aktuellen Situation ausgeprägt sind und somit kartiert werden können.
 
-Unabhängig von der gewählten Konfiguration ist bei jeder Kartierung eine möglichst exakte Erfassung der Minderertragsflächen und deren Eigenschaften anzustreben. Sollte die Arbeitsbelastung oder die Dichte der Minderertragsflächen zu einer zeitweisen Überlastung des Fahrers/der Fahrerin führen, wird empfohlen, die Kartierung auf wenige Flächen zu reduzieren bzw. diese zeitweise auszusetzten. Da die Kartierung von Minderertragsflächen in einem Feld wiederholt (während verschiedener Bearbeitungsschritte) erfolgen soll, ist davon auszugehen, dass eventuell entstandene Datenlücken mit der Zeit geschlossen werden. Darüber hinaus ermöglicht die mehrfache Kartierung der gleichen Minderertragsflächen eine Abschätzung der Genauigkeit, für die Ergebniskarte.
+Unabhängig von der gewählten Konfiguration ist bei jeder Kartierung eine möglichst exakte Erfassung der Minderertragsflächen und deren Eigenschaften anzustreben. Sollte die Arbeitsbelastung oder die Dichte der Minderertragsflächen zu einer zeitweisen Überlastung des Fahrers/der Fahrerin führen, wird empfohlen, die Kartierung auf wenige Flächen zu reduzieren bzw. diese zeitweise auszusetzten. Da die Kartierung von Minderertragsflächen in einem Feld wiederholt (während verschiedener Bearbeitungsschritte) erfolgen soll, ist davon auszugehen, dass eventuell entstandene Datenlücken mit der Zeit geschlossen werden. Darüber hinaus ermöglicht die mehrfache Kartierung der gleichen Minderertragsflächen eine Abschätzung der Genauigkeit für die Ergebniskarte.
 
-Die Ergebniskarte bzw. das Ergebnis-Shapefile wird nach Abschluss der Datenerfassung automatisch erzeugt. Dabei werden aneinandergrenzende kartierte Areale mit gleichen Eigenschaften vereinigt, sodass das daraus Polygone hervorgehen. Letztlich sollte jeder Problemstandort durch ein Polygon repräsentiert sein (Abb. 3). Polygonen, die einem Thema, wie z.B. potenziellen Minderertragsflächen, zu zuordnen sind, werden in einem Shapefile zusammengefasst. Dieses kann zur Bewirtschaftungsplanung oder als Orientierungshilfe z.B. für neue Mitarbeiter/-innen genutzt werden.
+Die Ergebniskarte bzw. das Ergebnis-Shapefile wird nach Abschluss der Datenerfassung automatisch erzeugt. Dabei werden aneinandergrenzende kartierte Areale mit gleichen Eigenschaften vereinigt, sodass daraus Polygone hervorgehen. Letztlich sollte jeder Problemstandort durch ein Polygon repräsentiert sein (Abb. 3). Polygone, die einem Thema, wie z.B. potenziellen Minderertragsflächen, zuzuordnen sind, werden in einem Shapefile zusammengefasst. Dieses kann zur Bewirtschaftungsplanung oder als Orientierungshilfe, z.B. für neue Mitarbeiter/-innen, genutzt werden.
 
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig02.png)
@@ -51,39 +51,39 @@ _**Abb. 2:** Eingrenzung der Minderertragsareale, die innerhalb von jeweils drei
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig03_de.svg)
 
-_**Abb. 3:** Darstellung des Ergebnis-Shapefiles das aus einer Kartierung von potentiellen Minderertragsflächen mit Hilfe der FieldMApp abgeleitet wurde. Die zugrunde liegende FieldMApp-Kartierung ist in Abbildung 2 dargestellt._
+_**Abb. 3:** Darstellung des Ergebnis-Shapefiles, das aus einer Kartierung von potentiellen Minderertragsflächen mit Hilfe der FieldMApp abgeleitet wurde. Die zugrunde liegende FieldMApp-Kartierung ist in Abbildung 2 dargestellt._
 
 
 ### Aufbau der Bedienoberflächen
 
 **Bedienoberfläche zur Konfiguration der Fahrtansicht**
 
-Die Konfigurationsansicht (Abb. 4-A) mit deren Hilfe die Bedienoberfläche zur Datenaufnahme den individuellen Anforderungen entsprechend ausgestaltet bzw. angepasst werden kann, ist über den Button `NEUE KONFIGURATION ERSTELLEN` bzw. `KONFIGURATION ANPASSEN` zu erreichen. 
+Die Konfigurationsansicht (Abb. 4-A), mit deren Hilfe die Bedienoberfläche zur Datenaufnahme den individuellen Anforderungen entsprechend ausgestaltet bzw. angepasst werden kann, ist über den Button `NEUE KONFIGURATION ERSTELLEN` bzw. `KONFIGURATION ANPASSEN` zu erreichen. 
 Folgende Anpassungen werden durch die Konfigurationsansicht ermöglicht:
 
 * Vergabe bzw. Anpassung eines Konfigurationsnamens (Abb. 4-A1), unter dem die vorgenommenen Einstellungen gespeichert (Abb. 4-A5) und bei Bedarf wieder abgerufen werden können.
-* Die Eingabe der Bearbeitungsbreite (Abb. 4-A2), als die Breite auf die sich die Datenaufnahme bei der Befahrung einer Fahrspur bezieht. Die Angabe erfolgt in Metern und ist erforderlich, um die Ergebnisdateien erzeugen zu können.
+* Die Eingabe der Bearbeitungsbreite (Abb. 4-A2), als die Breite, auf die sich die Datenaufnahme bei der Befahrung einer Fahrspur bezieht. Die Angabe erfolgt in Metern und ist erforderlich, um die Ergebnisdateien erzeugen zu können.
 * Die Auswahl von bis zu neun Minderertragsursachen, die in der aktuellen Situation erkenn- und somit kartierbar sind (Abb. 4-A3). Die Anordnung der Ursachen auf den dafür zur Verfügung stehenden Buttons kann individuell festgelegt werden. Durch Antippen eines Buttons erscheint eine Auswahlliste (Abb. 4-B):
    * Soll der Button während der Kartierung nicht angezeigt werden, wählt man `Schaltfläche verstecken` aus (Abb. 4-B1). 
    * Soll der Button hingegen mit einer Ursache belegt werden, kann auf eine Liste vordefinierter Minderertragsursachen zurückgegriffen werden (Abb. 4-B2). 
-   * Nicht aufgelistete Ursachen können ergänzt werden, in dem `Neu erstellen` (Abb. 4-B3) angetippt und die Ursache (Abb. 4-C1) sowie zugehörige Schlüsselwörter für sie Spracherkennung (Abb. 4-C2) in den sich nacheinander öffnenden Fenstern eingegeben werden.
-* Die Festlegung der Anzahl von Zonen (Abb. 4-A4) gleicher Breite, in welche die halbe Bearbeitungsbreite (Abb. 4-A2) links und und rechts der Fahrspur jeweils unterteilt werden soll. Die Seiten können in ein bis drei Zonen unterteilt werden.
+   * Nicht aufgelistete Ursachen können ergänzt werden, indem `Neu erstellen` (Abb. 4-B3) angetippt und die Ursache (Abb. 4-C1) sowie zugehörige Schlüsselwörter für die Spracherkennung (Abb. 4-C2) in den sich nacheinander öffnenden Fenstern eingegeben werden.
+* Die Festlegung der Anzahl von Zonen (Abb. 4-A4) gleicher Breite, in welche die halbe Bearbeitungsbreite (Abb. 4-A2) links und rechts der Fahrspur jeweils unterteilt werden soll. Die Seiten können in ein bis drei Zonen unterteilt werden.
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig04_de.svg)
 
-_**Abb. 4:** Aufbau des (A) Menüs zur individuellen Konfiguration der Bedienoberfläche der FieldMApp-Fahrtansicht und des zugehörigen (B) Sub-Menüs zur Festlegung der Ursachen, die zur Ausbildung des zu erfassenden Problemstandortes geführt haben. Das Sub-Menü umfasst neben (B2) einer Auswahlliste, auch die Möglichkeit zur (B3, C) Eingabe weiterer Ursachen._
+_**Abb. 4:** Aufbau des (A) Menüs zur individuellen Konfiguration der Bedienoberfläche der FieldMApp-Fahrtansicht und des zugehörigen (B) Sub-Menüs zur Festlegung der Ursachen, die zur Ausbildung des zu erfassenden Problemstandortes geführt haben. Das Sub-Menü umfasst neben (B2), einer Auswahlliste, auch die Möglichkeit zur (B3, C) Eingabe weiterer Ursachen._
 <br>
 
 **Bedienoberfläche zur Datenaufnahme (Fahrtansicht)**
 
 Die Bedienoberfläche zur Datenaufnahme kann nach Auswahl einer Konfiguration mit `AUSGEWÄHLTE KONFIGURATION BENUTZEN` geöffnet werden. Die Funktionen, welche die Bedienoberfläche zur Datenaufnahme (vgl. Abb. 5) bereithält, ermöglichen:
 
-* die Auswahl von bis zu drei Zonen links (Abb. 5-A) und rechts (Abb. 5-B) der Fahrspur. Für eine einzelne Zone oder mehrere Zonen gleichzeitig, kann:
+* die Auswahl von bis zu drei Zonen links (Abb. 5-A) und rechts (Abb. 5-B) der Fahrspur. Für eine einzelne Zone, oder mehrere Zonen gleichzeitig, kann:
    * der Anfang einer Minderertragsfläche durch Antippen der bzw. Wischen über die entsprechende(n) Zonennummer(n) bei A1 bzw. B1 (siehe Abb. 5) festgelegt werden,
    * das Tastenfeld zur Eingabe der Ertragsminderung und der Ursache durch Antippen der bzw. Wischen über die entsprechende(n) Zonennummer(n) bei A2 bzw. B2 (siehe Abb. 5) aktiviert werden,
    * das Ende einer Minderertragsfläche durch Antippen der bzw. Wischen über die entsprechende(n) Zonennummer(n) bei A3 bzw. B3 (siehe Abb. 5) festgelegt werden.
 
-* die Erfassung der Intensität der (zu erwartenden) Ertragsminderung (Abb. 5-C), und
+* die Erfassung der Intensität der (zu erwartenden) Ertragsminderung (Abb. 5-C) und
 * die Erfassung der Ursache(n), welche die (zu erwartende) Ertragsminderung hervorrufen (Abb. 5-D).
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig05_de.svg)
@@ -99,7 +99,7 @@ _**Abb. 5:** Aufbau der Bedienoberfläche des Anwendungsfalls „Minderertragsfl
 **2. Festlegen der Konfiguration der Benutzeroberfläche** (OPTIONAL)
 <details><summary>2.1. Bereits vorhandene Konfiguration anpassen</summary>
  
-* auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt 
+* auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählen
 * den Button `KONFIGURATION ANPASSEN` antippen, sodass die Konfigurationsansicht geöffnet wird (weiteres Vorgehen siehe 2.2 zweiter Spiegelstrich)
  
 {{% pageinfo %}}
@@ -121,7 +121,7 @@ Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfigurati
    * _Falls nein:_ Aus der erscheinenden Liste `Schaltfläche verstecken` durch Antippen auswählen.
 * Festlegen der Zonenanzahl <br>
  Unter „Anzahl der Zonen“ kann die Anzahl der Zonen, welche symmetrisch jeweils auf die halbe Bearbeitungsbreite rechts bzw. links der Fahrspur verteilt werden soll, durch den Schieberegler festgelegt werden.
-* Durch Antippen von `Speichern` wird die Konfiguration unter dem angegebene Konfigurationsnamen gespeichert. 
+* Durch Antippen von `Speichern` wird die Konfiguration unter dem angegebenen Konfigurationsnamen gespeichert. 
  
 {{% pageinfo %}}
 Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen vorgenommen werden.
@@ -132,14 +132,14 @@ Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen v
 **3. Konfiguration der Bedienoberfläche auswählen** 
 <details><summary>3.1 Auswahl</summary>
  
-* Die Auswahl erfolgt indem der Name einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt und durch berühren des Buttons „AUSGEWÄHLTE KONFIGURATION BENUTZEN“ geöffnet wird.
+* Die Auswahl erfolgt, indem der Name einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählt und durch Berühren von `AUSGEWÄHLTE KONFIGURATION BENUTZEN` geöffnet wird.
 </details><br>
 
 
 **4. Datenaufnahme mit der Fahrtansicht** 
 
 {{% pageinfo %}}
-Buttons der Fahrtansicht mit deren Hilfe in der aktuellen Situation Daten erhoben werden können, haben eine grüne Hintergrundfarbe. Mit Buttons ohne grünen Hintergrund können keine Daten erhoben werden. Die Hintergrundfarbe wechselt, je nachdem welche Eingaben im Vorfeld erfolgt sind.
+Buttons der Fahrtansicht, mit deren Hilfe in der aktuellen Situation Daten erhoben werden können, haben eine grüne Hintergrundfarbe. Mit Buttons ohne grünen Hintergrund können keine Daten erhoben werden. Die Hintergrundfarbe wechselt, je nachdem welche Eingaben im Vorfeld erfolgt sind.
 {{% /pageinfo %}}
 
 <details><summary>4.1 Markieren des Anfangs einer Minderertragsfläche</summary>
@@ -150,7 +150,7 @@ Buttons der Fahrtansicht mit deren Hilfe in der aktuellen Situation Daten erhobe
 <details><summary>4.2 Eingabe der Eigenschaften von Minderertragsflächen</summary>
  
 * Durch Antippen der oder Wischen über die Nummer(n) der Zone(n) in der Mitte der Fahrtansicht (Abb. 5-A2, 5-B2) werden für diese die Eigenschaftsbuttons mit Zentrum der Fahrtansicht (Abb. 5-C, 5-D) aktiviert. Die adressierten Zonen werden durch einen gelben Hintergrund hervorgehoben.
-* Durch Antippen eines aktivierten Eigenschaftsbuttons, wird den adressierten Zonen die ausgewählte Eigenschaft zugewiesen. Der Hintergrund der adressierten Zone(n) erscheint auf Höhe der gewählten Eigenschaften daraufhin grün.
+* Durch Antippen eines aktivierten Eigenschaftsbuttons wird den adressierten Zonen die ausgewählte Eigenschaft zugewiesen. Der Hintergrund der adressierten Zone(n) erscheint auf Höhe der gewählten Eigenschaften daraufhin grün.
 * Objekten können weitere Eigenschaften zugewiesen werden, indem die ersten beiden Schritte unter 4.2 wiederholt werden. Wurden alle Eigenschaften für das kartierte Objekt in einer Zone erfasst, erscheint der Hintergrund der gesamten Zone grün.
 * Bereits erfasste Eigenschaften eines Objektes in einer Zone/mehreren Zonen können korrigiert werden, in dem die ersten beiden Schritte unter 4.2 wiederholt werden, solange noch nicht mit der Kartierung eines neuen Objektes in der/den betreffenden Zone(n) begonnen wurde.
 </details>
@@ -162,7 +162,7 @@ Buttons der Fahrtansicht mit deren Hilfe in der aktuellen Situation Daten erhobe
 
 <details><summary>4.4 Korrektur bei Falscheingaben</summary>
  
-* Durch Antippen von `Abbrechen` werden, für alle Zonen die Eingaben gelöscht, die bis zum letzten Start eines Objektes zurückreichen.
+* Durch Antippen von `Abbrechen` werden für alle Zonen die Eingaben gelöscht, die bis zum letzten Start eines Objektes zurückreichen.
 </details>
 <br>
 
@@ -173,7 +173,7 @@ Buttons der Fahrtansicht mit deren Hilfe in der aktuellen Situation Daten erhobe
    * … die größtmögliche Ausdehnung der potentiellen Minderertragsfläche kartiert wird sowie die üblicherweise auftretende Varianz in der Ausdehnung.
    * … anhand der Analyse der Häufigkeitsverteilung einer erfassten Eigenschaft (wie z.B. der Minderertragsursache) eventuell erfolgte Fehlangaben ausgeschlossen werden können.<br>
 
-* Sollte lokal eine exakte Erfassung der Problemstandorte während einer Befahrung nicht möglich sein, z.B. auf Grund einer hohen standörtlichen Heterogenität, empfehlen wir die Erfassung auf den Teil der Problemstandorte zu beschränken, die bei erhalt der Qualität leistbar ist. Die verbleibenden Problemstandorte können bei späteren Befahrungen ergänzt werden.
+* Sollte lokal eine exakte Erfassung der Problemstandorte während einer Befahrung nicht möglich sein, z.B. auf Grund einer hohen standörtlichen Heterogenität, empfehlen wir die Erfassung auf den Teil der Problemstandorte zu beschränken, die bei Erhalt der Qualität leistbar ist. Die verbleibenden Problemstandorte können bei späteren Befahrungen ergänzt werden.
 
 
 ### Liste erfasster Kenngrößen
@@ -189,11 +189,11 @@ Buttons der Fahrtansicht mit deren Hilfe in der aktuellen Situation Daten erhobe
 
 
 ### Unsicherheits- und Genauigkeitsangaben 
-Im Rahmen einer Untersuchung wurden 150 Minderertragsflächen von 5 verschiedenen Personen mit Hilfe des Tastenfelds der FieldMApp-Fahrtansicht erfasst (Stichprobenumfang N = 750). Das Fahrzeug in dem sich die kartierenden Personen während der Datenerhebung befanden, wurde mit einer konstanten Geschwindigkeit von 15 km/h bewegt. Die Minderertragsflächen waren bei der Untersuchung so verteilt, dass ein sehr breites Spektrum von Eingabebefehlen abgedeckt wurde. Die Eingabebefehle reichten von 
+Im Rahmen einer Untersuchung wurden 150 Minderertragsflächen von 5 verschiedenen Personen mit Hilfe des Tastenfelds der FieldMApp-Fahrtansicht erfasst (Stichprobenumfang N = 750). Das Fahrzeug, in dem sich die kartierenden Personen während der Datenerhebung befanden, wurde mit einer konstanten Geschwindigkeit von 15 km/h bewegt. Die Minderertragsflächen waren bei der Untersuchung so verteilt, dass ein sehr breites Spektrum von Eingabebefehlen abgedeckt wurde. Die Eingabebefehle reichten von 
 
 * einer separiert in einer Zone liegenden Minderertragsfläche, über 
-* direkt an einander grenzende Minderertragsflächen unterschiedlicher Ursachen, die sich jeweils über mehrere Zonen erstreckten bis hin zu 
-* direkt an einander grenzende Minderertragsflächen unterschiedlicher Ursachen, die sich jeweils über mehrere Zonen erstreckten und auf gleicher Höhe liegend links und rechts der Fahrspur unterschiedliche Ursachen aufwiesen.
+* direkt aneinander grenzende Minderertragsflächen unterschiedlicher Ursachen, die sich jeweils über mehrere Zonen erstreckten, bis hin zu 
+* direkt aneinander grenzende Minderertragsflächen unterschiedlicher Ursachen, die sich jeweils über mehrere Zonen erstreckten und auf gleicher Höhe liegend links und rechts der Fahrspur unterschiedliche Ursachen aufwiesen.
 
 Eine parallele Bedienung von anderen Steuerelementen am Fahrzeugt erfolgte nicht. Unter diesen Gegebenheiten wurden folgende zu erwartenden minimalen Unsicherheiten bzw. maximalen Genauigkeiten abgeschätzt:
 
@@ -205,7 +205,7 @@ Eine parallele Bedienung von anderen Steuerelementen am Fahrzeugt erfolgte nicht
 | Anteil korrekt eingegebener Minderertragsursachen (bezogen auf N)                                                              |   96,5% |
 | Median des richtungsabhängigen Versatzes zwischen dem Anfang der Minderertragsfläche und dem Start der Datenerfassung          |  +4.9 m |
 | Mittelwert des richtungsabhängigen Versatzes zwischen dem Anfang der Minderertragsfläche und dem Start der Datenerfassung      |  +6,9 m |
-| Standardabweichung als Streumaß für den Versatzes zwischen dem Anfang der Minderertragsfläche und dem Start der Datenerfassung | 11,25 m |
+| Standardabweichung als Streumaß für den Versatz zwischen dem Anfang der Minderertragsfläche und dem Start der Datenerfassung | 11,25 m |
 
 
 ## Hard- und Software-Ausstattung
@@ -214,7 +214,7 @@ Eine parallele Bedienung von anderen Steuerelementen am Fahrzeugt erfolgte nicht
 Interne Sensoren
 | Sensorname     | Zweck                                                                | Ersetzbar                             | Nutzungsempfehlung |
 | -------------- | -------------------------------------------------------------------- | ------------------------------------- | -------------------- |
-| GPS            | Ermöglicht die Erfassung der Position bei der Eingabe der Daten. | Ja <br> (Alternative: externes dGNSS) | wenig empfehlenswert |
+| GPS            | Ermöglicht die Erfassung der Position bei der Eingabe der Daten. | Ja <br> (Alternative: externes dGNSS) | GPS wenig empfehlenswert |
 
 
 #### Liste optional einsetzbarer Sensoren
@@ -227,7 +227,7 @@ Interne Sensoren
 Externe Sensoren
 | Sensorname     | Zweck           | Nutzungsempfehlung |
 | -------------- | --------------- | ------------------ |
-| Differentielles Global Navigation Satellite System ([dGNSS](https://fieldmapp.github.io/docs/useroverview/sensors/external/dgnss/)) | Ermöglicht die zentimetergenaue Erfassung der Position bei der Dateneingabe. Aufgrund der höheren Präzession des dGNSS-Sensor im Vergleich zum Geräteinternen GPS-Sensor, kann durch dessen Nutzung zu einer Verringerung des Gesamtfehlers bei der Datenaufnahme beigetragen werden. |sehr empfehlenswert |
+| Differentielles Global Navigation Satellite System ([dGNSS](https://fieldmapp.github.io/docs/useroverview/sensors/external/dgnss/)) | Ermöglicht die zentimetergenaue Erfassung der Position bei der Dateneingabe. Aufgrund der höheren Präzision des dGNSS-Sensors im Vergleich zum geräteinternen GPS-Sensor kann durch dessen Nutzung zu einer Verringerung des Gesamtfehlers bei der Datenaufnahme beigetragen werden. |sehr empfehlenswert |
 
 
 ### Veröffentlichte Software-Versionen
