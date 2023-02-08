@@ -20,7 +20,7 @@ _**Abb. 1:** Zonenweise Erfassung ausgewählter Eigenschaften von Minderertragsa
 * Pflanzenbaulich genutzte Flächen (z.B. Acker, Schlag)
 
 ### Ausgabegrößen
-* Shapefiles, die Polygone (Mehrecke) enthalten, welche mit der kleinstmöglichen Ausdehnung Problemstandorte, hier potentielle Minderertragsflächen, einrahmen. Die Polygone werden von einem Rechteck oder mehreren aneinandergrenzenden oder sich überlappenden Rechtecken gebildet.
+* Shapefiles, die Polygone (Vielecke) enthalten, welche mit der kleinstmöglichen Ausdehnung Problemstandorte, hier potentielle Minderertragsflächen, einrahmen. Die Polygone werden von einem Rechteck oder mehreren aneinandergrenzenden oder sich überlappenden Rechtecken gebildet.
 
 ### Entwickler- und Projektmanagerübersicht
 * Sie sind Entwickler/-in und möchten den Anwendungsfall weiterentwickeln oder adaptieren? <br>
