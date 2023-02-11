@@ -20,28 +20,28 @@ _**Abb. 1:** Zonenweise Erfassung ausgewählter Eigenschaften von Minderertragsa
 * Pflanzenbaulich genutzte Flächen (z.B. Acker, Schlag)
 
 ### Ausgabegrößen
-* Shapefiles, die Polygone (Vielecke) enthalten, welche mit der kleinstmöglichen Ausdehnung Problemstandorte, hier potentielle Minderertragsflächen, einrahmen. Die Polygone werden von einem Rechteck oder mehreren aneinandergrenzenden oder sich überlappenden Rechtecken gebildet.
+* Shapefiles, die Polygone (Vielecke) enthalten, welche die kleinstmögliche Ausdehnung von Problemstandorten, hier potentiellen Minderertragsflächen, kennzeichnen. Die Polygone werden von einem Rechteck oder mehreren aneinandergrenzenden oder sich überlappenden Rechtecken gebildet.
 
 ### Entwickler- und Projektmanagerübersicht
 * Sie sind Entwickler/-in und möchten den Anwendungsfall weiterentwickeln oder adaptieren? <br>
-  Dann geht es [hier](https://fieldmapp.github.io/docs/modules/drivingview/developers/) entlang zu weiteren Informationen.
+  Dann geht es [hier](https://fieldmapp.github.io/docs/modules/drivingview/developers/) zu weiteren Informationen.
 * Sie sind Projektmanager und möchten mehr Informationen zur Nutzung der Fahrtansicht und den damit gewonnen Daten? <br>
   Dann können Sie sich [hier](https://fieldmapp.github.io/docs/modules/drivingview/projectmanagers/) dazu informieren.
 
 
 ## Hinweise zur Nutzung
 ### Einsatzszenario
-Der Anwendungsfall Minderertragsflächenkartierung dient der digitalen Erfassung ausgewählter Eigenschaften innerhalb von Äckern gelegener flächenhafter Problemstandorte – hier potentieller Minderertragsflächen. Der Anwendungsfall ist so konzipiert, dass dieser von Landmaschinenfahrenden während der Bewirtschaftung von Ackerflächen eingesetzt werden kann. Zur Erfassung der Lage der potentiellen Minderertragsflächen werden die Hälften der Bearbeitungsbreite links und rechts der Fahrspur in parallel zu dieser verlaufende Zonen (z. B. 2 x 3 Zonen in Abb. 1) unterteilt. Taucht in einer der Zonen auf Höhe des Bewirtschaftenden ein Problemstandort auf, wird für diese Zone mit Hilfe der FieldMApp die Datenaufnahme, durch die Lokalisierung des Anfangspunktes, gestartet. In dem Moment, in dem das Ende des Problemstandorts in dieser Zone passiert wird, wird das Zonenende und damit indirekt die Ausdehnung des Problemstandorts innerhalb dieser Zone erfasst. Nach dem Start der Lokalisierung eines Problemstandorts in einer Zone ist die Erhebung von dessen Eigenschaften möglich, solange in dieser Zone nicht mit der Erhebung eines neuen Problemstandorts begonnen wurde. Nach und nach wird so ein umfassendes Bild zur Lage der Problemstandorte geschaffen (siehe Abb. 2).
+Der Anwendungsfall Minderertragsflächenkartierung dient der digitalen Erfassung ausgewählter Eigenschaften innerhalb von Äckern gelegener flächenhafter Problemstandorte – hier potentieller Minderertragsflächen. Der Anwendungsfall ist so konzipiert, dass dieser von Landmaschinenfahrenden während der Bewirtschaftung von Ackerflächen eingesetzt werden kann. Zur Erfassung der Lage der potentiellen Minderertragsflächen werden die Bereiche links und rechts der Fahrspur in Zonen unterteilt (z. B. 2 x 3 Zonen in Abb. 1). Zusammengenommen entsprechen die parallel zur Fahrspur verlaufenden Zonen der Bearbeitungsbreite. Taucht in einer der Zonen auf Höhe des Bewirtschaftenden ein Problemstandort auf, wird für diese Zone mit Hilfe der FieldMApp die Datenaufnahme, durch die Lokalisierung des Anfangspunktes, gestartet. In dem Moment, in dem das Ende des Problemstandorts in dieser Zone passiert wird, wird das Zonenende und damit indirekt die Ausdehnung des Problemstandorts innerhalb dieser Zone erfasst. Nach dem Start der Lokalisierung eines Problemstandorts in einer Zone ist die Erhebung von dessen Eigenschaften möglich, solange in dieser Zone nicht mit der Erhebung eines neuen Problemstandorts begonnen wurde. Nach und nach wird so ein umfassendes Bild zur Lage der Problemstandorte geschaffen (siehe Abb. 2).
 
-Da sich der Arbeitsaufwand bei jeder Bewirtschaftung (in Abhängigkeit von der durchgeführten Maßnahme, dem phänologischen Stadium, den Witterungsbedingungen, der Arbeitsbreite, der Minderertragsflächendichte usw.) unterscheiden kann, besteht die Möglichkeit, die Bedienoberfläche zur Datenaufnahme individuell zu konfigurieren. Parameter die dadurch angepasst werden können, sind:
+Da sich der Arbeitsaufwand bei jeder Bewirtschaftung (in Abhängigkeit von der durchgeführten Maßnahme, dem phänologischen Stadium, den Witterungsbedingungen, der Arbeitsbreite, der Minderertragsflächendichte usw.) unterscheiden kann, besteht die Möglichkeit, die Bedienoberfläche zur Datenaufnahme individuell zu konfigurieren. Parameter, die dadurch angepasst werden können, sind:
 
 * die Bearbeitungsbreite, auf die sich die Datenaufnahme bezieht, 
 * die Anzahl der Zonen, in die diese Breite unterteilt wird, und
 * die Anzahl der Minderertragsursachen, die in der aktuellen Situation ausgeprägt sind und somit kartiert werden können.
 
-Unabhängig von der gewählten Konfiguration ist bei jeder Kartierung eine möglichst exakte Erfassung der Minderertragsflächen und deren Eigenschaften anzustreben. Sollte die Arbeitsbelastung oder die Dichte der Minderertragsflächen zu einer zeitweisen Überlastung des Fahrers/der Fahrerin führen, wird empfohlen, die Kartierung auf wenige Flächen zu reduzieren bzw. diese zeitweise auszusetzten. Da die Kartierung von Minderertragsflächen in einem Feld wiederholt (während verschiedener Bearbeitungsschritte) erfolgen soll, ist davon auszugehen, dass eventuell entstandene Datenlücken mit der Zeit geschlossen werden. Darüber hinaus ermöglicht die mehrfache Kartierung der gleichen Minderertragsflächen eine Abschätzung der Genauigkeit für die Ergebniskarte.
+Unabhängig von der gewählten Konfiguration ist bei jeder Kartierung eine möglichst exakte Erfassung der Minderertragsflächen und deren Eigenschaften anzustreben. Sollte die Arbeitsbelastung oder die Dichte der Minderertragsflächen zu einer zeitweisen Überlastung des Fahrers/der Fahrerin führen, wird empfohlen, die Kartierung auf wenige Flächen zu reduzieren bzw. diese zeitweise auszusetzen. Da die Kartierung von Minderertragsflächen in einem Feld wiederholt (während verschiedener Bearbeitungsschritte) erfolgen soll, ist davon auszugehen, dass eventuell entstandene Datenlücken mit der Zeit geschlossen werden. Darüber hinaus ermöglicht die mehrfache Kartierung der gleichen Minderertragsflächen eine Abschätzung der Genauigkeit für die Ergebniskarte.
 
-Die Ergebniskarte bzw. das Ergebnis-Shapefile wird nach Abschluss der Datenerfassung automatisch erzeugt. Dabei werden aneinandergrenzende kartierte Areale mit gleichen Eigenschaften vereinigt, sodass daraus Polygone hervorgehen. Letztlich sollte jeder Problemstandort durch ein Polygon repräsentiert sein (Abb. 3). Polygone, die einem Thema, wie z.B. potenziellen Minderertragsflächen, zuzuordnen sind, werden in einem Shapefile zusammengefasst. Dieses kann zur Bewirtschaftungsplanung oder als Orientierungshilfe, z.B. für neue Mitarbeiter/-innen, genutzt werden.
+Die Ergebniskarte bzw. das Ergebnis-Shapefile wird nach Abschluss der Datenerfassung automatisch erzeugt. Dabei werden aneinandergrenzende kartierte Areale mit gleichen Eigenschaften vereinigt, sodass daraus Polygone hervorgehen. Letztlich sollte jeder Problemstandort durch ein Polygon repräsentiert sein (Abb. 3). Polygone, die einem Thema, wie z.B. potentiellen Minderertragsflächen, zuzuordnen sind, werden in einem Shapefile zusammengefasst. Dieses kann zur Bewirtschaftungsplanung oder als Orientierungshilfe, z.B. für neue Mitarbeiter/-innen, genutzt werden.
 
 
 ![](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_fig02.png)
@@ -99,8 +99,8 @@ _**Abb. 5:** Aufbau der Bedienoberfläche des Anwendungsfalls „Minderertragsfl
 **2. Festlegen der Konfiguration der Benutzeroberfläche** (OPTIONAL)
 <details><summary>2.1. Bereits vorhandene Konfiguration anpassen</summary>
  
-* auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählen
-* den Button `KONFIGURATION ANPASSEN` antippen, sodass die Konfigurationsansicht geöffnet wird (weiteres Vorgehen siehe 2.2 zweiter Spiegelstrich)
+* Auf der Startseite des Anwendungsfalls `Minderertragskartierung` den Namen einer vordefinierten Konfiguration (z.B. Standard) durch Antippen aus der Liste ausgewählen
+* Durch Antippen des Buttons `KONFIGURATION ANPASSEN` wird die Konfigurationsansicht geöffnet (weiteres Vorgehen siehe 2.2 zweiter Spiegelstrich)
  
 {{% pageinfo %}}
 Durch das Anpassen einer Konfiguration wird die gespeicherte Ausgangskonfiguration überschrieben, auch wenn diese einen neuen Konfigurationsnamen erhält.
@@ -139,7 +139,7 @@ Durch erneutes Ausführen einzelner Konfigurationsschritte können Korrekturen v
 **4. Datenaufnahme mit der Fahrtansicht** 
 
 {{% pageinfo %}}
-Buttons der Fahrtansicht, mit deren Hilfe in der aktuellen Situation Daten erhoben werden können, haben eine grüne Hintergrundfarbe. Mit Buttons ohne grünen Hintergrund können keine Daten erhoben werden. Die Hintergrundfarbe wechselt, je nachdem welche Eingaben im Vorfeld erfolgt sind.
+Buttons der Fahrtansicht, mit deren Hilfe in der aktuellen Situation Daten erhoben werden können, haben eine grüne Hintergrundfarbe. Mit Buttons ohne grünen Hintergrund können keine Daten erhoben werden. Die Hintergrundfarbe wechselt, je nachdem, welche Eingaben im Vorfeld erfolgt sind.
 {{% /pageinfo %}}
 
 <details><summary>4.1 Markieren des Anfangs einer Minderertragsfläche</summary>
@@ -195,7 +195,7 @@ Im Rahmen einer Untersuchung wurden 150 Minderertragsflächen von 5 verschiedene
 * direkt aneinander grenzende Minderertragsflächen unterschiedlicher Ursachen, die sich jeweils über mehrere Zonen erstreckten, bis hin zu 
 * direkt aneinander grenzende Minderertragsflächen unterschiedlicher Ursachen, die sich jeweils über mehrere Zonen erstreckten und auf gleicher Höhe liegend links und rechts der Fahrspur unterschiedliche Ursachen aufwiesen.
 
-Eine parallele Bedienung von anderen Steuerelementen am Fahrzeugt erfolgte nicht. Unter diesen Gegebenheiten wurden folgende zu erwartenden minimalen Unsicherheiten bzw. maximalen Genauigkeiten abgeschätzt:
+Eine parallele Bedienung von anderen Steuerelementen am Fahrzeug erfolgte nicht. Unter diesen Gegebenheiten wurden folgende zu erwartenden minimalen Unsicherheiten bzw. maximalen Genauigkeiten abgeschätzt:
 
 | Kenngröße | Abgeschätzter Wert               |
 | --------- | --------------------------------:|
