@@ -33,9 +33,7 @@ _**Abb. 1:** Zonenweise Erfassung ausgewählter Eigenschaften von Minderertragsa
 ### Einsatzszenario
 Der Anwendungsfall Minderertragsflächenkartierung dient der digitalen Erfassung ausgewählter Eigenschaften innerhalb von Äckern gelegener flächenhafter Problemstandorte – hier potentieller Minderertragsflächen. Der Anwendungsfall ist so konzipiert, dass dieser von Landmaschinenfahrenden während der Bewirtschaftung von Ackerflächen eingesetzt werden kann. Zur Erfassung der Lage der potentiellen Minderertragsflächen werden die Bereiche links und rechts der Fahrspur in Zonen unterteilt (z. B. 2 x 3 Zonen in Abb. 1). Zusammengenommen entsprechen die parallel zur Fahrspur verlaufenden Zonen der Bearbeitungsbreite. Taucht in einer der Zonen auf Höhe des Bewirtschaftenden ein Problemstandort auf, wird für diese Zone mit Hilfe der FieldMApp die Datenaufnahme, durch die Lokalisierung des Anfangspunktes, gestartet. In dem Moment, in dem das Ende des Problemstandorts in dieser Zone passiert wird, wird das Zonenende und damit indirekt die Ausdehnung des Problemstandorts innerhalb dieser Zone erfasst. 
 
-<iframe id="ytplayer" type="text/html" scrolling="auto" class="video"
-    src="https://youtu.be/h3IqRWEvcCc" align="left" allowFullScreen="allowFullScreen"> </iframe>
-
+[![Aktivierung und Deaktivierung von Zonen mit der FieldMApp](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_video01_de.jpg)](https://youtu.be/h3IqRWEvcCc-Y?t=0s "Aktivierung und Deaktivierung von Zonen mit der FieldMApp")
 
 Nach dem Start der Lokalisierung eines Problemstandorts in einer Zone ist die Erhebung von dessen Eigenschaften möglich, solange in dieser Zone nicht mit der Erhebung eines neuen Problemstandorts begonnen wurde. Nach und nach wird so ein umfassendes Bild zur Lage der Problemstandorte geschaffen (siehe Abb. 2).
 
