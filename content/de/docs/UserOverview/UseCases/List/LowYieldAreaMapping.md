@@ -35,7 +35,7 @@ Der Anwendungsfall Minderertragsflächenkartierung dient der digitalen Erfassung
 
 [![Aktivierung und Deaktivierung von Zonen mit der FieldMApp](/screenshots/fig/UseCases/LowYieldAreas/LowYieldAreaMapping_video01_de.jpg)](https://youtu.be/h3IqRWEvcCc-Y?t=0s "Aktivierung und Deaktivierung von Zonen mit der FieldMApp")
 
-_**Video 1:** Erfassung der Ausdehnung von Minderertragsflächen (links: hellgrüne Objekte) mit der FieldMApp-Fahrtansicht (rechts) durch die Aktivierung und Deaktivierung der betreffenden Zonen, durch Antippen der entsprechenden Zonennummern neben "Start" bzw. "Stop". Die dabei entstehenden hellblauen Boxen stellen das Kartierungsergebnis dar. (Animation: M. Enderling, Graphikelemente S.C. Truckenbrodt)_
+_**Video 1:** Erfassung der Ausdehnung von Minderertragsflächen (links: hellgrüne Objekte) mit der FieldMApp-Fahrtansicht (rechts) durch die Aktivierung und Deaktivierung der betreffenden Zonen, durch Antippen der entsprechenden Zonennummern neben "Start" bzw. "Stop". Die dabei entstehenden hellblauen Boxen stellen das Kartierungsergebnis dar. (Animation: M. Enderling, Graphikelemente: S.C. Truckenbrodt)_
 
 Nach dem Start der Lokalisierung eines Problemstandorts in einer Zone ist die Erhebung von dessen Eigenschaften möglich, solange in dieser Zone nicht mit der Erhebung eines neuen Problemstandorts begonnen wurde. Nach und nach wird so ein umfassendes Bild zur Lage der Problemstandorte geschaffen (siehe Abb. 2).
 
