@@ -15,6 +15,6 @@ TODO: Warum sollte man die FieldMApp nutzen? Welche Datenaufnahme-Arten werden j
 
 | Modulartikel | Kurzbeschreibung |
 | ------ | ----- |
-| [Profiling](Profiling) | Evaluieren der Nutzerkompetenz durch mehrere Fragen und anschließender Selbsteinschätzung |
-| [Projekte](Projects) | Importieren und Ausfüllen von [ODK](https://getodk.org/) Formularen |
-| [Fahrtansicht](DrivingView) | Nutzergesteuerte Kartierung von besonderen Gebieten auf landwirtschaftlich genutzten Feldern |
+| [Profiling](profiling) | Evaluieren der Nutzerkompetenz durch mehrere Fragen und anschließender Selbsteinschätzung |
+| [Projekte](projects) | Importieren und Ausfüllen von [ODK](https://getodk.org/) Formularen |
+| [Fahrtansicht](drivingview) | Nutzergesteuerte Kartierung von besonderen Gebieten auf landwirtschaftlich genutzten Feldern |
