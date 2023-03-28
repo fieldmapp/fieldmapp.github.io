@@ -1,7 +1,7 @@
 
 ---
 title: "Module - Profiling: Projektmanager"
-linkTitle: "Projektmanager"
+linkTitle: "Profiling"
 weight: 100
 description: >-
      Informationen zur Nutzung des Profiling und den damit gewonnen Daten.

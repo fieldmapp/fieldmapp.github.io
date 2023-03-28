@@ -1,8 +1,8 @@
 
 ---
 title: "Module - Profiling: Nutzerübersicht"
-linkTitle: "Nutzer"
-weight: 100
+linkTitle: "Profiling"
+weight: 300
 description: >-
      Informationen für die Nutzer des Profilings.
 ---

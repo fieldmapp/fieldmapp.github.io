@@ -1,7 +1,7 @@
 
 ---
 title: "Module - Profiling: Entwickler"
-linkTitle: "Entwickler"
+linkTitle: "Profiling"
 weight: 100
 description: >-
      Informationen über die Software-Umsetzung des Profilings.
