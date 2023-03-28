@@ -30,6 +30,6 @@ TODO: Abhängigkeitsdiagramm
 
 | Modulartikel | Kurzbeschreibung |
 | ------ | ----- |
-| [Profiling](Profiling) | Evaluieren der Nutzerkompetenz durch mehrere Fragen und anschließender Selbsteinschätzung |
-| [Projekte](Projects) | Importieren und Ausfüllen von [ODK](https://getodk.org/) Formularen |
-|  [Fahrtansicht](DrivingView) | Nutzergesteuerte Kartierung von besonderen Gebieten auf landwirtschaftlich genutzten Feldern |
+| [Profiling](profiling.md) | Evaluieren der Nutzerkompetenz durch mehrere Fragen und anschließender Selbsteinschätzung |
+| [Projekte](projects) | Importieren und Ausfüllen von [ODK](https://getodk.org/) Formularen |
+|  [Fahrtansicht](privingView) | Nutzergesteuerte Kartierung von besonderen Gebieten auf landwirtschaftlich genutzten Feldern |
