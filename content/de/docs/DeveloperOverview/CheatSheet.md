@@ -1,7 +1,7 @@
 
 ---
-title: "Module - Fahrtansicht: Entwickler"
-linkTitle: "Fahrtansicht"
+title: "Entwickler: CheatSheet"
+linkTitle: "CheatSheet"
 weight: 10000
 description: >-
      Schnellhilfe für Entwickler.
