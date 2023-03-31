@@ -19,6 +19,8 @@ Anleitung für Visual Studio Community 2022 (englisch)
 7. Dann unten rechts auf "Save as...". Nun öffnet sich ein Explorer in dem man auswählen kann wo die APK gespeichert werden soll.
 8. Mit "Speichern" wird die APK am angegebenen Ort gespeichert. An dieser Stelle muss man noch das Passwort für die Signierungsidentität eingeben.
 
+Zu beliebigen Schritten kann das Archivieren "Value cannot be Zero" auftauchen. In dem Fall zuerst einfach nochmal das Archivieren von vorn starten.
+
 # Bestehende Module zur Android App hinzufügen
 
 Anleitung für Visual Studio Community 2022 (englisch)
