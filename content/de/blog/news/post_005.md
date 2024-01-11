@@ -1,7 +1,7 @@
 ---
 tags: ["Minderertragsflächenkartierung", " IGW2024", "Live-Demo", „AgriSens – DEMMIN 4.0“, "Messe", "Nachhaltigkeit", "SmartFarming"]
-title: "Internationale Grüne Woche 2024"
-linkTitle: "Trefft uns auf der Internationalen Grünen Woche 2024"
+title: "Trefft uns auf der Internationalen Grünen Woche 2024"
+linkTitle: "Internationale Grüne Woche 2024"
 date: 2024-01-11
 description: >
   Trefft uns auf der Internationalen Grünen Woche vom 19.-28. Januar 2024 in der Halle 23 A (Stand 24 "Fernerkundung“) der Berliner Messe.
