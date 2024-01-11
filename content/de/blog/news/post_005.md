@@ -1,6 +1,6 @@
 ---
 tags: ["Minderertragsflächenkartierung", " IGW2024", "Live-Demo", „AgriSens – DEMMIN 4.0“, "Messe", "Nachhaltigkeit", "SmartFarming"]
-title: "Trefft uns auf der Internationalen Grünen Woche 2024"
+title: "Internationale Grüne Woche 2024"
 linkTitle: "Trefft uns auf der Internationalen Grünen Woche 2024"
 date: 2024-01-11
 description: >
