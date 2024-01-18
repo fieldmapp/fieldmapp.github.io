@@ -237,11 +237,10 @@ Externe Sensoren
 
 
 ### Veröffentlichte Software-Versionen
-| Versionsnummer | Letzte Änderung | Downloadlink Anwendungsfall                    | Was wurde gegenüber vorheriger Version geändert |
-| -------------- | --------------- | ---------------------------------------------- | ----------------------------------------------- |
-| 1.0            | 30.01.2023      | [Link zu Version 0.1](https://www.example.org) | Wiki-Beitrag ergänzt                            |
-| 0.0            | 23.02.2022      | [Link zu Version 0.0](https://www.example.org) | Wiki-Beitrag online gestellt                    |
 
+Für einen freien Zugang zur FieldMApp-Anwendung kontaktieren sie bitte das FieldMApp-Team unter folgender E-Mail:
+
+![](/contact/QRCode_fieldmapp_mail_wBG.png)
 
 
 ## Weiterführende Informationen
