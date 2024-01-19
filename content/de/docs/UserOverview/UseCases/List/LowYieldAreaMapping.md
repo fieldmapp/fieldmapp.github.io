@@ -240,7 +240,8 @@ Externe Sensoren
 
 Für einen freien Zugang zur FieldMApp-Anwendung kontaktieren sie bitte das FieldMApp-Team unter folgender E-Mail:
 
-![](/contact/QRCode_fieldmapp_mail_wBG.png)
+<img src="/contact/QRCode_fieldmapp_mail_wBG.png"
+		height="300px" />
 
 
 ## Weiterführende Informationen
