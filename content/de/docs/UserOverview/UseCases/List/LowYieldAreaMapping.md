@@ -239,6 +239,7 @@ Externe Sensoren
 ### Veröffentlichte Software-Versionen
 
 Für einen freien Zugang zur FieldMApp-Anwendung kontaktieren sie bitte das FieldMApp-Team unter folgender E-Mail:
+
 <img src="/contact/QRCode_fieldmapp_mail_wBG.png"
 		height="300px"
   		width= "300px"/>
