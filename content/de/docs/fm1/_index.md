@@ -1,6 +1,8 @@
 ---
 title: "FieldMApp 1 (alte Version)"
-weight: 20
+weight: 100
+description: >-
+     Alles Relevante für Nutzerinnen und Nutzer der ersten (alten) Version der FieldMApp.
 ---
 
 {{% pageinfo %}}
