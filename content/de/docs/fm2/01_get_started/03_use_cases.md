@@ -1,8 +1,9 @@
 ---
-title: "Map"
+title: "Use Cases für die FieldMApp"
 weight: 100
+nav_order: 3
 description: >-
-     Das Map-Module der FieldMApp.
+     Übersicht der FieldMApp Use Cases.
 ---
 
 {{% pageinfo %}}

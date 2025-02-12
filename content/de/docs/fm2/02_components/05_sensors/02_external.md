@@ -1,8 +1,10 @@
 ---
-title: "Editor"
+title: "Externe Sensoren der FieldMApp"
 weight: 100
+nav_order: 2
 description: >-
-     Das Editor Module der FieldMApp.
+     
+     .
 ---
 
 {{% pageinfo %}}

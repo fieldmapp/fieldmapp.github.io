@@ -1,8 +1,10 @@
 ---
-title: "Sensoren"
+title: "Interne Sensoren der FieldMApp"
 weight: 100
+nav_order: 1
 description: >-
-     Sensoren verfügbar in der FieldMApp.
+     
+     .
 ---
 
 {{% pageinfo %}}

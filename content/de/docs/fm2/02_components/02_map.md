@@ -1,9 +1,9 @@
 ---
-title: "FieldMApp Demo"
+title: "Map"
 weight: 100
+nav_order: 2
 description: >-
-     Demonstration der FieldMApp
-     .
+     Das Map-Module der FieldMApp.
 ---
 
 {{% pageinfo %}}

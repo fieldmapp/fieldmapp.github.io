@@ -1,8 +1,9 @@
 ---
-title: "Installation"
+title: "Feldaufnahme"
 weight: 100
+nav_order: 4
 description: >-
-     Die FieldMApp installieren.
+     Das Map-Module der FieldMApp.
 ---
 
 {{% pageinfo %}}

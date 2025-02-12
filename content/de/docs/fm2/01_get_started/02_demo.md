@@ -1,8 +1,10 @@
 ---
-title: "Feldaufnahme"
+title: "FieldMApp Demo"
 weight: 100
+nav_order: 2
 description: >-
-     Das Map-Module der FieldMApp.
+     Demonstration der FieldMApp
+     .
 ---
 
 {{% pageinfo %}}
