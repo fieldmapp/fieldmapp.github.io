@@ -1,7 +1,6 @@
 ---
 title: "Interne Sensoren der FieldMApp"
-weight: 1
-nav_order: 1
+weight: 100
 description: >-
      
      .

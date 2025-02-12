@@ -1,7 +1,6 @@
 ---
 title: "Externe Sensoren der FieldMApp"
-weight: 2
-nav_order: 2
+weight: 200
 description: >-
      
      .

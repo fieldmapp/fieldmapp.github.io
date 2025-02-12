@@ -1,6 +1,6 @@
 ---
 title: " Mit der FieldMApp starten"
-weight: 100
+weight: 1
 description: >-
      Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
 ---
