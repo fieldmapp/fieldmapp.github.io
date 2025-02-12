@@ -1,8 +1,6 @@
 ---
 title: "Editor"
-weight: 100
-nav_order: 3
-
+weight: 3
 description: >-
      Das Editor Module der FieldMApp.
 ---

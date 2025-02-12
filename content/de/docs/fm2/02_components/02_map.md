@@ -1,7 +1,6 @@
 ---
 title: "Map"
-weight: 100
-nav_order: 2
+weight: 2
 description: >-
      Das Map-Module der FieldMApp.
 ---

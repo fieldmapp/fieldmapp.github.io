@@ -1,7 +1,6 @@
 ---
 title: "FieldMApp Demo"
-weight: 100
-nav_order: 2
+weight: 2
 description: >-
      Demonstration der FieldMApp
      .

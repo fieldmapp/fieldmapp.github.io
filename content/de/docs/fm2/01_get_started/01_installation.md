@@ -1,7 +1,6 @@
 ---
 title: "Installation"
-weight: 100
-nav_order: 1
+weight: 1
 description: >-
      Die FieldMApp installieren.
 ---

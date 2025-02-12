@@ -1,7 +1,6 @@
 ---
 title: "Sensoren"
-weight: 100
-nav_order: 5
+weight: 1
 description: >-
      Sensoren verfügbar in der FieldMApp.
 ---

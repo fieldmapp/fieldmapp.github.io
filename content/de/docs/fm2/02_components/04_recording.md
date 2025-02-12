@@ -1,7 +1,6 @@
 ---
 title: "Feldaufnahme"
-weight: 100
-nav_order: 4
+weight: 4
 description: >-
      Das Map-Module der FieldMApp.
 ---

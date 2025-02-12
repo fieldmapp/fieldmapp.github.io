@@ -1,7 +1,6 @@
 ---
 title: "Use Cases für die FieldMApp"
-weight: 100
-nav_order: 3
+weight: 3
 description: >-
      Übersicht der FieldMApp Use Cases.
 ---
