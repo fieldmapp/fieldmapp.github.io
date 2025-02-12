@@ -1,8 +1,9 @@
 ---
-title: " Mit der FieldMApp starten"
+title: "Interne Sensoren der FieldMApp"
 weight: 100
 description: >-
-     Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
+     
+     .
 ---
 
 {{% pageinfo %}}

@@ -1,8 +1,9 @@
 ---
-title: " Mit der FieldMApp starten"
+title: "Map-Erweiterung: Reporting"
 weight: 100
 description: >-
-     Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
+     Reporting der FieldMApp
+     .
 ---
 
 {{% pageinfo %}}

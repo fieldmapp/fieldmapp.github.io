@@ -1,8 +1,8 @@
 ---
-title: " Mit der FieldMApp starten"
+title: "Komponenten der FieldMApp"
 weight: 100
 description: >-
-     Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
+     Die Komponenten der FieldMApp.
 ---
 
 {{% pageinfo %}}

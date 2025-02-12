@@ -1,8 +1,8 @@
 ---
-title: " Mit der FieldMApp starten"
+title: "Use Cases für die FieldMApp"
 weight: 100
 description: >-
-     Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
+     Übersicht der FieldMApp Use Cases.
 ---
 
 {{% pageinfo %}}

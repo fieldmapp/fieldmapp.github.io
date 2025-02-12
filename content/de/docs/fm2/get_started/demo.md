@@ -1,8 +1,9 @@
 ---
-title: " Mit der FieldMApp starten"
+title: "FieldMApp Demo"
 weight: 100
 description: >-
-     Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
+     Demonstration der FieldMApp
+     .
 ---
 
 {{% pageinfo %}}

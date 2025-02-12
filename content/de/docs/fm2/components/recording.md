@@ -1,8 +1,8 @@
 ---
-title: " Mit der FieldMApp starten"
+title: "Feldaufnahme"
 weight: 100
 description: >-
-     Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
+     Das Map-Module der FieldMApp.
 ---
 
 {{% pageinfo %}}

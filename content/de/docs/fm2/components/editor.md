@@ -1,8 +1,8 @@
 ---
-title: " Mit der FieldMApp starten"
+title: "Editor"
 weight: 100
 description: >-
-     Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
+     Das Editor Module der FieldMApp.
 ---
 
 {{% pageinfo %}}

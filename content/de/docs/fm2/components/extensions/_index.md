@@ -1,8 +1,8 @@
 ---
-title: " Mit der FieldMApp starten"
+title: " Erweiterungen"
 weight: 100
 description: >-
-     Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
+     Erweiterungen für die FieldMApp.
 ---
 
 {{% pageinfo %}}

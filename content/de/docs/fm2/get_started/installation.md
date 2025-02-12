@@ -1,8 +1,8 @@
 ---
-title: " Mit der FieldMApp starten"
+title: "Installation"
 weight: 100
 description: >-
-     Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
+     Die FieldMApp installieren.
 ---
 
 {{% pageinfo %}}

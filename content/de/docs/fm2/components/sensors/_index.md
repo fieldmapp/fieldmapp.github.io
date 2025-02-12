@@ -1,8 +1,8 @@
 ---
-title: " Mit der FieldMApp starten"
+title: "Sensoren"
 weight: 100
 description: >-
-     Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
+     Sensoren verfügbar in der FieldMApp.
 ---
 
 {{% pageinfo %}}
