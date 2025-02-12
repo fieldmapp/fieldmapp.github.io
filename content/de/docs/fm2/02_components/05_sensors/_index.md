@@ -1,6 +1,6 @@
 ---
 title: "Sensoren"
-weight: 10
+weight: 500
 description: >-
      Sensoren verfügbar in der FieldMApp.
 ---

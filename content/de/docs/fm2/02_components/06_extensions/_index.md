@@ -1,6 +1,6 @@
 ---
 title: " Erweiterungen"
-weight: 100
+weight: 600
 description: >-
      Erweiterungen für die FieldMApp.
 ---
