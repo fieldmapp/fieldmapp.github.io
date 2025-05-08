@@ -23,7 +23,7 @@ Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der mobilen Anwendung gelad
 - Elbeeinzugsgebiet (GeoJSON) – thematischer Vektorlayer mit Metadaten.
 
 <video width="640" height="480" controls>
-  <source src="/assets/video/fm_gis_module.mp4" type="video/mp4">
+  <source src="{{ '/assets/video/fm_gis_module.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 
