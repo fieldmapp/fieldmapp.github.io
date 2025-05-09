@@ -17,7 +17,7 @@ Die Dokumentation ist noch im Aufbau.
 > Das Reporting-Modul befindet sich aktuell in der prototypischen Entwicklung. Ziel ist es, für registrierte landwirtschaftliche Flächen regelmäßige Berichte bereitzustellen, um datenbasierte, fundierte Entscheidungen zur Bewirtschaftung treffen zu können. Es kombiniert **Wetterdaten** und **Fernerkundung** in einem kompakten Überblick und schafft damit die Grundlage für **datengetriebene Entscheidungsprozesse in der Landwirtschaft**.
 
 <video width="640" height="480" controls>
-  <source src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/fm_reporting.mp4" type="video/mp4">
+  <source src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/fm-reporting.mp4" type="video/mp4">
 </video>
 
 ### 🗂️ Funktionsumfang (Beispielhafte Umsetzung)
@@ -38,10 +38,10 @@ Die Dokumentation ist noch im Aufbau.
 ##### 3. Interpretation der Daten
 - Die **Wetterdaten** helfen dabei, Stressfaktoren wie Hitze oder Trockenperioden zu erkennen.
 - Die **Fernerkundungsdaten** unterstützen bei der Einschätzung des Pflanzenwachstums, etwa bei Verzögerung der Entwicklung oder möglichem Schädlings-/Krankheitsdruck.
-  
+    
+<br>
 
-
-> ##### Hinweise zur Nutzung
+>##### Hinweise zur Nutzung
 > - Aktuell ist das Modul im Testbetrieb – Berichte werden ggf. nicht regelmäßig automatisch erstellt.
 > - Die angezeigten Werte basieren auf öffentlich zugänglichen Wetterdaten (DWD) und Satellitenbildern (Sentinel-2).
 > - Umfang und Parameter im Bericht werden zukünftig konfigurierbar sein
