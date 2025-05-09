@@ -1,8 +1,8 @@
 ---
-title: "Editor"
+title: "Feldaufnahme"
 weight: 3
 description: >-
-     Das Editor Module der FieldMApp.
+     Das Map-Module der FieldMApp.
 ---
 
 {{% pageinfo %}}
