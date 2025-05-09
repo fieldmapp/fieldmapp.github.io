@@ -14,6 +14,6 @@ In den nachfolgenden Ausführungen wird aus Gründen der besseren Lesbarkeit auf
 {{% /pageinfo %}}
 
 
-<center>
+<div>
   <img src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/fm-all.gif" alt="FieldMApp Demonstration">
-</center>
+</div>
