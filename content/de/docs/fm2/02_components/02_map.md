@@ -6,7 +6,7 @@ description: >-
 ---
 
 {{% pageinfo %}}
-Die Dokumentation is  t noch im Aufbau.
+Die Dokumentation ist noch im Aufbau.
 {{% /pageinfo %}}
 
 > Das Map-Modul ist die geografische Informationssystem (GIS)-Komponente der FieldMApp und bietet leistungsstarke Werkzeuge zur Visualisierung, Bearbeitung und Erstellung räumlicher Daten im Feld. Mit einer intuitiven, für mobile Geräte optimierten Benutzeroberfläche ermöglicht dieses Modul Anwendern, mit verschiedenen Geodatenformaten zu arbeiten, ihre Position zu verfolgen und räumliche Analyseaufgaben direkt auf ihrem mobilen Gerät durchzuführen.
@@ -23,7 +23,7 @@ Die Dokumentation is  t noch im Aufbau.
 > **Map-Erweiterungen:**
 > - [**Reporting**](../06_extensions/reporting) Kartenerweiterung für monatliche Reports mit Wetter und Fernerkundungsparametern 
 
-## Geodaten visualiseren
+## Geodaten visualisieren
 
 Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der mobilen Anwendung geladen und visualisiert werden können. Im Beispiel werden drei Layer eingebunden:
 
