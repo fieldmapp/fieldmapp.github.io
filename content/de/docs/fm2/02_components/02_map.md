@@ -21,7 +21,8 @@ Die Dokumentation is  t noch im Aufbau.
 > Ob Sie Felddaten sammeln, in unbekanntem Gelände navigieren oder räumliche Muster vor Ort analysieren – das Map-Modul bietet alle wesentlichen GIS-Funktionen, optimiert für die mobile Feldarbeit.
 
 > **Map-Erweiterungen:**
-> - [**Reporting**](./06_extensions/reporting.md) Kartenerweiterung für monatliche Reports mit Wetter und Fernerkundungsparametern 
+> <a href="../06_extensions/reporting">Link zu einer anderen Sektion</a>
+> - [**Reporting**](../06_extensions/reporting) Kartenerweiterung für monatliche Reports mit Wetter und Fernerkundungsparametern 
 
 ## Geodaten visualiseren
 
