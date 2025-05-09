@@ -14,7 +14,6 @@ In den nachfolgenden Ausführungen wird aus Gründen der besseren Lesbarkeit auf
 {{% /pageinfo %}}
 
 
-<video autoplay loop muted playsinline>
-  <source src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/fm-all.gif" type="image/gif">
+<center>
   <img src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/fm-all.gif" alt="FieldMApp Demonstration">
-</video>
+</center>
