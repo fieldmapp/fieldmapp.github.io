@@ -9,16 +9,14 @@ description: >-
 Die Dokumentation is  t noch im Aufbau.
 {{% /pageinfo %}}
 
-
-# Map-Modul
 > Das Map-Modul ist die geografische Informationssystem (GIS)-Komponente der FieldMApp und bietet leistungsstarke Werkzeuge zur Visualisierung, Bearbeitung und Erstellung räumlicher Daten im Feld. Mit einer intuitiven, für mobile Geräte optimierten Benutzeroberfläche ermöglicht dieses Modul Anwendern, mit verschiedenen Geodatenformaten zu arbeiten, ihre Position zu verfolgen und räumliche Analyseaufgaben direkt auf ihrem mobilen Gerät durchzuführen.
 
 > **Hauptfunktionen**
-> - Multi-Layer-Visualisierung - Darstellung verschiedener Datenformate wie Tile-Layer (OSM), Webdienste (WMS) und Vektordaten (GeoJSON)
-> - Interaktive Bearbeitungswerkzeuge - Erstellung und Modifikation räumlicher Features mittels einfacher Berührungsgesten
-> - Echtzeit-Positionsverfolgung - Anzeige des aktuellen Standorts mit Genauigkeitsinformationen und automatischer Bewegungsverfolgung
-> - Ortssuche - Finden von Orten und Adressen über OpenStreetMap-basierte Suchfunktionalität
-> - Zeitgesteuerte Layer - Arbeit mit zeitlichen Daten wie Wetterradar mit intuitiver Zeitsteuerung
+> - [Multi-Layer-Visualisierung](#Geodaten-visualiseren) - Darstellung verschiedener Datenformate wie Tile-Layer (OSM), Webdienste (WMS) und Vektordaten (GeoJSON)
+> - [Interaktive Bearbeitungswerkzeuge](#Geodaten-bearbeiten) - Erstellung und Modifikation räumlicher Features mittels einfacher Berührungsgesten
+> - [Echtzeit-Positionsverfolgung](#Positionanzeigen-und--folgen) - Anzeige des aktuellen Standorts mit Genauigkeitsinformationen und automatischer Bewegungsverfolgung
+> - [Ortssuche](#Ortssuche) - Finden von Orten und Adressen über OpenStreetMap-basierte Suchfunktionalität
+> - [Zeitgesteuerte Layer](#3-Niederschlagsradar-hinzufügen) - Arbeit mit zeitlichen Daten wie Wetterradar mit intuitiver Zeitsteuerung
 
 > Ob Sie Felddaten sammeln, in unbekanntem Gelände navigieren oder räumliche Muster vor Ort analysieren – das Map-Modul bietet alle wesentlichen GIS-Funktionen, optimiert für die mobile Feldarbeit.
 
