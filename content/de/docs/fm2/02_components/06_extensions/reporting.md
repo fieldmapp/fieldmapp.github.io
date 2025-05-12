@@ -14,7 +14,7 @@ Die Dokumentation ist noch im Aufbau.
 ## Felddaten Reporting
 
 
-> Das Reporting-Modul befindet sich aktuell in der prototypischen Entwicklung. Ziel ist es, für registrierte landwirtschaftliche Flächen regelmäßige Berichte bereitzustellen, um datenbasierte, fundierte Entscheidungen zur Bewirtschaftung treffen zu können. Es kombiniert **Wetterdaten** und **Fernerkundung** in einem kompakten Überblick und schafft damit die Grundlage für **datengetriebene Entscheidungsprozesse in der Landwirtschaft**.
+> Das Reporting-Modul befindet sich aktuell in der prototypischen Entwicklung. Ziel ist es, für registrierte landwirtschaftliche Flächen regelmäßige Berichte bereitzustellen, um datenbasierte, fundierte Entscheidungen zur Bewirtschaftung treffen zu können. Es kombiniert **Wetterdaten** und **Fernerkundungsprodukte** in einem kompakten Überblick und schafft damit die Grundlage für **datengetriebene Entscheidungsprozesse in der Landwirtschaft**.
 
 <video width="640" height="480" controls>
   <source src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/fm-reporting.mp4" type="video/mp4">
