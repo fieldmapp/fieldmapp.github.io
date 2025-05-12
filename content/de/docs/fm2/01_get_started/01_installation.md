@@ -28,13 +28,13 @@ FieldMApp-Android releases können [hier heruntergeladen](https://cloud.uni-jena
 
 ---
 
-### 2. Datei-Manager öffnen
+#### 2. Datei-Manager öffnen
 - Navigiere auf deinem Smartphone zur heruntergeladenen APK-Datei (z. B. im **Download**-Ordner).
 - Tippe auf die Datei (`fm_app-realease.apk`), um den Installationsprozess zu starten.
 
 ---
 
-### 3. Installation erlauben
+#### 3. Installation erlauben
 Beim ersten Versuch zeigt Android möglicherweise eine Warnung an:
 
 > „Installation aus unbekannten Quellen nicht erlaubt.“
@@ -46,14 +46,14 @@ Beim ersten Versuch zeigt Android möglicherweise eine Warnung an:
 
 ---
 
-### 4. Installation abschließen
+#### 4. Installation abschließen
 - Tippe auf **„Installieren“**
 - Warte, bis die App erfolgreich installiert wurde.
 - Danach erscheint die Schaltfläche **„Öffnen“**, um die App direkt zu starten.
 
 ---
 
-## ✅ Fertig!
+#### Fertig!
 Die App ist nun auf deinem Android-Gerät installiert und kann wie gewohnt verwendet werden.
 
 <hr>
