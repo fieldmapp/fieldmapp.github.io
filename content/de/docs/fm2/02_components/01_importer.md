@@ -10,7 +10,7 @@ Die Dokumentation ist noch im Aufbau.
 {{% /pageinfo %}}
 
 
-> Das Import-Modul ermöglicht den Import von Vektor- und Rasterdaten in die FieldMApp. Einmal importiert, stehen die Daten allen Modulen der FieldMApp zur weiteren Verarbeitung zur Verfügung – zum Beispiel der [Karte](./02_map) zur Visualisierung und Bearbeitung.
+> Das Import-Modul ermöglicht den Import von Vektor- und Rasterdaten in die FieldMApp. Einmal importiert, stehen die Daten allen Modulen der FieldMApp zur weiteren Verarbeitung zur Verfügung – zum Beispiel der [Karte](../02_map) zur Visualisierung und Bearbeitung.
 
 ## Datentypen
 
