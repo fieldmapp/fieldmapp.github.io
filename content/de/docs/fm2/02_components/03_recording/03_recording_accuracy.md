@@ -2,7 +2,7 @@
 title: "Unsicherheits- und Genauigkeitsangaben"
 weight: 3
 description: >-
-     Unsicherheits- und Genauigkeitsangaben.
+     Untersuchung über erwartbare Genauigkeit.
 ---
 Im Rahmen einer Untersuchung wurden 150 Minderertragsflächen von 5 verschiedenen Personen mit Hilfe des Tastenfelds der FieldMApp-Fahrtansicht erfasst (Stichprobenumfang N = 750). Das Fahrzeug, in dem sich die kartierenden Personen während der Datenerhebung befanden, wurde mit einer konstanten Geschwindigkeit von 15 km/h bewegt. Die Minderertragsflächen waren bei der Untersuchung so verteilt, dass ein sehr breites Spektrum von Eingabebefehlen abgedeckt wurde. Die Eingabebefehle reichten von
 
