@@ -2,7 +2,7 @@
 title: "Eine Minderertragsfläche kartieren"
 weight: 1
 description: >-
-     Benutzerdokumentation für das kartieren von Minderertragsflächen.
+     Benutzerdokumentation für das Kartieren von Minderertragsflächen.
 ---
 
 - Es sollen digitale Karten von Minderertragsflächen und deren Ursachen erstellt werden
@@ -33,7 +33,7 @@ Distanz zwischen Fahrer und GNSS-Antenne in Metern.
 - Negative Zahl: Die Antenne ist hinter dem Fahrer.
 
 ![Optionen](/graphs/arbeitsbreite.jpg)
-*Diese Grafik zeigt die Bedeutung der Option `Gesamtbreite`, einen positiven `Abstand zur Aufnahme` und eine `Anzahl der Zonen(einseitig)` von zwei*
+Foto: Maximilian Enderling, Bearbeitung: Tim Surber *Diese Grafik zeigt die Bedeutung der Option `Gesamtbreite`, einen positiven `Abstand zur Aufnahme` und eine `Anzahl der Zonen(einseitig)` von zwei*
 
 #### Auswahl von Minderertragsursachen
 Es kann eine voreingestellte Auswahl an Minderertragsursachen ausgewählt werden, oder eine neue Liste erstellt werden. Durch einen Klick auf das „+“ kann ein Name für die Sammlung von Gründen vergeben werden und die Gründe (durch Kommas getrennt) eingetragen werden.  
@@ -46,6 +46,10 @@ Bei einer wiederholten Kartierung kann Zeit gespart werden, in dem auf der recht
 
 ## Während der Aufnahme
 Minderertragsflächen werden durch eine oder mehrere Zonen begrenzt. Zonen unterteilen die Breite der Fahrspur. Einer Zone muss ein Grund mit zugehöriger Intensität zugewiesen werden.
+
+> **Hinweis**  
+> Beachten Sie auch den [Leitfaden zur bewährten Datenerfassung]({{< ref "docs/fm2/02_components/03_recording/02_recording_tips.md" >}})
+
 
 ### Beginn von Minderertragsflächen
 Der Anfang einer Minderertragsfläche in einer Zone oder mehreren Zonen wird durch nach unten Wischen über die betreffende(n) Nummer(n) der Zone(n) festgelegt (Abb. 5). Die Möglichkeit zur Eingabe des Grundes und verbundenen Intensität wird damit automatisch freigeschaltet (Abb. 6). Aktivierte Zonen sind in einer hellgrünen Farbe hinterlegt.

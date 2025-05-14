@@ -1,10 +1,10 @@
 ---
 title: "Sensoren"
-weight: 500
+weight: 1
 description: >-
-     Sensoren verfügbar in der FieldMApp.
+     Verfügbare Sensoranbindungen in der FieldMApp.
 ---
 
-{{% pageinfo %}}
-Die Dokumentation ist noch im Aufbau.
-{{% /pageinfo %}}
+Derzeit sind zwei verschiedene Sensoranbindungen in der FieldMapp verfügbar. Der interne GNSS Sensor des Mobilgeräts und ein externer DGNSS Empfänger.
+
+In Zukunft sind weitere Sensoranbindungen geplant.

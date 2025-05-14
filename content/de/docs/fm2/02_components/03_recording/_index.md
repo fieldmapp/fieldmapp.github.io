@@ -2,9 +2,5 @@
 title: "Feldaufnahme"
 weight: 3
 description: >-
-     Die Komponenten der FieldMApp.
+     Das Feldaufnahme-Modul ermöglicht das Kartieren von Minderetragsflächen.
 ---
-
-{{% pageinfo %}}
-Die Dokumentation ist noch im Aufbau.
-{{% /pageinfo %}}
