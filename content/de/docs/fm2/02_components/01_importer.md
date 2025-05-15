@@ -91,15 +91,13 @@ Weiterhin kann im Feld `Service Attributation` der Urheber des Dienstes hinterle
 
 ### Importierte Daten entfernen
 
-Dieses Tutorial zeigt, wie die zuvor importierte `GeoJSON`-Datei (`elbe_basin.geojson`) aus FieldMApp entfernt wird.
+Dieses Tutorial zeigt, wie die zuvor importierte `GeoJSON`-Datei (`elbe_basin.geojson`) aus der FieldMApp entfernt wird.
 
 <video width="640" height="480" controls>
   <source src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/delete_data.mp4" type="video/mp4">
 </video>
 
-
 #### **Schritt-für-Schritt-Anleitung**
-
 
 ##### 1. GeoJSON-Datei auswählen
 Finde die zu löschende Datei/Quelle aus der Liste importierter Datenquellen im Importer-Module
