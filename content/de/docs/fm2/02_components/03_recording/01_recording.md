@@ -17,10 +17,13 @@ description: >-
 In der unteren Leiste den Tab `Feldaufnahme` anklicken.
 
 ## Die Aufnahmeoptionen anpassen
-![Optionen](/screenshots/screenshot_aufnahme_optionen.jpg)
-*Formular zur Eingabe der Aufnahmeoptionen*
 ### Neue Feldaufnahme
 Durch einen Klick auf den Button `Neue Aufnahme starten!` kann eine neue Feldaufnahme gestartet werden und das Formular zur Eingabe der Aufnahmeoptionen erscheint.
+![Feldaufnahme Modul](/screenshots/screenshot_neue_aufnahme.jpg)
+*Startseite des Feldaufnahme Moduls*
+
+![Optionen](/screenshots/screenshot_aufnahme_optionen.jpg)
+*Formular zur Eingabe der Aufnahmeoptionen*
 #### Name der Aufnahme
 Name der Feldaufnahme unter der die vorgenommenen Einstellungen sowie die spätere Aufnahme gespeichert werden und bei Bedarf wieder abgerufen werden können.
 #### Autor
