@@ -1,0 +1,24 @@
+{{ $container := "container-fluid" }}
+{{ if .Site.Params.ui.navbar_container }}
+  {{ $container = "container" }}
+{{ end }}
+
+<nav class="td-navbar navbar navbar-expand-lg navbar-light bg-light">
+  <div class="{{ $container }}">
+    <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+      <span class="navbar-logo">
+        <img src="{{ "logos/fm_app_new.png" | relURL }}" width="50" alt="FieldMApp Logo">
+      </span>
+    </a>
+
+    {{ partial "navbar-mobile.html" . }}
+
+    <div class="collapse navbar-collapse" id="main_navbar">
+      {{ partial "search-input.html" . }}
+      {{ partial "navbar-primary.html" . }}
+      {{ partial "language-selector.html" . }}
+      {{ partial "navbar-versions.html" . }}
+      {{ partial "navbar-right.html" . }}
+    </div>
+  </div>
+</nav>
