@@ -17,7 +17,7 @@ Folgende Schritte sind erforderlich: TODO
 ## Android Aufforderung zustimmen
 ## Internet Verbindung herstellen.
 ## In Fieldmapp Karten ansicht öffnen
-## Auswählen der Korrekturdaten
+## Auswählen der NTRIP Korrekturdaten
 ## Aktivieren
 
 > **Hinweis**  
