@@ -76,12 +76,12 @@ Dieses Tutorial zeigt, wie ein externe [Tile-Service](https://github.com/CartoDB
 #### **Schritt-für-Schritt-Anleitung**
 
 ##### 1. Tile-Service als Quelle wählen
-Tippe auf die Schaltfläche **+** (rechts unten). Es öffnet sich ein Auswahlfenster, hier **WMS/WMTS/XYZ** auswählen. Im neuen Pop-up-Fenster den Schieberegele **TMS** aktivieren.
+Tippe auf die Schaltfläche **+** (rechts unten). Es öffnet sich ein Auswahlfenster, hier **WMS/WMTS/XYZ** auswählen. Im neuen Pop-up-Fenster den Schieberegeler **TMS** aktivieren.
 
 ##### 2. Service-URL einfügen
 Gib die URL des gewünschten Tile-Service in das dafür vorgesehene Feld ein, sowie einen Name für den Tile-Layer.
 
-##### 3.Zusatzinformation
+##### 3. Zusatzinformation
 Weiterhin kann im Feld `Service Attributation` der Urheber des Dienstes hinterlegt werden. Durch das Feld `MapKey-URL` kann eine externe Legendengrafik geladen werden.
 
 ##### 4. In der Karte prüfen
