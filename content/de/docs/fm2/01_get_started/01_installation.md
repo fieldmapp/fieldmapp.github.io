@@ -19,8 +19,8 @@ FieldMApp-Android releases können [hier heruntergeladen](https://cloud.uni-jena
 
 ### APK installieren
 
-#### ⚠️ Hinweis vorab
->Eine APK-Datei ist ein Installationspaket für Android-Apps. Diese Anleitung gilt für FieldMApp-APK, die **außerhalb des Google Play Stores** bereitgestellt wird. 
+> **Hinweis**
+> Eine APK-Datei ist ein Installationspaket für Android-Apps. Diese Anleitung gilt für FieldMApp-APK, die **außerhalb des Google Play Stores** bereitgestellt wird. 
 
 
 #### 1. APK-Datei auf das Smartphone übertragen
