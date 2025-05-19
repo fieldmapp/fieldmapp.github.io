@@ -9,10 +9,7 @@ description: >-
 Die Dokumentation ist noch im Aufbau.
 {{% /pageinfo %}}
 
-
-## Login und Nutzer-Accounts
-
-Die Anmeldung mit Nutzeraccount in der **FieldMApp** ermöglicht die Synchronisation von Feldaufnahmen mit dem **FieldMApp-Server**. Dies eröffnet zahlreiche Möglichkeiten zur Weiterverarbeitung und Integration der erhobenen Felddaten.
+> Die Anmeldung mit Nutzeraccount in der **FieldMApp** ermöglicht die Synchronisation von Feldaufnahmen mit dem **FieldMApp-Server**. Dies eröffnet zahlreiche Möglichkeiten zur Weiterverarbeitung und Integration der erhobenen Felddaten.
 
 ### Funktionen des Logins
 
