@@ -9,7 +9,7 @@ description: >-
 Die Dokumentation ist noch im Aufbau.
 {{% /pageinfo %}}
 
-## **Anwendungsfall:** Datenbasierte Unterscheidungsunterstützung 
+## **Anwendungsfall:** Datenbasierte Entscheidungsunterstützung 
 ### Minderertragsflächen mit historischen Wetter- und Fernerkundungsprodukten abgleichen
 
 Dieser Anwendungsfall zeigt die Integration verschiedener Datenprodukte im Map-Module, sowie im Reporting-Module der FieldMApp. Diese Integration ermöglicht eine fundierte, datenbasierte Entscheidungsunterstützung direkt innerhalb der App – beispielsweise durch die Analyse von Temperatur- und Niederschlagsverläufen während der Vegetationsperiode oder durch einen Überblick über die Entwicklung der Pflanzenvitalität zur Bewertung bereits durchgeführter Maßnahmen.
