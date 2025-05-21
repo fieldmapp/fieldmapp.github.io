@@ -13,17 +13,17 @@ Die Dokumentation ist noch im Aufbau.
 
 ## Android
 
-### Android Releases
+### Download für Android
 
-FieldMApp-Android releases können [hier heruntergeladen](https://cloud.uni-jena.de/s/ZFR5Sy5CMoydPiD) werden.
+Die App **FieldMApp** kann für Android [hier heruntergeladen](https://cloud.uni-jena.de/s/ZFR5Sy5CMoydPiD) werden.
 
 ### APK installieren
 
 > **Hinweis**
-> Eine APK-Datei ist ein Installationspaket für Android-Apps. Diese Anleitung gilt für FieldMApp-APK, die **außerhalb des Google Play Stores** bereitgestellt wird. 
+> Eine APK-Datei ist ein Installationspaket für Android-Apps. Diese Anleitung gilt für die FieldMApp-APK, die **außerhalb des Google Play Stores** bereitgestellt wird. 
 
 
-#### 1. APK-Datei auf das Smartphone übertragen
+#### 1. APK-Datei auf das Tablet oder Smartphone übertragen
 - Lade die APK-Datei direkt über den Browser des Smartphones herunter.
 
 ---
@@ -54,6 +54,6 @@ Beim ersten Versuch zeigt Android möglicherweise eine Warnung an:
 ---
 
 #### Fertig!
-Die App ist nun auf deinem Android-Gerät installiert und kann wie gewohnt verwendet werden.
+Die App ist nun auf deinem Android-Gerät installiert und kann verwendet werden.
 
 <hr>
