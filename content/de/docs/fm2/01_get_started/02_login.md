@@ -2,7 +2,7 @@
 title: "Nutzeraccount/ Login"
 weight: 1
 description: >-
-     FieldMApp-Account.
+     Einen FieldMApp-Account einrichten.
 ---
 
 {{% pageinfo %}}
@@ -13,18 +13,16 @@ Die Dokumentation ist noch im Aufbau.
 
 ### Funktionen des Logins
 
-Sobald du angemeldet bist, ist es möglich:
+Durch die Anmeldung ist es möglich:
 
-- **Feldaufnahmen exportieren**  
-  in verschiedenen Dateiformaten:
+- **Feldaufnahmen zu exportieren** in verschiedenen Dateiformaten:
   - CSV  
   - Shapefile  
   - GeoJSON  
 
-- **Integration in GIS-Systeme**  
-  z. B. in **QGIS** über die **OGC API Features**.
+- **Daten in GIS-Systeme integrieren ** z. B. in **QGIS** über die **OGC API Features** Schinttstelle.
 
-Diese Funktionen der FieldMApp ermöglichen die Nachverarbeitung und Team-Kollaboration im GIS-Umfeld.
+Diese Funktionen der FieldMApp ermöglichen die Nachbearbeitung, Integration in GIS-Prozessierungen und Team-Kollaboration im GIS-Umfeld.
 
 <video width="640" height="480" controls>
   <source src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/fm_login.mp4" type="video/mp4">
@@ -35,13 +33,13 @@ Diese Funktionen der FieldMApp ermöglichen die Nachverarbeitung und Team-Kollab
 
 ### Zugang und Benutzerkonten
 
-Derzeit befindet sich FieldMApp in einer **wissenschaftlichen Erprobungsphase**. Aus Gründen des Datenschutzes und zur Qualitätssicherung gilt:
+Derzeit befindet sich die FieldMApp in einer **wissenschaftlichen Erprobungsphase**. Aus Gründen des Datenschutzes und zur Qualitätssicherung gilt:
 
 - Nutzerkonten können **nicht frei erstellt werden**.
-- Ein Account wird **manuell vom FieldMApp-Team** eingerichtet und freigegeben.
-- Bei Interesse wende dich bitte direkt an das Projektteam über die offizielle Kontaktadresse.
+- Ein Account kann dennoch **manuell vom FieldMApp-Team** eingerichtet und freigegeben werden.
+- Bei Interesse bitte direkt über die E-Mail-Adresse `FieldMApp@dlr.de an das Projektteam wenden
 
 ---
 
 > **Hinweis**
-> Ohne Login kannst du die FieldMApp weiterhin für **lokale Erhebungen** nutzen – eine **Synchronisation mit dem Server** oder ein **Export über OGC API Features** ist dann jedoch nicht möglich.
+> Ohne Login kann die FieldMApp weiterhin für **lokal gespeicherte Daten-Erhebungen** genutzt werden – eine **Synchronisation mit dem FieldMApp-Server** oder ein **Export über OGC API Features** ist dann jedoch nicht möglich.
