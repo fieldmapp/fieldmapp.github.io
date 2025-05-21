@@ -20,7 +20,7 @@ Durch die Anmeldung ist es möglich:
   - Shapefile  
   - GeoJSON  
 
-- **Daten in GIS-Systeme integrieren ** z. B. in **QGIS** über die **OGC API Features** Schinttstelle.
+- **Daten in GIS Systeme integrieren ** z. B. in **QGIS** über die **OGC API Features** Schinttstelle.
 
 Diese Funktionen der FieldMApp ermöglichen die Nachbearbeitung, Integration in GIS-Prozessierungen und Team-Kollaboration im GIS-Umfeld.
 
@@ -41,5 +41,5 @@ Derzeit befindet sich die FieldMApp in einer **wissenschaftlichen Erprobungsphas
 
 ---
 
-> **Hinweis**
+> **Hinweis**  
 > Ohne Login kann die FieldMApp weiterhin für **lokal gespeicherte Daten-Erhebungen** genutzt werden – eine **Synchronisation mit dem FieldMApp-Server** oder ein **Export über OGC API Features** ist dann jedoch nicht möglich.
