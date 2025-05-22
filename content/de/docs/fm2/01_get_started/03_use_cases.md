@@ -26,3 +26,8 @@ Dieser Anwendungsfall zeigt die Integration verschiedener Datenprodukte im Map-M
 
 > **Verwendete Erweiterung**  
 > -  [**Reporting**](../02_components/06_extensions/reporting) Kartenerweiterung für monatliche Reports mit Wetter und Fernerkundungsparametern 
+
+## **Anwendungsfall:** Minderertragsfläche aufnehmen und bearbeiten
+
+Dieser Anwendungsfall zeigt, wie sich mit der FieldMApp Minderertragsflächen auf einem Feld schnell und präzise erfassen lassen. Die kartierten Flächen können direkt in der App bearbeitet und anschließend exportiert werden – etwa für die Weiterverarbeitung in QGIS. So fügt sich die App nahtlos in bestehende Datenanalyse-Workflows ein und beschleunigt die Feldauswertung.
+
