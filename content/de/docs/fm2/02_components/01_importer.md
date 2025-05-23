@@ -14,12 +14,12 @@ Die Dokumentation ist noch im Aufbau.
 
 ## Datentypen
 
-> Derzeit unterstützt das Import-Modul den Import von Vektordaten im Format `GeoJSON` im Koordinatensystem WGS84. Außerdem können Rasterdaten über OGC-konforme WMS- und Tile-Services eingebunden werden. Weitere Formate sind für zukünftige Versionen geplant.
+> Derzeit unterstützt das Import-Modul den Import von Vektordaten im Format `GeoJSON` im Koordinatensystem WGS84. Außerdem können Rasterdaten über [OGC](https://www.ogc.org/who-we-are/)-konforme [WMS](https://www.ogc.org/standards/wms/)- und [Tile-Services](https://www.ogc.org/standards/wmts/) eingebunden werden. Weitere Formate sind für zukünftige Versionen geplant.
 
 
 ### GeoJSON Importieren
 
-Dieses Tutorial zeigt, wie eine externe `GeoJSON`-Datei (`elbe_basin.geojson`) in die FieldMApp importiert und im Karten-Module visualisiert wird. 
+Dieses Tutorial zeigt, wie eine externe `GeoJSON`-Datei (`elbe_basin.geojson`) in die FieldMApp importiert und im Kartenmodule visualisiert wird. 
 
 <video width="640" height="480" controls>
   <source src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/add_geojson.mp4" type="video/mp4">
@@ -56,7 +56,7 @@ Tippe auf die Schaltfläche **+** (rechts unten). Es öffnet sich ein Auswahlfen
 Gib die URL des gewünschten WMS-Dienstes in das dafür vorgesehene Feld ein. Achte darauf, dass es sich um einen OGC-konformen Dienst handelt, sowie einen Name für den WMS-Layer.
 
 ##### 3. Layer und Zusatzinformation
-Gib den gewünschten Layer ein, welcher eingebunden werden soll. Eine Mehrfachnennung ist möglich als Komma-separiert Liste. Weiterhin wird die Version des WMS benötigt, üblicherweise `1.3.0`. Optional können verfügbare Styles definiert werden. Untersützt der Layer Transparenz kann diese durch den Schieberegeler aktiviert werden.
+Gib den gewünschten Layer ein, welcher eingebunden werden soll. Eine Mehrfachnennung ist möglich als kommagetrennte Liste. Weiterhin wird die Version des WMS benötigt, üblicherweise `1.3.0`. Optional können verfügbare Styles definiert werden. Unterstützt der Layer Transparenz kann diese durch den Schieberegeler aktiviert werden.
 
 ##### 4. In der Karte prüfen
 Öffne das Modul [**„Karte“**](../02_map#geodaten-visualiseren), um die eingebundenen WMS-Layer anzuzeigen. 
