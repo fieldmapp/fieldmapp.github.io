@@ -20,7 +20,7 @@ Die Dokumentation ist noch im Aufbau.
   <source src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/fm-reporting.mp4" type="video/mp4">
 </video>
 
-### 🗂️ Funktionsumfang (Beispielhafte Umsetzung)
+### Funktionen im Überblick
 
 ##### 1. Auswahl registrierter Flächen
 - Auf der Startseite des Moduls erscheinen alle registrierten Flächen (z. B. Felder, Schläge).
@@ -30,7 +30,7 @@ Die Dokumentation ist noch im Aufbau.
 - Ein aktueller Bericht enthält zeitlich aufbereitete Daten zu:
   - 🌡️ **Wetterdaten**:
     - Temperaturverlauf (Tagesmittel)
-    - Niederschlagsmengen (kumuliert pro Tag)
+    -  tägliche Niederschlagsmenge (in mm)
   - 🌿 **Fernerkundungsdaten**:
     - **NDVI** (Normalized Difference Vegetation Index): Gibt Auskunft über die Vitalität der Vegetation.
     - **Vitalitätsdifferenz**: Zeigt die Veränderung im Vegetationszustand im Vergleich zu einer Vorperiode.
