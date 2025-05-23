@@ -1,8 +1,8 @@
 ---
 title: "FieldMApp"
 weight: 1
-description: >-
-     Alles Relevante für Nutzerinnen und Nutzer der FieldMApp.
+description: >
+    Datenerhebung im Feld, Werkzeug zur Entscheidungsunterstützung, Mobiles GIS 
 ---
 
 {{% pageinfo %}}
