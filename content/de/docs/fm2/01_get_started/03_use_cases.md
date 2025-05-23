@@ -12,7 +12,7 @@ Die Dokumentation ist noch im Aufbau.
 ## **Anwendungsfall:** Datenbasierte Entscheidungsunterstützung 
 ### Minderertragsflächen mit historischen Wetter- und Fernerkundungsprodukten abgleichen
 
-Dieser Anwendungsfall zeigt die Integration verschiedener Datenprodukte im Map-Module, sowie im Reporting-Module der FieldMApp. Diese Integration ermöglicht eine fundierte, datenbasierte Entscheidungsunterstützung direkt innerhalb der App – beispielsweise durch die Analyse von Temperatur- und Niederschlagsverläufen während der Vegetationsperiode oder durch einen Überblick über die Entwicklung der Pflanzenvitalität zur Bewertung bereits durchgeführter Maßnahmen.
+Dieser Anwendungsfall zeigt die Integration verschiedener Datenprodukte im [Map-Module](../../02_components/02_map.md), sowie im [Reporting-Module](../../02_components/06_extensions/reporting) der FieldMApp. Diese Integration ermöglicht eine fundierte, datenbasierte Entscheidungsunterstützung direkt innerhalb der App – beispielsweise durch die Analyse von Temperatur- und Niederschlagsverläufen während der Vegetationsperiode oder durch einen Überblick über die Entwicklung der Pflanzenvitalität zur Bewertung bereits durchgeführter Maßnahmen.
 
 <video width="640" height="480" controls>
   <source src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/use_case1.mp4" type="video/mp4">
@@ -25,7 +25,7 @@ Dieser Anwendungsfall zeigt die Integration verschiedener Datenprodukte im Map-M
 > - `OSM` OpenStreetMap basierte Hintergrundkarte
 
 > **Verwendete Erweiterung**  
-> -  [**Reporting**](../02_components/06_extensions/reporting) Kartenerweiterung für monatliche Reports mit Wetter und Fernerkundungsparametern 
+> -  [**Reporting**](../../02_components/06_extensions/reporting) Kartenerweiterung für monatliche Reports mit Wetter und Fernerkundungsparametern 
 
 ## **Anwendungsfall:** Minderertragsfläche aufnehmen und bearbeiten
 
