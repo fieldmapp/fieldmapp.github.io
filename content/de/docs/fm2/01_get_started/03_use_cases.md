@@ -19,7 +19,7 @@ Dieser Anwendungsfall zeigt die Integration verschiedener Datenprodukte im Map-M
 </video>
 
 > **Verwendete Layer**
-> - `Alt-Tellin` mit dem [Feldaufnahme-Module](../02_components/03_recording/) aufgenommene Minderertragsflächen
+> - `Alt-Tellin` mit dem [Feldaufnahme-Module](../../02_components/03_recording/) aufgenommene Minderertragsflächen
 > - `Sentinel 2 EVI` Rasterdatenzeitreihe des Ehanced vegetation index auf Basis von Sentinel 2 Aufnahmen
 > - `DWD Bodenfeuchtekarte` [Rasterdatenzeitreihe](https://www.dwd.de/DE/fachnutzer/landwirtschaft/appl/bf_view/_node.html) (täglich) der Bodenfeuchte, bereitgestellt durch den deutschen Wetterdienst
 > - `OSM` OpenStreetMap basierte Hintergrundkarte
