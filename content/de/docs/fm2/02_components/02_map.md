@@ -2,30 +2,30 @@
 title: "Map"
 weight: 2
 description: >-
-     Die Karten und GIS Funktionalitäten der FieldMApp.
+     Die Karten- und GIS-Funktionalitäten der FieldMApp.
 ---
 
 {{% pageinfo %}}
 Die Dokumentation ist noch im Aufbau.
 {{% /pageinfo %}}
 
-> Das Map-Modul ist die geografische Informationssystem (GIS)-Komponente der FieldMApp und bietet leistungsstarke Werkzeuge zur Visualisierung, Bearbeitung und Erstellung räumlicher Daten im Feld. Mit einer intuitiven, für mobile Geräte optimierten Benutzeroberfläche ermöglicht dieses Modul Anwendern, mit verschiedenen Geodatenformaten zu arbeiten, ihre Position zu verfolgen und räumliche Analyseaufgaben direkt auf ihrem mobilen Gerät durchzuführen.
+> Das Modul "Karte" ist die geografische Informationssystem-(GIS-)Komponente der FieldMApp und bietet Werkzeuge zur Visualisierung, Bearbeitung und Erstellung räumlicher Daten im Feld. Mit einer intuitiven, für mobile Geräte optimierten Benutzeroberfläche ermöglicht dieses Modul Anwendern, mit verschiedenen Geodatenformaten zu arbeiten, ihre Position zu verfolgen und räumliche Analyseaufgaben direkt auf ihrem mobilen Gerät durchzuführen.
 
 > **Hauptfunktionen**
 > - [Multi-Layer-Visualisierung](#geodaten-visualiseren) - Darstellung verschiedener Datenformate wie Tile-Layer (OSM), Webdienste (WMS) und Vektordaten (GeoJSON)
-> - [Interaktive Bearbeitungswerkzeuge](#geodaten-bearbeiten) - Erstellung und Modifikation räumlicher Features mittels einfacher Berührungsgesten
-> - [Echtzeit-Positionsverfolgung](#positionanzeigen-und--folgen) - Anzeige des aktuellen Standorts mit Genauigkeitsinformationen und automatischer Bewegungsverfolgung
+> - [Interaktive Bearbeitungswerkzeuge](#geodaten-bearbeiten) - Erstellen und bearbeiten räumlicher Objekte mittels einfacher Berührungsgesten
+> - [Echtzeit-Positionsverfolgung](#positionanzeigen-und--folgen) - Anzeige des aktuellen Standorts samt Genauigkeitsinformationen und automatischer Bewegungsverfolgung
 > - [Ortssuche](#ortssuche) - Finden von Orten und Adressen über OpenStreetMap-basierte Suchfunktionalität
-> - [Zeitgesteuerte Layer](#3-niederschlagsradar-hinzufügen-dwd-wms) - Arbeit mit zeitlichen Daten wie Wetterradar mit intuitiver Zeitsteuerung
+> - [Layer mit Zeitsteuerung](#3-niederschlagsradar-hinzufügen-dwd-wms) - Arbeit mit Zeitreihendaten wie Wetterradardaten mit intuitiver Steuerung
 
-> Ob Sie Felddaten sammeln, in unbekanntem Gelände navigieren oder räumliche Muster vor Ort analysieren – das Map-Modul bietet alle wesentlichen GIS-Funktionen, optimiert für die mobile Feldarbeit.
+> Egal ob Felddaten gesammelt, in unbekanntem Gelände navigiert oder räumliche Muster vor Ort analysiert werden sollen – das Karten-Modul bietet alle wesentlichen GIS-Funktionen, optimiert für die mobile Feldarbeit.
 
 > **Map-Erweiterungen:**
 > - [**Reporting**](../06_extensions/reporting) Kartenerweiterung für monatliche Reports mit Wetter- und Fernerkundungsparametern 
 
 ## Geodaten visualisieren
 
-Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der mobilen Anwendung geladen und visualisiert werden können. Im Beispiel werden drei Layer eingebunden:
+Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der FieldMApp geladen und visualisiert werden können. Im Beispiel werden drei Layer eingebunden:
 
 - OpenStreetMap (OSM) – als Hintergrundkarte zur Orientierung.
 - DWD-Niederschlagsradar (WMS) – aktuelle Wetterdaten mit Zeitsteuerung.
@@ -39,22 +39,22 @@ Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der mobilen Anwendung gelad
 #### **Schritt-für-Schritt-Anleitung**
 
 ##### 1. Start des GIS-Moduls
-- Öffne die App und navigiere zum GIS-Modul > Navigationsleiste *Karte*.
-- Du siehst eine leere Karte mit Werkzeugleiste.
+- Öffne die FieldMApp und tippe in der Navigationsleiste *Karte* an, um das GIS-Modul zu öffnen.
+- Eine leere Karte mit Werkzeugleiste erscheint.
 
 ##### 2. Hintergrundkarte laden: OpenStreetMap (Tilelayer)
-- Tippe auf das **Layer hinzufügen** (Symbol: Stapel).
-- Wähle aus der Liste **OpenStreetMap**.
-- Die Hintergrundkarte erscheint zur besseren räumlichen Orientierung.
+- Tippe auf das den Button  **Layer hinzufügen**, um das gleichnamige Menü zu öffnen. (Symbol: Stapel).
+- Wähle aus der Liste **OpenStreetMap** aus.
+- Die Hintergrundkarte erscheint und ermöglicht eine räumliche Orientierung.
 
 ##### 3. Niederschlagsradar hinzufügen (DWD, WMS)
-- Erneut das **Layer hinzufügen** öffnen.
-- Wähle aus der Liste **DWD Niederschlagsradar**.
+- Tippe auf das den Button  **Layer hinzufügen**, um das gleichnamige Menü zu öffnen.
+- Wähle aus der Liste **DWD Niederschlagsradar** aus.
 - Im Menü des Layers erscheint die Option für **Zeitsteuerung**, mit dem du verschiedene Zeitpunkte auswählen kannst.
 
 ##### 4. GeoJSON laden: Elbeeinzugsgebiet
-- Erneut das **Layer hinzufügen** öffnen.
-- Wähle aus der Liste  `elbe_basin.geojson`
+- Tippe auf das den Button  **Layer hinzufügen**, um das gleichnamige Menü zu öffnen..
+- Wähle aus der Liste  `elbe_basin.geojson` aus.
 - Die Geometrien werden dargestellt
 - Durch Antippen einzelner Flächen erhältst du die zugehörigen Metadaten (z. B. Name, Fläche, ID).
 
