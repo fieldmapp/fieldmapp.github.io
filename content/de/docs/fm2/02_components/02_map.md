@@ -23,6 +23,8 @@ Die Dokumentation ist noch im Aufbau.
 > **Map-Erweiterungen:**
 > - [**Reporting**](../06_extensions/reporting) Kartenerweiterung für monatliche Reports mit Wetter- und Fernerkundungsparametern 
 
+<hr>
+
 ## Geodaten visualisieren
 
 Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der FieldMApp geladen und visualisiert werden können. Im Beispiel werden drei Layer eingebunden:
@@ -50,13 +52,13 @@ Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der FieldMApp geladen und v
 ##### 3. Niederschlagsradar hinzufügen (DWD, WMS)
 - Tippe auf das den Button  **Layer hinzufügen**, um das gleichnamige Menü zu öffnen.
 - Wähle aus der Liste **DWD Niederschlagsradar** aus.
-- Im Menü des Layers erscheint die Option für **Zeitsteuerung**, mit dem du verschiedene Zeitpunkte auswählen kannst.
+- Im Menü des Layers erscheint die Option zur **Zeitsteuerung**, mit der Zeitpunkte jeweils durch Antippen aus der Liste ausgewählt werden können.
 
 ##### 4. GeoJSON laden: Elbeeinzugsgebiet
 - Tippe auf das den Button  **Layer hinzufügen**, um das gleichnamige Menü zu öffnen..
 - Wähle aus der Liste  `elbe_basin.geojson` aus.
-- Die Geometrien werden dargestellt
-- Durch Antippen einzelner Flächen erhältst du die zugehörigen Metadaten (z. B. Name, Fläche, ID).
+- Die Geometrien (Punkte, Linien oder Flächen) werden in der Kartenansicht dargestellt.
+  Durch Antippen einzelner Geometrien werden die zugehörigen Metadaten (z. B. Name, Fläche, ID) angezeigt.
 
 ##### 5. Interaktive Funktionen nutzen
 - Zoomen, Verschieben, Layer-Reihenfolge ändern.
