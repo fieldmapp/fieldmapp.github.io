@@ -46,19 +46,19 @@ Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der FieldMApp geladen und v
 
 ##### 2. Hintergrundkarte laden: OpenStreetMap (Tile-Layer)
 - Tippe auf das den Button  **Layer hinzufügen**, um das gleichnamige Menü zu öffnen. (Symbol: Stapel).
-- Wähle aus der Liste **OpenStreetMap** aus.
+- Wähle aus der Liste `OpenStreetMap` aus.
 - Die Hintergrundkarte erscheint und ermöglicht eine räumliche Orientierung.
 
 ##### 3. Niederschlagsradar hinzufügen (DWD, WMS)
 - Tippe auf das den Button  **Layer hinzufügen**, um das gleichnamige Menü zu öffnen.
-- Wähle aus der Liste **DWD Niederschlagsradar** aus.
+- Wähle aus der Liste `DWD Niederschlagsradar` aus.
 - Im Menü des Layers erscheint die Option zur **Zeitsteuerung**, mit der Zeitpunkte jeweils durch Antippen aus der Liste ausgewählt werden können.
 
 ##### 4. GeoJSON laden: Elbeeinzugsgebiet
-- Tippe auf das den Button  **Layer hinzufügen**, um das gleichnamige Menü zu öffnen..
+- Tippe auf das den Button  **Layer hinzufügen**, um das gleichnamige Menü zu öffnen.
 - Wähle aus der Liste den Vektordatensatz `elbe_basin.geojson` aus.
-- Die Geometrien (Punkte, Linien oder Flächen) werden in der Kartenansicht dargestellt.
-  Durch Antippen einzelner Geometrien werden die zugehörigen Metadaten (z. B. Name, Fläche, ID) angezeigt.
+- Die Features (Punkte, Linien oder Flächen) des Vektordatensatzes werden in der Kartenansicht dargestellt.
+  Durch Antippen einzelner Features werden die zugehörigen Metadaten (z. B. Name, Fläche, ID) angezeigt.
 
 ##### 5. Interaktive Funktionen nutzen
 - Zoomen, Verschieben, Layer-Reihenfolge ändern.
@@ -70,7 +70,7 @@ Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der FieldMApp geladen und v
 
 ## Geodaten bearbeiten
 
-Dieses Tutorial zeigt die Bearbeitung eines Vektordatensatzes. Als Beispieldatensatz wird hierfür der Vektordatensatz `elbe_basin.geojson` geladen und mithilfe des OpenStreetMap Hintergrund-Layers bearbeitet.
+Dieses Tutorial zeigt die Bearbeitung eines Vektordatensatzes. Hierfür wird der Vektordatensatz `elbe_basin.geojson` geladen und auf Basis des OpenStreetMap Hintergrund-Layers bearbeitet.
 
 <video width="640" height="480" controls>
   <source src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/fm_gis_module_edt.mp4" type="video/mp4">
@@ -80,16 +80,16 @@ Dieses Tutorial zeigt die Bearbeitung eines Vektordatensatzes. Als Beispieldaten
 #### **Schritt-für-Schritt-Anleitung**
 
 ##### 1. Laden des GeoJSON-Datensatzes und des Hintergrundlayers
--  siehe Anleitung [*Geodaten visualiseren*](#4-geojson-laden-elbeeinzugsgebiet)
+-  Siehe Anleitung [*Geodaten visualiseren*](#4-geojson-laden-elbeeinzugsgebiet)
 
 ##### 2. Bearbeitungsmodus starten
-- Tippe auf das Feature (z. B. Polygon), das du bearbeiten möchtest, um es **zu selektieren**.
-- **Halte das selektierte Feature gedrückt (Long Press)**, um den Bearbeitungsmodus zu starten.
-- Die Geometrie wird jetzt editierbar (z. B. Eckpunkte verschieben).
+- Auf das Feature in der Kartenansicht tippen, das bearbeitet werden soll (hier z. B. eine Polylinie, die einen Flussabschnitt abbildet), um dieses **auszuwählen**.
+- **Das ausgewählte Feature gedrückt halten (Long Press)**, um den Bearbeitungsmodus zu starten.
+- Die Geometrie wird dadurch editierbar (dh., es können z. B. Eckpunkte verschoben werden).
 
 ##### 3. Änderungen vornehmen
 - Verschiebe Eckpunkte oder forme die Geometrie wie gewünscht um.
-- Bestätige die Änderungen durch einen Klick auf **„Speichern“** oder das entsprechende Symbol in der Werkzeugleiste (rechts)
+- Bestätige die Änderungen durch Antippen von **[Speichern]** oder das entsprechende Symbol in der Werkzeugleiste (rechts).
 
 
 <hr>
