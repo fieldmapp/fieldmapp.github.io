@@ -44,7 +44,7 @@ Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der FieldMApp geladen und v
 - Öffne die FieldMApp und tippe in der Navigationsleiste *Karte* an, um das GIS-Modul zu öffnen.
 - Eine leere Karte mit Werkzeugleiste erscheint.
 
-##### 2. Hintergrundkarte laden: OpenStreetMap (Tilelayer)
+##### 2. Hintergrundkarte laden: OpenStreetMap (Tile-Layer)
 - Tippe auf das den Button  **Layer hinzufügen**, um das gleichnamige Menü zu öffnen. (Symbol: Stapel).
 - Wähle aus der Liste **OpenStreetMap** aus.
 - Die Hintergrundkarte erscheint und ermöglicht eine räumliche Orientierung.
@@ -70,7 +70,7 @@ Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der FieldMApp geladen und v
 
 ## Geodaten bearbeiten
 
-Dieses Tutorial zeigt die Bearbeitung eines Vektordatensatzes, hierfür Laden wir den `elbe_basin.geojson` Datensatz und bearbeiten diesen Mithilfe des OpenStreetMap Hintergrund-Layers.
+Dieses Tutorial zeigt die Bearbeitung eines Vektordatensatzes. Als Beispieldatensatz wird hierfür der Vektordatensatz `elbe_basin.geojson` geladen und mithilfe des OpenStreetMap Hintergrund-Layers bearbeitet.
 
 <video width="640" height="480" controls>
   <source src="https://github.com/fieldmapp/fieldmapp.github.io/raw/refs/heads/master/assets/video/fm_gis_module_edt.mp4" type="video/mp4">
