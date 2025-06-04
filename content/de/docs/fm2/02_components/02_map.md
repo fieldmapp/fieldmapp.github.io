@@ -12,7 +12,7 @@ Die Dokumentation ist noch im Aufbau.
 > Das Modul "Karte" ist die geografische Informationssystem-(GIS-)Komponente der FieldMApp und bietet Werkzeuge zur Visualisierung, Bearbeitung und Erstellung räumlicher Daten im Feld. Mit einer intuitiven, für mobile Geräte optimierten Benutzeroberfläche ermöglicht dieses Modul Anwendern, mit verschiedenen Geodatenformaten zu arbeiten, ihre Position zu verfolgen und räumliche Analyseaufgaben direkt auf ihrem mobilen Gerät durchzuführen.
 
 > **Hauptfunktionen**
-> - [Multi-Layer-Visualisierung](#geodaten-visualiseren) - Darstellung verschiedener Datenformate wie Tile-Layer (OSM), Webdienste (WMS) und Vektordaten (GeoJSON)
+> - [Multi-Layer-Visualisierung](#geodaten-visualisieren) - Darstellung verschiedener Datenformate wie Tile-Layer (OSM), Webdienste (WMS) und Vektordaten (GeoJSON)
 > - [Interaktive Bearbeitungswerkzeuge](#geodaten-bearbeiten) - Erstellen und bearbeiten räumlicher Objekte mittels einfacher Berührungsgesten
 > - [Echtzeit-Positionsverfolgung](#positionanzeigen-und--folgen) - Anzeige des aktuellen Standorts samt Genauigkeitsinformationen und automatischer Bewegungsverfolgung
 > - [Ortssuche](#ortssuche) - Finden von Orten und Adressen über OpenStreetMap-basierte Suchfunktionalität
@@ -56,7 +56,7 @@ Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der FieldMApp geladen und v
 
 ##### 4. GeoJSON laden: Elbeeinzugsgebiet
 - Tippe auf das den Button  **Layer hinzufügen**, um das gleichnamige Menü zu öffnen..
-- Wähle aus der Liste  `elbe_basin.geojson` aus.
+- Wähle aus der Liste den Vektordatensatz `elbe_basin.geojson` aus.
 - Die Geometrien (Punkte, Linien oder Flächen) werden in der Kartenansicht dargestellt.
   Durch Antippen einzelner Geometrien werden die zugehörigen Metadaten (z. B. Name, Fläche, ID) angezeigt.
 
