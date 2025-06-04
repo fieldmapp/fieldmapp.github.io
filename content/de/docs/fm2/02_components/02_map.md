@@ -57,8 +57,8 @@ Dieses Tutorial zeigt, wie Geodaten in das GIS-Modul der FieldMApp geladen und v
 ##### 4. GeoJSON laden: Elbeeinzugsgebiet
 - Tippe auf das den Button  **Layer hinzufügen**, um das gleichnamige Menü zu öffnen.
 - Wähle aus der Liste den Vektordatensatz `elbe_basin.geojson` aus.
-- Die Features (Punkte, Linien oder Flächen) des Vektordatensatzes werden in der Kartenansicht dargestellt.
-  Durch Antippen einzelner Features werden die zugehörigen Metadaten (z. B. Name, Fläche, ID) angezeigt.
+- Die Geometrien (Punkte, Polyinien oder Flächen) des Vektordatensatzes werden in der Kartenansicht dargestellt.
+  Durch Antippen einzelner Geometrien werden die zugehörigen Metadaten (z. B. Name, Fläche, ID) angezeigt.
 
 ##### 5. Interaktive Funktionen nutzen
 - Zoomen, Verschieben, Layer-Reihenfolge ändern.
@@ -83,13 +83,13 @@ Dieses Tutorial zeigt die Bearbeitung eines Vektordatensatzes. Hierfür wird der
 -  Siehe Anleitung [*Geodaten visualiseren*](#4-geojson-laden-elbeeinzugsgebiet)
 
 ##### 2. Bearbeitungsmodus starten
-- Auf das Feature in der Kartenansicht tippen, das bearbeitet werden soll (hier z. B. eine Polylinie, die einen Flussabschnitt abbildet), um dieses **auszuwählen**.
-- **Das ausgewählte Feature gedrückt halten (Long Press)**, um den Bearbeitungsmodus zu starten.
+- Auf die Geometrie in der Kartenansicht tippen, die bearbeitet werden soll, um dieses **auszuwählen** (hier z. B. eine Polylinie, die einen Flussabschnitt abbildet).
+- **Die ausgewählte Geometrie gedrückt halten (Long Press)**, um den Bearbeitungsmodus zu starten.
 - Die Geometrie wird dadurch editierbar (dh., es können z. B. Eckpunkte verschoben werden).
 
 ##### 3. Änderungen vornehmen
-- Verschiebe Eckpunkte oder forme die Geometrie wie gewünscht um.
-- Bestätige die Änderungen durch Antippen von **[Speichern]** oder das entsprechende Symbol in der Werkzeugleiste (rechts).
+- Verschiebe bestehende Eckpunkte (Punkte mit quadartischem Rahmen) oder füge neue Eckpunkte zur Geometrie hinzu, um diese wie gewünscht umzuformen.
+- Bestätige die Änderungen durch Antippen von **Speichern** oder das entsprechende Symbol in der Werkzeugleiste (rechts).
 
 
 <hr>
