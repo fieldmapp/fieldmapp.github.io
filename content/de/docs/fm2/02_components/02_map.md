@@ -96,7 +96,7 @@ Dieses Tutorial zeigt die Bearbeitung eines Vektordatensatzes. Als Beispieldaten
 
 ## Neue Geodaten erstellen
 
-Dieses Tutorial zeigt das Hinzufügen eines Features zu einem existierenden Vektordatensatz, hierfür Laden wir den `elbe_basin.geojson` Datensatz und erstellen eine neue Polyline.
+Dieses Tutorial zeigt das Hinzufügen eines Objektes zu einem existierenden Vektordatensatz. Als Beispieldatensatz wird hierfür der Vektordatensatz `elbe_basin.geojson` geladen und mithilfe des OpenStreetMap Hintergrund-Layers bearbeitet.
 
 
 <video width="640" height="480" controls>
@@ -107,10 +107,10 @@ Dieses Tutorial zeigt das Hinzufügen eines Features zu einem existierenden Vekt
 #### **Schritt-für-Schritt-Anleitung**
 
 ##### 1. Laden des GeoJSON-Datensatzes und des Hintergrundlayers
--  siehe Anleitung [*Geodaten visualiseren*](#4-geojson-laden-elbeeinzugsgebiet)
+-  Siehe Anleitung [*Geodaten visualiseren*](#4-geojson-laden-elbeeinzugsgebiet)
 
 ##### 2. Bearbeitungsmodus starten
-- gewünschte Geometrieart in der Werkzeugleiste (rechts) auswählen mögliche Wahl zwischen Polyline, Polygon oder Punkt
+- Gewünschte Geometrieart in der Werkzeugleiste (rechts) auswählen mögliche Wahl zwischen Polyline, Polygon oder Punkt
 
 ##### 3. Änderungen vornehmen
 - Verschiebe Eckpunkte oder forme die Geometrie wie gewünscht um.
