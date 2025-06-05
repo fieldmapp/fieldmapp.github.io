@@ -2,8 +2,9 @@
 title: "Eine Minderertragsfläche kartieren"
 weight: 1
 description: >-
-     Benutzerdokumentation für das Kartieren von Minderertragsflächen.
+     Benutzerdokumentation für das Kartieren von Flächeninformationen wie z.B. Minderertragsflächen.
 ---
+Ein häufiger Anwendungsfall für dieses Modul ist:
 
 - Es sollen digitale Karten von Minderertragsflächen und deren Ursachen erstellt werden
 - Ich fahre über das Feld und markiere Beginn und Ende von Minderertragsflächen links und rechts meiner Fahrspur

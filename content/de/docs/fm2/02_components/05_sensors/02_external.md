@@ -7,11 +7,11 @@ description: >-
 
 # DGNSS
 > **Hinweis**  
-> DGNSS ist eine Technologie, um eine höhere Positionsgenauigkeit zu erzielen. Dabei werden zusätzlich zu den Satellitensignalen (*GNSS*) noch differenzielle Korrekturdaten über das Internet empfangen. Bei der in der FieldMApp verwendeten **RTK** Korrektur erfolgt die Anwendung der Korrekturdaten in Echtzeit.
+> DGNSS (*Differentielles* GNSS) ist eine Technologie, um eine höhere Positionsgenauigkeit zu erzielen. Dabei werden zusätzlich zu den GNSS-Signalen (*GNSS* Global Navigation Satellite System, ist ein Sammelbegriff für Satellitennavigationssysteme) noch differenzielle Korrekturdaten über das Internet empfangen. Bei der in der FieldMApp verwendeten **RTK** Korrektur erfolgt die Anwendung der Korrekturdaten in Echtzeit.
 
 Es ist empfohlen, einen externen GNSS Empfänger mit externen Korrekturdaten zu verwenden um eine höhere Positionsgenauigkeit zu erzielen. Derzeit ist ein über USB verbundener **u-blox F9P** Empfänger unterstützt. Es kann derzeit **ausschließlich auf Android-Geräten** eingesetzt werden.
 
-Folgende Schritte sind erforderlich:
+Im Folgenden werden die benötigten Schritte beschrieben.
 
 ## Empfänger verbinden
 Der externe Empfänger muss mit einem USB-C zu USB-A Adapterkabel mit dem Tablet verbunden werden. Die Antenne muss mus mit dem Empfänger verbunden werden und mit freier Sicht auf den Himmel platziert werden.
@@ -40,8 +40,10 @@ In dem Bedienelement zur Positionsbestimmung können verschiedene Statusinformat
 
 *Statusinformationen der RTK Verbindung* 
 
-## Hardware
+## Unterstützte Hardware
 ### Empfänger
+ - [u-blox F9P USB-Modul](https://gnss.store/zed-f9p-gnss-modules/126-elt0110.html)
 ### Antenne
+ - [u-blox ANN-MB Series](https://www.u-blox.com/en/product/ann-mb-series)
 
 
